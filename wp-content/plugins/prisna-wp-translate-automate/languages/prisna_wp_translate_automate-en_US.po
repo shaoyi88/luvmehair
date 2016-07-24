@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prisna WP Translate Automate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-15 16:51+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Prisna\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_\n"
+"X-Poedit-SearchPath-0: /wp-content/plugins/prisna-wp-translate-automate"
+"plugins/prisna-wp-translate-automate\n"
+
+#: /languages/po.php:6
+msgid "Prisna Translate Automate"
+msgstr ""
+
+#: /languages/po.php:7
+msgid "General"
+msgstr ""
+
+#: /languages/po.php:8
+msgid "Settings"
+msgstr ""
+
+#: /languages/po.php:9
+msgid "Invalid API key"
+msgstr ""
+
+#: /languages/po.php:10
+msgid "Language"
+msgstr ""
+
+#: /languages/po.php:11
+msgid "Selects a language to translate the specified resources below."
+msgstr ""
+
+#: /languages/po.php:12
+msgid "Sitemap URL"
+msgstr ""
+
+#: /languages/po.php:13
+msgid ""
+"Specifies the location of the sitemap. If the website doesn't currently have "
+"a sitemap, there are a number of plugins to create one:<br/><br /><a href="
+"\"https://wordpress.org/plugins/search.php?q=sitemap\" target=\"_blank"
+"\">https://wordpress.org/plugins/search.php?q=sitemap</a>"
+msgstr ""
+
+#: /languages/po.php:14
+#: /languages/po.php:25
+msgid "URL list"
+msgstr ""
+
+#: /languages/po.php:15
+msgid ""
+"Defines a list of the URLs to be automatically translated. One URL per line. "
+"URLs can be either absolute or relative path."
+msgstr ""
+
+#: /languages/po.php:16
+#: /languages/po.php:26
+msgid "Category"
+msgstr ""
+
+#: /languages/po.php:17
+msgid "Specifies a category to select the resources to translate."
+msgstr ""
+
+#: /languages/po.php:18
+msgid "Already translated URL behavior"
+msgstr ""
+
+#: /languages/po.php:19
+msgid ""
+"Sets what kind of operation will be performed if a URL has been translated "
+"before. If <em>re-translate</em> is selected, then only non translated "
+"strings will translated."
+msgstr ""
+
+#: /languages/po.php:20
+msgid "Re-translate"
+msgstr ""
+
+#: /languages/po.php:21
+msgid "Skip"
+msgstr ""
+
+#: /languages/po.php:22
+msgid "Resources"
+msgstr ""
+
+#: /languages/po.php:23
+msgid ""
+"Sets what kind of source will be used identify the list of URLs to translate."
+msgstr ""
+
+#: /languages/po.php:24
+msgid "Sitemap"
+msgstr ""
+
+#: /languages/po.php:27
+msgid "<span style=\"color: red;\">Message for \"[0]\" not found!</span>"
+msgstr ""

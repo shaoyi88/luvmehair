@@ -1,0 +1,1 @@
+{{ loc }};{{ priority }};{{ changefreq }};{{ lastmod }}

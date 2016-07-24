@@ -1,0 +1,53 @@
+#wp_keyword_tool_more{
+	
+}
+
+#wp_keyword_tool_body {
+	display: none;
+}
+
+#wp_keyword_tool_search_txt {
+	width:60%;
+	
+}
+
+.wp_keyword_tool_itms {
+	border: 1px dashed #CCCCFF;
+	border-radius: 3px 3px 3px 3px;
+	margin-bottom: 10px;
+	padding: 5px;
+	color: #798E94;
+}
+
+.wp_keyword_tool_itm input[type="checkbox"] { //
+	margin-right: 5px; //
+	float: left;
+}
+
+#wp_keyword_tool_keywords {
+	margin: 4px 0 5px 1px;
+    padding: 5px;
+}
+
+wp_keyword_tool_keywords_wrap{
+	
+}
+
+.wp_keyword_tool_keyword {
+	float: left;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.wp_keyword_tool_volume {
+	float: right;
+}
+
+.noborder {
+	
+}
+
+.wp_keyword_tool_count,.wp_keyword_tool_keyword_status{
+font-size: 17px;
+font-weight: bold;   
+}

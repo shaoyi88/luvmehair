@@ -1,0 +1,35 @@
+/*------------------------------------------------------------------------
+# Modern WP Admin - June 10, 2013
+# ------------------------------------------------------------------------
+# Handcrafted by WPPrime
+# Websites:  http://www.wpprime.com -  Email: info@wpprime.com
+--------------------------------------------------------------------------*/
+
+#wpadminbar,
+#wpadminbar .ab-top-menu > li:hover > .ab-item,
+#wpadminbar .ab-top-menu > li.hover > .ab-item,
+#wpadminbar .ab-top-menu > li > .ab-item:focus,
+#wpadminbar.nojq .quicklinks .ab-top-menu > li > .ab-item:focus,
+#wpadminbar.nojs .ab-top-menu > li.menupop:hover > .ab-item,
+#wpadminbar .ab-top-menu > li.menupop.hover > .ab-item,
+#wpadminbar .quicklinks .menupop .ab-item:focus,
+#wpadminbar .quicklinks .ab-top-menu .menupop .ab-item:focus {
+	background: #A200FF;
+}
+#wp-admin-bar-updates .ab-label,
+#wp-admin-bar-comments .ab-label {
+	background: #C00
+}
+
+#wpadminbar .quicklinks .menupop ul li a,
+#wpadminbar .quicklinks .menupop ul li a strong,
+#wpadminbar .quicklinks .menupop.hover ul li a,
+#wpadminbar.nojs .quicklinks .menupop:hover ul li a {
+	color: #333
+}
+
+/* Auto-folding of the admin menu */
+@media only screen and (max-width: 900px) {
+	#adminmenu .wp-submenu .wp-submenu-head,
+	#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head {background: #A200FF;}
+}

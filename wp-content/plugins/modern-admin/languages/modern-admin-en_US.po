@@ -1,0 +1,364 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Modern Admin v1.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-09-03 06:36:59+0000\n"
+"Last-Translator: admin <admin@admin.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/admin_bar.php:21
+#: includes/dashboard_icons.php:26
+#: includes/dashboard_icons.php:45
+#: includes/login_screen.php:16
+#: includes/menu_icons.php:14
+#: includes/settings.php:24
+#@ modern-admin
+msgid "Settings Updated"
+msgstr ""
+
+#: includes/admin_bar.php:244
+#: includes/dashboard_icons.php:102
+#: includes/dashboard_icons.php:152
+#: includes/login_screen.php:204
+#: includes/menu_icons.php:63
+#: includes/settings.php:241
+#@ modern-admin
+msgid "Save Changes"
+msgstr ""
+
+#: includes/menu_icons.php:26
+#@ modern-admin
+msgid "Menu Icons"
+msgstr ""
+
+#: includes/settings.php:53
+#@ modern-admin
+msgid "Choose color"
+msgstr ""
+
+#: includes/settings.php:57
+#@ modern-admin
+msgid "Default"
+msgstr ""
+
+#: includes/settings.php:62
+#@ modern-admin
+msgid "Red"
+msgstr ""
+
+#: includes/settings.php:67
+#@ modern-admin
+msgid "Yellow"
+msgstr ""
+
+#: includes/settings.php:72
+#@ modern-admin
+msgid "Green"
+msgstr ""
+
+#: includes/settings.php:83
+#@ modern-admin
+msgid "Custom"
+msgstr ""
+
+#: includes/settings.php:182
+#@ modern-admin
+msgid "Admin Logo Image"
+msgstr ""
+
+#: includes/settings.php:190
+#@ modern-admin
+msgid "Admin Logo Text"
+msgstr ""
+
+#: includes/login_screen.php:147
+#: includes/settings.php:197
+#@ modern-admin
+msgid "Logo URL"
+msgstr ""
+
+#: includes/login_screen.php:115
+#@ modern-admin
+msgid "Logo Image"
+msgstr ""
+
+#: includes/login_screen.php:126
+#@ modern-admin
+msgid "Logo Text"
+msgstr ""
+
+#: includes/login_screen.php:136
+#@ modern-admin
+msgid "Logo Title"
+msgstr ""
+
+#: includes/admin_bar.php:245
+#: includes/dashboard_icons.php:103
+#: includes/dashboard_icons.php:153
+#: includes/login_screen.php:205
+#: includes/menu_icons.php:64
+#: includes/settings.php:242
+#@ modern-admin
+msgid "Reset"
+msgstr ""
+
+#: modern-admin.php:499
+#@ modern-admin
+msgid "Powered by WordPress"
+msgstr ""
+
+#: modern-admin.php:510
+#@ modern-admin
+msgid "http://wordpress.org"
+msgstr ""
+
+#: includes/settings.php:46
+#@ modern-admin
+msgid "Settings"
+msgstr ""
+
+#: includes/settings.php:49
+#@ modern-admin
+msgid "Color"
+msgstr ""
+
+#: includes/settings.php:178
+#@ modern-admin
+msgid "Admin logo"
+msgstr ""
+
+#: includes/settings.php:77
+#@ modern-admin
+msgid "Purple"
+msgstr ""
+
+#: includes/dashboard_icons.php:108
+#@ modern-admin
+msgid "Note: If you could not see some dashboard widgets, please enter to Dashboard Home then return and set icons for them!"
+msgstr ""
+
+#: includes/admin_bar.php:28
+#: includes/dashboard_icons.php:52
+#: includes/dashboard_icons.php:59
+#: includes/login_screen.php:23
+#: includes/menu_icons.php:21
+#@ modern-admin
+msgid "Reset Ok"
+msgstr ""
+
+#: includes/login_screen.php:29
+#@ modern-admin
+msgid "Login Screen Setting"
+msgstr ""
+
+#: includes/login_screen.php:108
+#@ modern-admin
+msgid "Login Form"
+msgstr ""
+
+#: includes/login_screen.php:157
+#@ modern-admin
+msgid "Remove Remember Me"
+msgstr ""
+
+#: includes/login_screen.php:168
+#@ modern-admin
+msgid "Remove Lost Password Link"
+msgstr ""
+
+#: includes/login_screen.php:179
+#@ modern-admin
+msgid "Remove Back to.... Link"
+msgstr ""
+
+#: includes/login_screen.php:188
+#@ modern-admin
+msgid "Footer"
+msgstr ""
+
+#: includes/login_screen.php:195
+#: includes/settings.php:211
+#@ modern-admin
+msgid "Footer Text"
+msgstr ""
+
+#: includes/settings.php:9
+#@ modern-admin
+msgid "Reset successfully"
+msgstr ""
+
+#: includes/settings.php:32
+#@ modern-admin
+msgid "Reset ok"
+msgstr ""
+
+#: includes/settings.php:207
+#@ modern-admin
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/settings.php:218
+#@ modern-admin
+msgid "Footer Version"
+msgstr ""
+
+#: includes/settings.php:244
+#@ modern-admin
+msgid "Reset All Settings"
+msgstr ""
+
+#: modern-admin.php:595
+#, php-format
+#@ modern-admin
+msgid "Howdy, %1$s"
+msgstr ""
+
+#: modern-admin.php:800
+#@ modern-admin
+msgid "Thank you for creating with <a href=\"http://wordpress.org/\">WordPress</a>."
+msgstr ""
+
+#: includes/login_screen.php:37
+#@ modern-admin
+msgid "Enable custom login screen"
+msgstr ""
+
+#: includes/login_screen.php:47
+#@ modern-admin
+msgid "Background"
+msgstr ""
+
+#: includes/login_screen.php:54
+#@ modern-admin
+msgid "Background Image"
+msgstr ""
+
+#: includes/login_screen.php:65
+#@ modern-admin
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/login_screen.php:81
+#@ modern-admin
+msgid "Background Color"
+msgstr ""
+
+#: includes/login_screen.php:90
+#@ modern-admin
+msgid "Background Position"
+msgstr ""
+
+#: includes/settings.php:226
+#@ modern-admin
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/settings.php:230
+#@ modern-admin
+msgid "Your CSS"
+msgstr ""
+
+#: includes/dashboard_icons.php:65
+#@ modern-admin
+msgid "Dashboard Settings"
+msgstr ""
+
+#: includes/dashboard_icons.php:81
+#@ modern-admin
+msgid "Title"
+msgstr ""
+
+#: includes/dashboard_icons.php:88
+#@ modern-admin
+msgid "Content"
+msgstr ""
+
+#: includes/dashboard_icons.php:89
+#@ modern-admin
+msgid "(Text or HTML content)"
+msgstr ""
+
+#: includes/settings.php:164
+#@ modern-admin
+msgid "Admin menu"
+msgstr ""
+
+#: includes/settings.php:172
+#@ modern-admin
+msgid "Hover to show submenu"
+msgstr ""
+
+#: includes/import-export.php:21
+#@ modern-admin
+msgid "There are somethings wrong"
+msgstr ""
+
+#: includes/import-export.php:30
+#@ modern-admin
+msgid "Import/Export Settings"
+msgstr ""
+
+#: includes/import-export.php:33
+#@ modern-admin
+msgid "Import"
+msgstr ""
+
+#: includes/import-export.php:38
+#@ modern-admin
+msgid "Import Your Settings"
+msgstr ""
+
+#: includes/import-export.php:51
+#@ modern-admin
+msgid "Export"
+msgstr ""
+
+#: includes/import-export.php:55
+#@ modern-admin
+msgid "Export Your Settings"
+msgstr ""
+
+#: includes/import-export.php:68
+#@ modern-admin
+msgid "Save To File"
+msgstr ""
+
+#: includes/import-export.php:12
+#@ modern-admin
+msgid "Import Successfully. Please wait few seconds to load data."
+msgstr ""
+
+#: includes/license.php:40
+#@ modern-admin
+msgid "License"
+msgstr ""
+
+#: includes/license.php:46
+#@ modern-admin
+msgid "License Key"
+msgstr ""
+
+#: includes/license.php:52
+#@ modern-admin
+msgid "Status"
+msgstr ""
+
+#: includes/license.php:60
+#@ modern-admin
+msgid "Submit"
+msgstr ""
+

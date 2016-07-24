@@ -1,0 +1,87 @@
+@charset "utf-8";
+body,html,h1,h2,h3,h4,h5,h6,p,ul,ol,li,dl,dt,dd,th,td,form,object,iframe,blockquote,pre,a,abbr,address,code,img,fieldset,form,label,figure{margin:0;padding:0;}
+body,html,input,button,textarea{color:#666;font:12px/1.8 Arial,Tahoma,Verdana,Helvetica,sans-serif;}
+article,aside,figcaption,figure,footer,header,hgroup,main,nav,section{display:block;}
+body{background:#eff0f4;}
+h1{font-size:18px;}
+h2{font-size:16px;}
+h3,h4,h5{font-size:14px;}
+img{border:none;vertical-align:middle;}
+li{list-style:none;}
+i,em{font-style:normal;}
+a{color:#666;text-decoration:none;}
+a:focus{outline:none;}
+a:hover{color:#333;}
+input[type="text"]:focus{outline:none;}
+input[type="button"],input[type="reset"],input[type="submit"]{cursor:pointer;}
+input[type="reset"]::-moz-focus-inner,input[type="button"]::-moz-focus-inner,input[type="submit"]::-moz-focus-inner,
+input[type="file"] > input[type="button"]::-moz-focus-inner{border:none;padding:0;}
+
+/* 清除浮动 */
+.inquiry-list:after,.tbar-in:after{content:"";display:block;content:"";height:0;clear:both;visibility:hidden;}
+* html .inquiry-list,* html .tbar-in{display:inline-block;}
+* +html .inquiry-list,* +html .tbar-in{display:inline-block;}
+
+/* 页底 */
+.main-foot{border-top:1px solid #ddd;padding:10px 0;text-align:right;margin:0 1.5%;}
+
+/* 分页 */
+.page-bar{text-align:right;padding:0 10px 25px;}
+
+/* 布局 */
+.main-wrap{padding:10px;}
+
+
+/* 询盘
+----------------------------- */
+.inquiry-tbar {border-bottom:1px solid #fff;margin:0 10px 20px;padding:10px 0 0;}
+.inquiry-tbar .tbar-in{border-bottom:1px solid #cdcdcd;}
+.inquiry-tbar .inquiry-tabs{display:inline;float:left;margin:0;padding:0;}
+.inquiry-tabs li,.inquiry-tabs li a{float:left;}
+.inquiry-tabs li a{padding:9px 10px;}
+.inquiry-tabs li  a{background:#fff;border:1px solid #cdcdcd;border-bottom:0;border-radius:4px 4px 0 0;padding:8px 9px 9px; margin-right:5px;}
+.inquiry-tabs li  a:hover{color:#666;}
+.inquiry-tbar .fr{float:right;}
+.inquiry-tbar .select-box{float:left;margin:3px 8px 0 0;}
+.inquiry-tbar .obtn {display:inline-block;float:left;padding:0 8px;height:25px;line-height:25px;border:1px solid #cdcdcd;background:#f3f3f3;background:-moz-linear-gradient(top,#fcfcfc,#eee);background:-webkit-linear-gradient(top,#fcfcfc,#eee);background:-ms-linear-gradient(top,#fcfcfc,#eee);background:-o-linear-gradient(top,#fcfcfc,#eee);background:linear-gradient(top,#fcfcfc,#eee);border-radius:2px;color:#333;margin:3px 8px 0 0;}
+.inquiry-tbar .obtn:hover{color:#333;text-decoration:none;}
+.inquiry-search{display:inline;float:left;}
+.inquiry-search .search-ipt{width:170px;height:28px;line-height:28px;border:1px solid #cdcdcd;padding:0 5px;background:#fff;float:left;margin:0 5px 0 0;border-radius:1px;}
+.inquiry-search .search-ipt:focus{border-color:#999;}
+.inquiry-search .search-btn{width:75px;height:29px;line-height:29px;padding:0 0 0 17px;text-align:center;background:#363636 url(img/search_ico_white.png) 12px center no-repeat;float:left;color:#fff;font-size:14px;border:0;border-radius:1px;font-family:"Microsoft YaHei","微软雅黑";cursor:pointer;}
+.select-box {height:25px;line-height:25px;border:0;padding:2px;border-radius:2px;background:#fff;}
+.inquiry-list .inquiry-item{width:33.3%;float:left;overflow:hidden;}
+.inquiry-list .inquiry-in{width:100%;position:relative;overflow:hidden;}
+.inquiry-list .inquiry-item-in{border:1px solid #ddd;margin:0 10px 20px;background:#fcfcfc url(img/inquiry_box_top_line.png) 0 0 repeat-x;padding:20px;}
+.inquiry-list .inquiry-item dl{width:100%;position:relative;padding:7px 0;border-bottom:1px solid #f2f2f2;border-top:1px solid #fff;}
+.inquiry-list .inquiry-item dl:last-child{border-bottom:0;}
+.inquiry-list .inquiry-item dl,.inquiry-list .inquiry-item dl a{color:#5F5F5F;}
+.inquiry-list .inquiry-item dt{width:6em;position:absolute;left:0;top:7px;}
+.inquiry-list .inquiry-item dd .Inquiryinquiry {width:100%;height:90px;padding:0;overflow:auto;border:0;resize:none;background:none;line-height:1.6em;word-break:break-all;}
+.inquiry-list .inquiry-item dd{padding:0 0 0 6em;}
+.inquiry-list .inquiry-item dd .Submittedinquiry{height:20px;}
+.inquiry-list .inquiry-item dd .your-nameinquiry{height:20px;}
+.inquiry-list .inquiry-item dd .your-emailinquiry{height:20px;}
+.inquiry-list .inquiry-item dd .your-phoneinquiry{height:20px;}
+.inquiry-list .inquiry-item dd .your-countryinquiry{height:20px;}
+.inquiry-list .inquiry-item dd  .Logininquiry{height:20px;display:none;}
+.inquiry-list .inquiry-item dd .captchainquiry{height:20px;display:none;}
+.inquiry-list .inquiry-item dd .captcha-731inquiry{height:20px;display:none;}
+.inquiry-list .inquiry-item dd .Frominquiry{height:20px;}
+
+@media screen and (max-width:1000px){
+.inquiry-list .inquiry-item{width:50%;}
+}
+@media screen and (max-width:500px){
+.inquiry-list .inquiry-item{width:100%;}
+}
+.Submitted-inquiry:after{content:"询盘时间：";}
+.your-name-inquiry:after{content:"客户姓名：";}
+.your-email-inquiry:after{content:"客户邮箱：";}
+.your-phone-inquiry:after{content:"客户电话：";}
+.your-country-inquiry:after{content:"客户国家：";}
+.Inquiry-inquiry:after{content:"询盘内容：";}
+.Logininquiry:after{content:"";}
+.captcha-inquiry:after{content:"";}
+.captcha-731-inquiry:after{content:"";}
+.Submitted-inquiry,.From-inquiry:after{content:"客户IP：";}

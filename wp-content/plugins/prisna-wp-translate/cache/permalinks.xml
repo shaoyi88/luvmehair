@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permalinks>
+  <permalink domain="ff39ed724c4c995ae88aaf42367464c3" scope="/wishlist">
+    <translation from="en" to="fr"><![CDATA[liste]]></translation>
+    <translation from="en" to="es"><![CDATA[lista]]></translation>
+  </permalink>
+  <permalink domain="6f14708f83bd44ddb4afa85746b599a9" scope="/fr">
+    <translation from="en" to="es"/>
+  </permalink>
+  <permalink domain="955fdb008bfaf18f7ab32563b7dc636f" scope="/help/contact-us">
+    <translation from="en" to="es"><![CDATA[ayuda/contáctenos]]></translation>
+    <translation from="en" to="fr"><![CDATA[aidez-moi/contactez-nous]]></translation>
+  </permalink>
+  <permalink domain="09033031717d8b0342895980fd2cde3d" scope="/">
+    <translation from="en" to="fr"/>
+    <translation from="en" to="es"/>
+  </permalink>
+  <permalink domain="35b07bc2174ea31ac914325c0650a16f" scope="/blog">
+    <translation from="en" to="es"/>
+    <translation from="en" to="fr"><![CDATA[blog]]></translation>
+  </permalink>
+  <permalink domain="4ae93430c9583abc2a966c2759cf04da" scope="/es">
+    <translation from="en" to="es"><![CDATA[es]]></translation>
+    <translation from="en" to="fr"><![CDATA[es]]></translation>
+  </permalink>
+  <permalink domain="2ceab4eb7fb9cec669c2e30b88a9e419" scope="/shopping">
+    <translation from="en" to="es"/>
+  </permalink>
+  <permalink domain="77b05af3699f1300b10c667b45af8ed0" scope="/blog/what-is-hair-extension-sending-and-receiving-three-technical-presentations">
+    <translation from="en" to="fr"/>
+  </permalink>
+  <permalink domain="ed682f6079a453c84fd329ce8a32a170" scope="/register">
+    <translation from="en" to="fr"/>
+  </permalink>
+  <permalink domain="686a70c74f7222867057afbf758c6394" scope="/help/faq">
+    <translation from="en" to="fr"/>
+  </permalink>
+  <permalink domain="0124f6222c4b14672eb53a4f066d7263" scope="/gallery">
+    <translation from="en" to="fr"><![CDATA[galerie]]></translation>
+  </permalink>
+  <permalink domain="697f528cb0205597f7fd6fba6a695112" scope="/shopping/luvme-hair-best-quality-virgin-hair-silky-straight-hair-super-soft-no-shedding-100gbundle-3pcslot.html">
+    <translation from="en" to="es"/>
+  </permalink>
+  <permalink domain="346a306551ee20b65a8d4df62b4a4360" scope="/gallery/colored-virgin-hair">
+    <translation from="en" to="es"><![CDATA[galería/pelo-virginal-coloreada]]></translation>
+  </permalink>
+  <permalink domain="2f65e557ddc773a838d116f6d168484e" scope="/gallery/deep-wave-virgin-hair-photo-gallery">
+    <translation from="en" to="fr"><![CDATA[galerie/vague-profonde-cheveux-vierges-galerie-photo]]></translation>
+  </permalink>
+  <permalink domain="06eb6348256dc96cdd45e92bd2114e6a" scope="/shopping/virgin-hair-big-curl-182022-3pcslot.html">
+    <translation from="en" to="fr"/>
+  </permalink>
+  <permalink domain="62287a404c6248461ba6567ccee28d8d" scope="/big-curl-shopping">
+    <translation from="en" to="fr"/>
+  </permalink>
+  <permalink domain="c10f0f871f0f281ff9cb57d8006e0150" scope="/shopping/luvme-hair-best-quality-virgin-hair-big-curl-hair-gorgeous-style-100gbundle-1pcslot.html">
+    <translation from="en" to="fr"/>
+  </permalink>
+  <permalink domain="681b473c9e685dcfe5feb101d4ad8ade" scope="/help/about-us">
+    <translation from="en" to="fr"/>
+  </permalink>
+</permalinks>

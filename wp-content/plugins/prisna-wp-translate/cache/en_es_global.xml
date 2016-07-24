@@ -1,0 +1,2433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="es" domain="global" scope="global">
+  <word hash="83ddc63b9194b552dc926e2530eb206624f48084310c2adeae89c5346896e3c5" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Nothing found for  Wishlist]]></source>
+    <translation><![CDATA[No he encontrado nada Lista]]></translation>
+  </word>
+  <word hash="fa18bc2852a1d5adce539a20078b697b1c577551f8175683d5aa7f2eb4a63573" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Risk-Free, Satisfation 100%]]></source>
+    <translation><![CDATA[Riesgo-Libre, Satisfation 100%]]></translation>
+  </word>
+  <word hash="c865b504ec1477670afc1faa6508bdf94b9978fe69481ea82c77c11fe90227cb" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Fastest Shipping Worldwide!]]></source>
+    <translation><![CDATA[El envío más rápido por todo el mundo!]]></translation>
+  </word>
+  <word hash="9fc8cc2af42dbccf9507f9339ad5769c49829b023dcc2914de2ed3f18e16f635" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Currency: ]]></source>
+    <translation><![CDATA[Monedas: ]]></translation>
+  </word>
+  <word hash="6b5878e9c8d8b660a6192d918a13956e733686cd3e49a2670de80711d0fcbc6c" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[CAD$]]></source>
+    <translation><![CDATA[CAD $]]></translation>
+  </word>
+  <word hash="7bc9c8a37554206a00e829608f84934ba72dad77cd3b3e7385fbf7073d11bba8" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[USD $]]></source>
+    <translation><![CDATA[Dólar estadounidense $]]></translation>
+  </word>
+  <word hash="5f8faa23ace5dff96857489df2ae7f7111c0f6f9f1b53e1893c7766fd7796b7c" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[EUR €]]></source>
+    <translation><![CDATA[EUR €]]></translation>
+  </word>
+  <word hash="ef49eaeb1e1e24de7c95f072bdbe59d1f04edde654d61b3b60852374a1277dbf" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[GBP £]]></source>
+    <translation><![CDATA[GBP EUR]]></translation>
+  </word>
+  <word hash="45bd52d1b697b60059b461600281a0ed82412e6c301beb23829728be1ecf1e2e" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[AUD $]]></source>
+    <translation><![CDATA[AUD $]]></translation>
+  </word>
+  <word hash="bea5a9bffb220097c1699f0caa046b93cf592f3ba020f27c3037a0716c131318" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[HK $]]></source>
+    <translation><![CDATA[HK $]]></translation>
+  </word>
+  <word hash="6d20f671c72952f746cb2f7aff8d24350358a2143c5c865a719ffd1db33f12d9" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[JPY 円]]></source>
+    <translation><![CDATA[JPY 円]]></translation>
+  </word>
+  <word hash="220670b2b4d58b046e09edd8222272e93c48267e711ad59e16d5f9317de40174" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[RUB руб.]]></source>
+    <translation><![CDATA[Руб RUB.]]></translation>
+  </word>
+  <word hash="fc5a5b441156a71ff6629e2c85d475667bb615f6a5f10f4c18728a01fa4f9ad4" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[CHF CHF]]></source>
+    <translation><![CDATA[CHF CHF]]></translation>
+  </word>
+  <word hash="8d32a5a0d4169ee2b4190277e47dc407295868bbbae2438051ffb0ef5380be99" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[MXN $]]></source>
+    <translation><![CDATA[MXN $]]></translation>
+  </word>
+  <word hash="4e3459f370ad8f40d3d02753b5ed5b6a981c75552f03f13a8e2cd36f2c451e10" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[NOK Kr]]></source>
+    <translation><![CDATA[NOK Kr]]></translation>
+  </word>
+  <word hash="47bd75126481b3232c99933e196675b7690216136be6cb99c225b68446878aa2" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[CZK Kč]]></source>
+    <translation><![CDATA[CZK Kč]]></translation>
+  </word>
+  <word hash="63a482c4d074efe077a6494f7704219666d690614da246139d21ecd56bbfce2e" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[BRL $]]></source>
+    <translation><![CDATA[BRL $]]></translation>
+  </word>
+  <word hash="6b82ca285eb4ca3c893b303a8650df6fa27241cd3d0143e3923f83fa466413ed" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[ARS $]]></source>
+    <translation><![CDATA[ARS $]]></translation>
+  </word>
+  <word hash="2ded4a3ee653ffdd82681e9f39144e169a1a217bea7f7c22a2795f48e3dc6864" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Log In]]></source>
+    <translation><![CDATA[Acceder]]></translation>
+  </word>
+  <word hash="e1a3e78cb5c8858631bf81f94369a0be3fd2aebb9e852e66368b381c8feef91f" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[ or ]]></source>
+    <translation><![CDATA[ o ]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Registrar]]></translation>
+  </word>
+  <word hash="ad0187add790ff172be7ea077cabe58ff704c671bafe85b675efdad19e8d32b8" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[My Account]]></source>
+    <translation><![CDATA[Mi Cuenta]]></translation>
+  </word>
+  <word hash="64f8ab6b0252f24a399f2dad77649f4ce619bad50b8344936b3cd79fe507a232" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[My Wishlist]]></source>
+    <translation><![CDATA[Mi lista de artículos]]></translation>
+  </word>
+  <word hash="34f622ccf059ca5b89b411ac672470d848fdbb4a7532da7f397531ecef4b438f" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[ad_img]]></source>
+    <translation><![CDATA[ad_img]]></translation>
+  </word>
+  <word hash="7086406d511eae8fdef9d29092dc7d781ef4d5a3bc64042ac42d89aa13134d31" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[View Cart]]></source>
+    <translation><![CDATA[Ver el carro]]></translation>
+  </word>
+  <word hash="99e71f48c48f121baddd4def9d50fa3363580ae26c2d22dfe364c23f6da15240" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Checkout]]></source>
+    <translation><![CDATA[Caja]]></translation>
+  </word>
+  <word hash="a845ba5307b4766451dad16afc3f05f084b23c10631f94d88cfc93c62fbb9f7c" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Enter Keywords]]></source>
+    <translation><![CDATA[Introduzca las palabras clave]]></translation>
+  </word>
+  <word hash="b5b68f9d45ff0c205f6e21dd44e123f7081055866e2ff91394d417cb6fbd0bf0" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Shopping]]></source>
+    <translation><![CDATA[Compras]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Casa]]></translation>
+  </word>
+  <word hash="0d99011d36078a3128704e9f350f4e3e369be6fa2500bd6959c0fd7487912a28" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Wavy]]></source>
+    <translation><![CDATA[Ondulado]]></translation>
+  </word>
+  <word hash="dc81306b118237b3c8ffc88d79748a5e53788865c3ca48641ed21ddde8e2cec4" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Straight]]></source>
+    <translation><![CDATA[Derecho]]></translation>
+  </word>
+  <word hash="949556caba7ea980fc1df33537d1f8d875b962c18ba37ae281f988a52b901ddb" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Deep Curly]]></source>
+    <translation><![CDATA[Rizado profunda]]></translation>
+  </word>
+  <word hash="1365ce65335650a55f5022a897dd81f9481bb7e35215acb7bf9f0ee4d7a4b9f7" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Big Curl]]></source>
+    <translation><![CDATA[enrollamiento grande]]></translation>
+  </word>
+  <word hash="bffd1e30645b54a7fa26c57842ec81eea6cd215300d0d510d82c436b4aad7e6c" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[My Luvmer]]></source>
+    <translation><![CDATA[mi Luvmer]]></translation>
+  </word>
+  <word hash="aca80ff13375de69dd5d30cfa87668e1ee0b4608bf7b22055a4b0ee03f5285c5" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Photo Gallery]]></source>
+    <translation><![CDATA[Galería de fotos]]></translation>
+  </word>
+  <word hash="dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[FAQ]]></source>
+    <translation><![CDATA[Preguntas más frecuentes]]></translation>
+  </word>
+  <word hash="98b67063cf8e584d75e53b88472ee85473e01e0ea16f29ece9cc98f4a2710494" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Contact Us]]></source>
+    <translation><![CDATA[Contáctenos]]></translation>
+  </word>
+  <word hash="8c6bc099534a0251b576f6b88bd2db124ae9497c64bd9242e92a6aec23e6a73a" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Blog]]></source>
+    <translation><![CDATA[Blog]]></translation>
+  </word>
+  <word hash="1b1541973ec6e80640b8a88eba03fd304d2eeae50a027b0c924dfed731bcbbe6" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Sales & Deals]]></source>
+    <translation><![CDATA[Ofertas y Promociones]]></translation>
+  </word>
+  <word hash="3fb76449c0762d4fd90a8eb6a7f7b80076bf908a5c06f79a5f076a459fbc2b37" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Our Story]]></source>
+    <translation><![CDATA[Nuestra historia]]></translation>
+  </word>
+  <word hash="00d20d0632f5e1ef354e41b97ff4eb34c1db8e987af11dac9408b184f79d1297" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Fashion]]></source>
+    <translation><![CDATA[Moda]]></translation>
+  </word>
+  <word hash="26ff184f6ce0485ccc9052fd82b5666b0a07c955d45ed50d682f26f1dd7102bb" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Any Order,Free Shipping]]></source>
+    <translation><![CDATA[Cualquier orden, envío libre]]></translation>
+  </word>
+  <word hash="dcab8050b2927a1591b8d94cc1a1ca297c3228fc31a03a3b3e7bfa76c7e83075" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[10$ Discount Code:NEW10]]></source>
+    <translation><![CDATA[10 $ Código Descuento: New10]]></translation>
+  </word>
+  <word hash="6b4f03b153275fc9a05c8ac89183f30c123edc3c88dd16965e15bd6668217633" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Promotion Time (2.14-3.14)]]></source>
+    <translation><![CDATA[Tiempo de la promoción (2.14 a 3.14)]]></translation>
+  </word>
+  <word hash="e4bce0739413f6b93b052770899743bf56d64be315eb5d6b86f253eaf592b6c9" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Next Time！]]></source>
+    <translation><![CDATA[La próxima vez!]]></translation>
+  </word>
+  <word hash="a469ab4ca4e55bf547566e9ebfa1b809c933207e9d558156bc0c4252b17533fe" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Page not found]]></source>
+    <translation><![CDATA[Página no encontrada]]></translation>
+  </word>
+  <word hash="cdf7689a4e7e9d8dc09828df1d5c397a03232b2f53db67a5d3949c7991f48030" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Customer Service]]></source>
+    <translation><![CDATA[Servicio al cliente]]></translation>
+  </word>
+  <word hash="5cf9e7527fadbaa8c3e9ed611c2cb72f4ba5729c442d0f5ba4645f0d25e348ef" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Order Information]]></source>
+    <translation><![CDATA[Información del pedido]]></translation>
+  </word>
+  <word hash="aa9565902ae1312e4240f47b9dd6878fbb46226656784c5c4ac94700b3e55c67" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[My Order]]></source>
+    <translation><![CDATA[Mi Pedido]]></translation>
+  </word>
+  <word hash="73a75653065cfd73109eab517a87f67f4d4574eba57b08175e484f22de6d1680" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Track Order]]></source>
+    <translation><![CDATA[Seguimiento del Pedido]]></translation>
+  </word>
+  <word hash="35798f6a593dded06bbabff029b21fa2bc87fc122219172c9012979ce1f0b9c2" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Shopping Cart]]></source>
+    <translation><![CDATA[Cesta de la compra]]></translation>
+  </word>
+  <word hash="63931eea0e7d6078f9428fadf7305d993fa1c3ca457daa49d45c0d384688a105" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[MY ACCOUNT]]></source>
+    <translation><![CDATA[MI CUENTA]]></translation>
+  </word>
+  <word hash="991bfa015514f9d5b331eeb125559261e531d35b294902097726c71beb6199cb" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[My Profile]]></source>
+    <translation><![CDATA[Mi perfil]]></translation>
+  </word>
+  <word hash="597d673824a4398fee66d5a736f026895008131a74120230f1828e5639b29915" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Lost Password]]></source>
+    <translation><![CDATA[Contraseña Perdida]]></translation>
+  </word>
+  <word hash="4e70f1fd24babdea2ee43377e452e1a56fadf334e949f199b2a7642bc4fe9a04" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Reset Password]]></source>
+    <translation><![CDATA[Restablecer contraseña]]></translation>
+  </word>
+  <word hash="8477706b7812c2c667855f2bddbc46b0aeb98123d26397c20bb99f0e4fa7344c" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Cancelled Order]]></source>
+    <translation><![CDATA[Orden Cancelado]]></translation>
+  </word>
+  <word hash="d0527e4b3d658351dae74be7b10c7531a7ac98493c6b257ab62774853bcc74b2" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Logout]]></source>
+    <translation><![CDATA[Salir]]></translation>
+  </word>
+  <word hash="6c179f21e6f62b629055d8ab40f454ed02e48b68563913473b857d3638e23b28" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[  ]]></source>
+    <translation><![CDATA[  ]]></translation>
+  </word>
+  <word hash="dfcce3b3f714ff3251b97aa40fcea093c9ec5f00d107673e1be3693628f6b8f7" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Page not found ]]></source>
+    <translation><![CDATA[Página no encontrada ]]></translation>
+  </word>
+  <word hash="d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Facebook]]></source>
+    <translation><![CDATA[Facebook]]></translation>
+  </word>
+  <word hash="bcd18ead5fa830127187d499e97e7a4dc8f641ec34d8c7e9f9f24deae2e39fdc" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Twitter]]></source>
+    <translation><![CDATA[Gorjeo]]></translation>
+  </word>
+  <word hash="9dbc524a54c790beaf3617257acb6e451313edc5d2578057f0674a1d5e380436" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Google+]]></source>
+    <translation><![CDATA[Google+]]></translation>
+  </word>
+  <word hash="78dfd4d79bda7ef820487666f6f690389d315bcec9c64efedebb510278735fa2" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Pinterest]]></source>
+    <translation><![CDATA[Pinterest]]></translation>
+  </word>
+  <word hash="61f75e9bb9714f07057ed809f5065fbe2c9551f59f5b24bf05e2e5af043fc5dc" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Delicious]]></source>
+    <translation><![CDATA[Delicioso]]></translation>
+  </word>
+  <word hash="9a16d16133115e2c81e6d81a86f258f04a77231a658f90faa702981034246568" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Digg]]></source>
+    <translation><![CDATA[Digg]]></translation>
+  </word>
+  <word hash="969ccbd3cf6300ecd5c880459d81ae9027df7517563184a1b8b15282db230621" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Email]]></source>
+    <translation><![CDATA[Email]]></translation>
+  </word>
+  <word hash="7a1f2a83aca9a0819f244d5b4a7a0e7f6b779eb709dd4744136b22e724dbb10b" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Favorites]]></source>
+    <translation><![CDATA[Favoritos]]></translation>
+  </word>
+  <word hash="d47d7cb0e4f8fd2be5ee07826694c18917d83ca77d0a01698582d05f432db996" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[More]]></source>
+    <translation><![CDATA[Más]]></translation>
+  </word>
+  <word hash="92c3e602060c6dcfcf9efb76296d1955cb9f846b8ea116910059b4e45596a15d" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[
+The Page You Requested Seems To Be Missing, Please back to ]]></source>
+    <translation><![CDATA[
+La página solicitada parece faltar, de nuevo por favor a ]]></translation>
+  </word>
+  <word hash="f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Newsletter]]></source>
+    <translation><![CDATA[Hoja informativa]]></translation>
+  </word>
+  <word hash="a0f949497a74dde0c63a35cd9ab147012ffa007b019557ea5cecb9a243d0c5de" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[GO]]></source>
+    <translation><![CDATA[GO]]></translation>
+  </word>
+  <word hash="e2514497c7a040e7f9cb7f84ae46de144386e2533a677840e892a38261621817" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Follow Us]]></source>
+    <translation><![CDATA[Siga con nosotros]]></translation>
+  </word>
+  <word hash="cd82232bedf1caced7a6a624ee85b74eeab3541b60958ef2aa6f1e35829ddae9" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Company Info]]></source>
+    <translation><![CDATA[Información de la compañía]]></translation>
+  </word>
+  <word hash="5d8c71abc527284cd463aa58f3f48098af5ab2f4225a744aa930a4b0e27d7395" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[About Us]]></source>
+    <translation><![CDATA[¿Quiénes somos?]]></translation>
+  </word>
+  <word hash="e0f82fdf558b697c97a448555e0cc380b8c86f89bee0a66516b82bf516260b10" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Top Virgin Hair Guarantee]]></source>
+    <translation><![CDATA[Garantía de la parte superior del pelo de la Virgen]]></translation>
+  </word>
+  <word hash="0e48a8d25957a2b19a31025c9450463911983720795b8732d4b84106a3ce1423" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Payment & Shipping]]></source>
+    <translation><![CDATA[Pago y Envío]]></translation>
+  </word>
+  <word hash="71ab98d059afef883833d81a6dd3fa007cd5de2bb0ab784ab10d5e615a5c61fe" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Delivery Time]]></source>
+    <translation><![CDATA[El Tiempo De Entrega]]></translation>
+  </word>
+  <word hash="9f4e2cbe3be2681b998f271b16cccdedcecd17504de1ab7f3090f967d6bbbdd0" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Payment Methods]]></source>
+    <translation><![CDATA[Formas de pago]]></translation>
+  </word>
+  <word hash="561027839f7e88559ce940fad9a7a34c4e114cf001c948a9dbad7b34c4e50647" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Refund & Return Policy]]></source>
+    <translation><![CDATA[Reembolso y política de devoluciones]]></translation>
+  </word>
+  <word hash="c1c1ae7ecebb6d21a8a36a45ac039fac4a037717f4780a7f0a76e7f6341a320c" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Shipping Guide]]></source>
+    <translation><![CDATA[Guía de envío]]></translation>
+  </word>
+  <word hash="a9d4ac29400446560371966ea172c26732928f488783a6773d45c66543359ad1" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[+86 18613122553]]></source>
+    <translation><![CDATA[+86 18613122553]]></translation>
+  </word>
+  <word hash="43c8168ef1104cac9b9e23b2ffa6f745e077d48f2ef180f500b43aff689d1798" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Email: stella@luvmehair.com]]></source>
+    <translation><![CDATA[E-mail: stella@luvmehair.com]]></translation>
+  </word>
+  <word hash="ba9711944398dff78587d1d93945b700587cb8d13b56fc5d2a83fb7b59b545b8" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Website: www.luvmehair.com]]></source>
+    <translation><![CDATA[Página web: www.luvmehair.com]]></translation>
+  </word>
+  <word hash="2ccce99fff1ba987b396a30d70ee8694feae44088ccd770864c0dc707f39000d" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[ADD: Guangzhou,China]]></source>
+    <translation><![CDATA[ADD: Guangzhou, China]]></translation>
+  </word>
+  <word hash="9dc7d416d9bbff5a8aba6efadae2f129797dcd42a4bc6011ce82916198372b98" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[
+© Copyright - 2010-2018 : All Rights Reserved.   ]]></source>
+    <translation><![CDATA[
+© Copyright - 2010-2018: Todos los derechos reservados.   ]]></translation>
+  </word>
+  <word hash="67038cf36258a307a3286dc3fcb51ec40ac54e28871b90183ac4fa44d467448a" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[站长统计]]></source>
+    <translation><![CDATA[站长 统计]]></translation>
+  </word>
+  <word hash="af150c111d4d3245141bcc192fcd9f855857a3da63ffafa1920b4f807c14e526" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[
+                     You have no items in your Shopping Cart!
+                  ]]></source>
+    <translation><![CDATA[
+                     No tiene artículos en su carrito de compras!
+                  ]]></translation>
+  </word>
+  <word hash="5908bccf22118371162950c2a614ab0522ba4890d3621afc450664f650abf704" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Send Email]]></source>
+    <translation><![CDATA[Enviar por correo electrónico]]></translation>
+  </word>
+  <word hash="e1df3d7704cb8c50945b3655ae79ec58bcf79702c55877a0d2c9625fb68b2b49" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Stella]]></source>
+    <translation><![CDATA[Stella]]></translation>
+  </word>
+  <word hash="6d612a86bee4b0a659b8b3affd6f1fbcad15c4cbbbbdc4996c6c01c786711a21" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Android]]></source>
+    <translation><![CDATA[Androide]]></translation>
+  </word>
+  <word hash="24e70491ace3c9dea2c7eba1ed058d665c39992b166172a2f7595fbb000fb2d8" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[LiveChat]]></source>
+    <translation><![CDATA[Chat en vivo]]></translation>
+  </word>
+  <word hash="edc279c643e5b7bb2975834b43efa32dcfa30cf79fda299c278736979bfed81a" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Wishlist]]></source>
+    <translation><![CDATA[Lista]]></translation>
+  </word>
+  <word hash="07b4ed8e4e4eadcc7ffe05d41b5717255ae72a4881893e1d69e13889631c846f" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[TOP]]></source>
+    <translation><![CDATA[TOP]]></translation>
+  </word>
+  <word hash="7d9eb7acb13e24625c404401d8e88b2350e32162455885f18276cf802f7701ed" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Close]]></source>
+    <translation><![CDATA[Cerca]]></translation>
+  </word>
+  <word hash="a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Previous]]></source>
+    <translation><![CDATA[Anterior]]></translation>
+  </word>
+  <word hash="1ff57a29d7c9d11bdf61c1b80f2b289b44c1ea844824d4b94a0d52b6ba5fc858" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Next]]></source>
+    <translation><![CDATA[Próximo]]></translation>
+  </word>
+  <word hash="fba6c2c5d9468e741725c7dfa1ac14fb59523c74fa86744027ec0a175e6cae3f" date="2016-03-10T09:15:52+00:00">
+    <source><![CDATA[Maximize]]></source>
+    <translation><![CDATA[Maximizar]]></translation>
+  </word>
+  <word hash="d0db1f283f38757a4644006c2103641e6019b20286864aac02ccf2a73c6dd031" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[luvmehair丨best hair extensions丨real human hair丨100% virgin hair]]></source>
+    <translation><![CDATA[mejores extensiones de cabello luvmehair 丨 丨 丨 pelo humano verdadero del 100% para el cabello virgen]]></translation>
+  </word>
+  <word hash="819280ff82f901875051fa0ea2b60fd0419e4b77b6fb52f752bd739d90a2de8b" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Best hair extensions in USA salons for best human hair extensions offers Best Hair Extensions United States salons luvmehair &100% virgin hair]]></source>
+    <translation><![CDATA[Las mejores extensiones de cabello en Estados Unidos mejores salones para extensiones de cabello humano ofrece las mejores extensiones del pelo de Estados Unidos y salones luvmehair pelo virginal 100%]]></translation>
+  </word>
+  <word hash="fba4be35b0b39a489261cbe392538bf60dbb491f2b7fc06b4908d9087565e729" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[highest quality human hair，100 human hair extensions，100% virgin hair，best hair extensions]]></source>
+    <translation><![CDATA[cabello humano más alta calidad, 100 extensiones de cabello humano, pelo virginal 100%, las mejores extensiones de cabello]]></translation>
+  </word>
+  <word hash="f96817c76d677a9654fe11b649df6d709ad1d62c2f4c58ebba153c3fa696e414" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[USD$]]></source>
+    <translation><![CDATA[USD $]]></translation>
+  </word>
+  <word hash="2c2f366b66d2701cae9099f3189be876a6e888295907721b332b533f435099f6" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[CAD $]]></source>
+    <translation><![CDATA[CAD $]]></translation>
+  </word>
+  <word hash="56d5a94ffcbcd75bcce02d10e05c9eb6748919bdbcef2327c050e52a0379995e" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[label_1]]></source>
+    <translation><![CDATA[Label_1]]></translation>
+  </word>
+  <word hash="9db810a0dd0f76ee499b9175e9362e73f1a7f81c069bedae37a4410dbe74f377" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Top Quality Virgin Hair]]></source>
+    <translation><![CDATA[Calidad superior de la Virgen del pelo]]></translation>
+  </word>
+  <word hash="2c26a1a9e6a30408d5f90a4859da5af0b8525f702c9b6292b34bf133fe9a12e8" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[100% unprocessed virgin hair one bundle from one donor]]></source>
+    <translation><![CDATA[100% pelo virginal sin procesar un empaquetado de un donante]]></translation>
+  </word>
+  <word hash="454a29e47b35b3feedb383df62e2bf833a50482274559fea0de32084a8a49175" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[label_2]]></source>
+    <translation><![CDATA[Label_2]]></translation>
+  </word>
+  <word hash="95092a677ca072609b4148027974067124a4b9ece107c2cba74f8d00ce1021b9" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Risk-Free Shopping]]></source>
+    <translation><![CDATA[Compras libre de riesgo]]></translation>
+  </word>
+  <word hash="e6ae72e49afe80f1d85e083333c0d91513d26ab3896f270178bd80c7638cb1a8" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[7days full refund,6months return shipping fee by seller]]></source>
+    <translation><![CDATA[7 días reembolso completo, 6 meses vuelven tarifa de envío de vendedores]]></translation>
+  </word>
+  <word hash="88a846b4d12cf4a1733a332a9a5592a9b9f00a0df90fc3b2f845c618b8d4197e" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[label_3]]></source>
+    <translation><![CDATA[Label_3]]></translation>
+  </word>
+  <word hash="2cc6689811b83806d061afdb19b19956131b0d432f65dcfaa6149401347d4104" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Top After-Sale Service]]></source>
+    <translation><![CDATA[Top Servicio Post-Venta]]></translation>
+  </word>
+  <word hash="6ce0f569aae0d6be1d622caa508f52350d95af65df49e6ee360b2286c94ec311" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[If quality problem,we solve it. professional hair-care guidance]]></source>
+    <translation><![CDATA[Si el problema de la calidad, lo resolvemos. orientación para el cuidado capilar profesional]]></translation>
+  </word>
+  <word hash="edb22ab11bc40ff56cfc16c5cee05d841268e9f4089555f6d80386e1d4c7aeda" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[label_4]]></source>
+    <translation><![CDATA[label_4]]></translation>
+  </word>
+  <word hash="ed1e1b4bf6ccda9d6a755b87ea8c3087438b3a62c1ed0206bb354424c5e5cc2e" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Fastest Shipping Worldwide]]></source>
+    <translation><![CDATA[El envío más rápido por todo el mundo]]></translation>
+  </word>
+  <word hash="5ea85128ccd24a36f61fd53fdf9921de9c7e118c83d053f8f56328dad0b41856" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[All goods can be delivered within 2-6days via DHL/Fedex]]></source>
+    <translation><![CDATA[Todos los productos pueden ser entregados dentro de 2-6days vía DHL / Fedex]]></translation>
+  </word>
+  <word hash="1a6745a306fb3f7563367d9f4111f71335a0f0b51950e0af0e6be59f99431eb1" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[label_5]]></source>
+    <translation><![CDATA[label_5]]></translation>
+  </word>
+  <word hash="89134e9a3ccfe5726679fd25e3098c5974f268fbe02b7ba837d467b541eb2c94" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Fast Custom Service]]></source>
+    <translation><![CDATA[Servicio personalizado rápido]]></translation>
+  </word>
+  <word hash="e18b96748bdee1e5cde572b8809763356db2721127ab87be70a5fb85213df869" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[All-sided fast custom service Realize all your wish for beauty]]></source>
+    <translation><![CDATA[Todos echaron a un lado el servicio personalizado rápido realizar todos sus deseos para la belleza]]></translation>
+  </word>
+  <word hash="2f69b788b25b0ef7b9e1c2912c17b863f5f32b241e2850493a4eaccc14f561d7" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Virgin Hair Big Curl 18″+20″+22″ with 1...]]></source>
+    <translation><![CDATA[Virgen Mucho pelo Curl 18 "20" 22 "con 1 ...]]></translation>
+  </word>
+  <word hash="5a6ddd637fecfa7b2d5ad59df82ae80e42637ee8368f954b9472475e9e5d179a" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Virgin Hair Big Curl 18″+20″+22″ with 16″ Closure]]></source>
+    <translation><![CDATA[Virgen Pelo grande Curl 18 "20" 22 "con 16" Cierre]]></translation>
+  </word>
+  <word hash="23d520ca05faf114be32a79067055ab8e82703c80cfed0c774209e72d9eab2e5" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[VIEW ALL]]></source>
+    <translation><![CDATA[VER TODO]]></translation>
+  </word>
+  <word hash="e16d1f129f4d7fc6825097e94f67716cf0ccb952ab628d62189bee61fbf979e3" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Top Virgin Hair Body Wave 3pcs/Lot]]></source>
+    <translation><![CDATA[3pcs Top pelo de la Virgen de la onda del cuerpo / Lote]]></translation>
+  </word>
+  <word hash="8a6379500a129106edbc1a27f3312ac49114bfd2ea0478145dc8f8a2413db07f" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Virgin Hair Straight 18″x3 with 18″ Closure]]></source>
+    <translation><![CDATA[Virgen del pelo recto 18 "x3 con 18" Cierre]]></translation>
+  </word>
+  <word hash="c80bfbcb60f8e3f8c7192a49a91e107c1cc7b38e723161ba0a5f5d714d225f62" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Video Tutorials]]></source>
+    <translation><![CDATA[Tutoriales en vídeo]]></translation>
+  </word>
+  <word hash="c2d0eac1f6eaaf1be4c72bb2814c7f716cf417423dbdc54ef84d2dc1d2f6eff9" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[BROWSE ALL VIDEO TUTORIALS]]></source>
+    <translation><![CDATA[Navegue por todos los tutoriales en vídeo]]></translation>
+  </word>
+  <word hash="e1b364f781bcd5bef8763c71f08ffaafd1b9cefb2bbdb454dff136c256457ebf" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Super Silky & Soft Straight Hair]]></source>
+    <translation><![CDATA[Súper sedoso y suave Cabello liso]]></translation>
+  </word>
+  <word hash="7e5a09b465e7d5d250565f116284d2b0a648345ef27e36abcfa474fd4557a5b0" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[The beautiful model shows 4bundles 26inches best virgin straight hair.It’s very soft and silky.No tangle and No shedding.If you want a change,it will help you redefine new style,either texture or color.]]></source>
+    <translation><![CDATA[La bella modelo muestra 4bundles 26inches mejor muy suave y silky.No maraña virgen de hair.It recta y shedding.If No se desea un cambio, que le ayudará a redefinir el nuevo estilo, ya sea la textura o el color.]]></translation>
+  </word>
+  <word hash="a9b56239efe39457585ff903ed856b5eb710bbc18a83887d7a490cd1957a3cae" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Nice Texture Deep Wave,Beautiful Style]]></source>
+    <translation><![CDATA[Agradable textura de la onda profunda, estilo hermoso]]></translation>
+  </word>
+  <word hash="dfbcb629facd5162a06f849a244cb291877bc9c915d758c1f05412aec5e722f0" date="2016-03-10T09:16:06+00:00">
+    <source><![CDATA[Gorgeous & Full Body Wave Virgin Hair]]></source>
+    <translation><![CDATA[Magnífica y completa la onda del cuerpo pelo de la Virgen]]></translation>
+  </word>
+  <word hash="f4b25bf173ea4012e1dbf242c90faba31a759e8b7cbc0bdac860e9f70c831e5b" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Best Sellers]]></source>
+    <translation><![CDATA[Top Ventas]]></translation>
+  </word>
+  <word hash="a5b5af2bf2c2420685e02cbeb3e69a0923dd8d0147fb2632858cdab1ad028859" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Straight Hair Wefts With Lace Closure Virgin Hair]]></source>
+    <translation><![CDATA[Las tramas del pelo recto con cierre de cordón del pelo de la Virgen]]></translation>
+  </word>
+  <word hash="75d64f68e5e260cf005004fbcb9af61517aed5758c0700ec2372ef05ddb55c57" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Deep Curly Virgin Hair 3pcs/Lot No Tangle No Shedding]]></source>
+    <translation><![CDATA[Profundamente rizado pelo de la Virgen 3pcs / Lot No se enreda Sin Arrojando]]></translation>
+  </word>
+  <word hash="76144203932e58b4077df2f49b442408fd2f77de5a9d7852afbf91de5e161f52" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Deep Curly Virgin Hair 3pcs/Lot No Tangle No Sh...]]></source>
+    <translation><![CDATA[Profundamente rizado pelo de la Virgen 3pcs / Lot No se enreda Sin Sh ...]]></translation>
+  </word>
+  <word hash="54ad2b99161878bea2fa9a0503d2744954034b56ab582ab6aea908551b14b1d1" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Virgin Hair Big Curl Gorgeous Style 3pcs/Lot]]></source>
+    <translation><![CDATA[3pcs Virgen del pelo enrollamiento grande magnífico del estilo / Lote]]></translation>
+  </word>
+  <word hash="79fc817ac59d4622c7367d0577ed2c7da6457f3f026a132c766aa2422e85ccf5" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[3Bundles Hair Wefts Closure Big Curl Gorgeous Virgin Hair]]></source>
+    <translation><![CDATA[3Bundles tramas del pelo de cierre enrollamiento grande magnífico pelo de la Virgen]]></translation>
+  </word>
+  <word hash="7bad5491296cf6d2d51ad76958293ff742f293a64b039ec8dcd70214394a9ab2" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[3Bundles Hair Wefts Closure Big Curl Gorgeous V...]]></source>
+    <translation><![CDATA[3Bundles tramas del pelo de cierre enrollamiento grande magnífico V ...]]></translation>
+  </word>
+  <word hash="0144242741c8a64174a2d55a4c85898f543049fa90d14724ce2d4c5a57cb5839" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[3Bundles Hair Wefts With Closure Deep Curly Excellent Virgin Hair]]></source>
+    <translation><![CDATA[3Bundles tramas del pelo rizado con cierre profundo Excelente pelo de la Virgen]]></translation>
+  </word>
+  <word hash="55c1392cf257bd941a44cb34842a59d886435d7f405ee55289ac7489317e2545" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[3Bundles Hair Wefts With Closure Deep Curly Exc...]]></source>
+    <translation><![CDATA[3Bundles tramas del pelo rizado con cierre profundo Exc ...]]></translation>
+  </word>
+  <word hash="e542a782c66fa2b68960f579aaa4e0aad5ea0fc6709d922e6fc33057afa36081" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Hair Bundles With Closure Body Wave Virgin Hair]]></source>
+    <translation><![CDATA[Mechones de cabello con el encierro del cuerpo Virgen de la onda del pelo]]></translation>
+  </word>
+  <word hash="84fd9bac333ad79154348296204fa7f8c537a96e08983e5f73b3f5aca8e8edf7" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[prev]]></source>
+    <translation><![CDATA[prev]]></translation>
+  </word>
+  <word hash="c6c1c9a9c8543f1e4cd980064cf1625eeb61a90703b2464fff039f21682508b3" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[next]]></source>
+    <translation><![CDATA[próximo]]></translation>
+  </word>
+  <word hash="024819576eb772b3e536746e9f85dd661375a8ef8194179ce1089480f859e977" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Share Your New Looking With Us]]></source>
+    <translation><![CDATA[Compartir su nueva Mirando con Nosotros]]></translation>
+  </word>
+  <word hash="b0b8ce39feac979317b536c3508ba00213b14bc3928d1912eed16e812919a112" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[VIEW GALLERY]]></source>
+    <translation><![CDATA[VER GALERÍA]]></translation>
+  </word>
+  <word hash="a1c72d9d4779e8a1efff2186d909b48bc502f21a8b7f741b728911cd08714cd4" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Deep Wave Virgin Hair Photo Gallery]]></source>
+    <translation><![CDATA[Profunda Virgen de la onda del pelo Galería de fotos]]></translation>
+  </word>
+  <word hash="fa4366a8897370f1d4e0f4419c24ffeaf6dc68750b03dc5fcb833c9b46d4d463" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Body Wave Virgin Hair photo Gallery]]></source>
+    <translation><![CDATA[Galería de fotos cuerpo Virgen de la onda del pelo]]></translation>
+  </word>
+  <word hash="cd3ff2328cca3c88d789a5723fa749e6eeb5b7e9602656299f92a4b96695ba90" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Colored Virgin Hair]]></source>
+    <translation><![CDATA[Color pelo de la Virgen]]></translation>
+  </word>
+  <word hash="486160cdcd93029033b66be175a03cda0f650386edea86ab7d74ad69ce540140" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Styled by herself]]></source>
+    <translation><![CDATA[Diseñado por sí misma]]></translation>
+  </word>
+  <word hash="edb78d8f95e23afd6a7ea8f95e11421b2805b8c1a6578c22a3a4be8fab9cbc0a" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Straight Hair Photo Gallery]]></source>
+    <translation><![CDATA[Galería de fotos de pelo recta]]></translation>
+  </word>
+  <word hash="d5bc933f3233d97962474cbeb18f133be90328e5dc241bbf8af99b248fd40a1a" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Big curl virgin hair photo gallery]]></source>
+    <translation><![CDATA[Gran galería de fotos del cabello virgen rizo]]></translation>
+  </word>
+  <word hash="eed8f901692d08569529456228c6857fd47f122086ebb5c8e048b07546ecf7a4" date="2016-03-10T09:16:07+00:00">
+    <source><![CDATA[Fr]]></source>
+    <translation><![CDATA[P.]]></translation>
+  </word>
+  <word hash="4f559b35d0c013e4d1972f66af0556b94f3c6f60ebe34ff8a77e4773ca7ff559" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Customer Service: For questions regarding order status and other after-sales support, log in to My Orders and click on the order you need help with. From the]]></source>
+    <translation><![CDATA[Atención al cliente: Si tienes preguntas sobre el estado del pedido y otro tipo de apoyo post-venta, ingrese a mis órdenes y haga clic en el orden que necesita ayuda. Desde el]]></translation>
+  </word>
+  <word hash="64f4e76ff7e9077b42ec72d1c965d249736eea3509f986add6dc9551f219f6f0" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[ day ]]></source>
+    <translation><![CDATA[ día ]]></translation>
+  </word>
+  <word hash="b79cac926e0b2e347e72cc91d5174037c9e17ae7733fd7bdb570f71b10cd7bfc" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Help]]></source>
+    <translation><![CDATA[Ayudar]]></translation>
+  </word>
+  <word hash="42cc7e7135f46c4cf0e5b87f637ce5d2b56a2dc545b9b42cbe55c1bf3b9942b3" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Company Policies]]></source>
+    <translation><![CDATA[Políticas de la Compañía]]></translation>
+  </word>
+  <word hash="bd85211eadb4a1eca82e349073a2bdcc0af982b2f3e30e23fdca8a6cc7bb8129" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Infringement Policy]]></source>
+    <translation><![CDATA[Política de Violación]]></translation>
+  </word>
+  <word hash="506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Privacy Policy]]></source>
+    <translation><![CDATA[Política de privacidad]]></translation>
+  </word>
+  <word hash="8b03454652d36be8d6898987cdb8ba771c530494105010fc03b074ab118bf6fd" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Copyright Notice]]></source>
+    <translation><![CDATA[Aviso de copyright]]></translation>
+  </word>
+  <word hash="12a0015fa32217778863154566bce500732726db6ea596518712c12955d9a225" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Terms of Use]]></source>
+    <translation><![CDATA[Condiciones de uso]]></translation>
+  </word>
+  <word hash="686a751c8557455e1d3c86791409fc4075b03f069c3a39d12e7973bc45927ab6" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Other Business]]></source>
+    <translation><![CDATA[Otros asuntos]]></translation>
+  </word>
+  <word hash="e327c680cf7e0e2fe214799b7b4ac8d6861bce00ba9b87271dad677f36e4a31e" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Disturbtor Worldwide]]></source>
+    <translation><![CDATA[Disturbtor todo el mundo]]></translation>
+  </word>
+  <word hash="40e18d31d56be0b667d463cebe872d07e10f9e579ff57e22dfe89f3764c71525" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Dropship]]></source>
+    <translation><![CDATA[Dropship]]></translation>
+  </word>
+  <word hash="09513d0ed97381c5ce2f54bb4c921ec46b17c4d1f003af62f6ef8a8ec040f085" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Wholesale]]></source>
+    <translation><![CDATA[Comercio al por mayor]]></translation>
+  </word>
+  <word hash="0444eee1c96c9519e0535dbe82288a8f30c9162e32b58fec4626221235c8b012" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Contact Us ]]></source>
+    <translation><![CDATA[Contáctenos ]]></translation>
+  </word>
+  <word hash="bf6d8a2a831410b743278ed666a2e20a51cfb39173639c6acafa1f4344911143" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Customer Service:]]></source>
+    <translation><![CDATA[Servicio al cliente:]]></translation>
+  </word>
+  <word hash="d3c99910b84f9429abac096f1fa37fe2f3ba1629c1d8a95034400c1ca101f842" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[For questions regarding order status and other after-sales support, log in to My Orders and click on the order you need help with. From the detailed order page, you can easily review order details, track order progress, and request help by submitting a Customer Service ticket. We normally respond to all tickets within 1 working day.]]></source>
+    <translation><![CDATA[Si tienes preguntas sobre el estado del pedido y otro tipo de apoyo post-venta, ingrese a mis órdenes y haga clic en el orden que usted necesita ayuda. Desde la página detallada fin, puede revisar fácilmente detalles de la orden, el progreso orden de las pistas, y solicitud de ayuda mediante la presentación de un billete de Servicio al Cliente. Normalmente respondemos a todas las entradas dentro de 1 día laborable.]]></translation>
+  </word>
+  <word hash="9cd26bee4d76694cb03cfee8c2355a83339157f2e9234fd1352c12597da72474" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Your Name]]></source>
+    <translation><![CDATA[Su nombre]]></translation>
+  </word>
+  <word hash="2811f1a7afc3f8f40c3b70ca73d0038463eaeff1b95a8ef3b8b879bd4f50465e" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Your E-mail]]></source>
+    <translation><![CDATA[Tu E-mail]]></translation>
+  </word>
+  <word hash="078da36beac80a8b2f4722448dcf716a94ba7668a2861dafdcb113ca8c1c15e5" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[formal error]]></source>
+    <translation><![CDATA[vicio de forma]]></translation>
+  </word>
+  <word hash="4ffe77461d833d58be840ae2e770a80a0114a5ca359ee11e6ea9f1b7bf393ab6" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Your Phone:]]></source>
+    <translation><![CDATA[Su teléfono:]]></translation>
+  </word>
+  <word hash="2f77668a9dfbf8d5848b9eeb4a7145ca94c6ed9236e4a773f6dcafa5132b2f91" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Message]]></source>
+    <translation><![CDATA[Mensaje]]></translation>
+  </word>
+  <word hash="fbbc62abe62c950be7a6e96c25ee735a45ffb71180250daf07cf5a6f96beca4e" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[CAPCHA]]></source>
+    <translation><![CDATA[CAPCHA]]></translation>
+  </word>
+  <word hash="e54154cc0a4e97e99609fad08e18f6b463e7c530d836baef6d67c1ec11ddde59" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[captcha]]></source>
+    <translation><![CDATA[Captcha]]></translation>
+  </word>
+  <word hash="f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Send]]></source>
+    <translation><![CDATA[Enviar]]></translation>
+  </word>
+  <word hash="d80bfddd371fe0d69698ecb239397dacb22c84e3387bf136dd1daacf0201bd5c" date="2016-03-10T09:18:04+00:00">
+    <source><![CDATA[Help. Contact us]]></source>
+    <translation><![CDATA[Ayuda. Contáctenos]]></translation>
+  </word>
+  <word hash="7458199fe97a184002bfd3c42bae81371f0ae2229b5c0a257a9bae77e4f4eda8" date="2016-03-10T09:39:20+00:00">
+    <source><![CDATA[French]]></source>
+    <translation><![CDATA[Francés]]></translation>
+  </word>
+  <word hash="898ecd5dec2f7a2ac76e4edcb8c8a7bdbc72090d76e9a8c714eb80bb691e8ba1" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[Qty: 1]]></source>
+    <translation><![CDATA[Cantidad: 1]]></translation>
+  </word>
+  <word hash="83595a43312551246d752d33f88002d5d326453b244876b89b046f38c1803229" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[USD$ 218]]></source>
+    <translation><![CDATA[USD $ 218]]></translation>
+  </word>
+  <word hash="299a1ad0167e52c9dfc4e65e196e6aae92d05af487251671b521a7e7af5a7d0a" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[Qty: 21]]></source>
+    <translation><![CDATA[Cantidad: 21]]></translation>
+  </word>
+  <word hash="e124eb0e09d7be95bb2e6e6b6d6da34d9505a05af7dbd9c73d9b2a89f2a40729" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[USD$ 263]]></source>
+    <translation><![CDATA[USD $ 263]]></translation>
+  </word>
+  <word hash="b1923a2bcee0b84fed219052250b16e0299e0affae3d40ab09cdd58df9128bdb" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[Total：]]></source>
+    <translation><![CDATA[Total:]]></translation>
+  </word>
+  <word hash="2cd6cac6512e11a8097bac21227f2b039b60cf88757dc415771c78908521471c" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[Sub-Total : USD$ 5741]]></source>
+    <translation><![CDATA[Sub-Total: $ 5,741 USD]]></translation>
+  </word>
+  <word hash="73b87c5c1247e877a2d027e749b2d01f1d2dd3c15ad7436379036d1927622730" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[BLOG]]></source>
+    <translation><![CDATA[BLOG]]></translation>
+  </word>
+  <word hash="3acd252ded577f2ac83b3a8c0a878c74945942debb469ab26f9ead3d81f4d97c" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[Return of Beyoncé Bob Style]]></source>
+    <translation><![CDATA[Retorno de Beyoncé Bob Estilo]]></translation>
+  </word>
+  <word hash="ffe605f3ed7b32aa5be0336fab648929dea15484a1364b49a8f2245b3b486db7" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[Post time: 03-02-2016]]></source>
+    <translation><![CDATA[Fecha publicación: 02/03/2016]]></translation>
+  </word>
+  <word hash="662cea15c30508bf2733b9b1056c50d9c91dbcff8f6730e0f4706b1ed3cb6de9" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[From all the splendid collection at prettywighair, you can easily find the wig hair of your favorite
+celebrity’s hairstyle. In case Beyoncé Knowles is your favorite celebrity and you are fond of
+Beyoncé bob wig then this is the right place to get it. Tons of Beyoncé hairstyles are available
+at th...]]></source>
+    <translation><![CDATA[De toda la espléndida colección en prettywighair, se puede encontrar fácilmente el pelo de la peluca del peinado de su celebridad favorita. En el caso de Beyoncé Knowles es su celebridad favorita y usted es aficionado a la peluca bob Beyoncé entonces este es el lugar adecuado para conseguirlo. Toneladas de cortes de pelo de Beyoncé están disponibles en el ...]]></translation>
+  </word>
+  <word hash="6b9e5698ec325d2bd954744a2a962d7684788bf904acf99f7370a74a761b0efd" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[Read more ]]></source>
+    <translation><![CDATA[Leer más ]]></translation>
+  </word>
+  <word hash="8099b2b0bd4777fd5d6a05043044aae2e064dfdf3137afc92ad949011f0a5f17" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[Hayley Williams Inspired Dyed Orange Human Hair Bob]]></source>
+    <translation><![CDATA[Hayley Williams Inspirado teñido de naranja humano del pelo de Bob]]></translation>
+  </word>
+  <word hash="4e6c96b15c6d4ee4b9605d6c7b8481276ce62c4620ada116b5eae1058d4eca4c" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[The cute Hayley Williams bob can be easily acquired with a little “do it yourself” technique.
+Hayley was spotted with the cute orange bob at the 52nd Grammy Awards on January 31,
+2010 in Los Angeles. PrettyWigHair has got a plenty of variety of bob human hair wigs in human
+hair and synthetic wigs...]]></source>
+    <translation><![CDATA[La sacudida linda Hayley Williams puede ser adquirida fácilmente con un poco de "hágalo usted mismo" técnica. Hayley fue visto con la lenteja anaranjada linda en los premios Grammy 52 ª el 31 de enero de 2010 en Los Ángeles. PrettyWigHair tiene un montón de variedad de bob pelucas de cabello humano en el pelo humano y pelucas sintéticas ...]]></translation>
+  </word>
+  <word hash="994e028cb519b2a62488243c26603f0f64e737b6f1782c75bb4c0f7e23be9a87" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[Katie Holmes Inspired Short Straight Bob]]></source>
+    <translation><![CDATA[Katie Holmes Inspirado recta corta Bob]]></translation>
+  </word>
+  <word hash="aba42d72b5e045b10e20fb4f194dad782b756b21b568f630da4a50470c90095e" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[The contemporary bob human hair wigs style enhances the features and the dignity of the
+person wearing it. The entire collection of bob wigs at prettywighair is made from pure human hair
+that means they can be styled by the choice of the user. Curl them, straight them or blow dry
+them, you can do...]]></source>
+    <translation><![CDATA[El estilo de las pelucas del pelo humano de la sacudida contemporánea mejora las características y la dignidad de la persona que lo lleva. Toda la colección de pelucas bob en prettywighair está hecha de cabello humano puro que significa que pueden ser de estilo por la elección del usuario. Rizo, recta ellos o soplar secarlos, se puede hacer ...]]></translation>
+  </word>
+  <word hash="52160fe517de89e345ef25be35b1932164a2149c5d9c4f25088d7af925a5e125" date="2016-03-10T09:40:04+00:00">
+    <source><![CDATA[Making A Side Sweep With Wigs]]></source>
+    <translation><![CDATA[Haciendo un barrido lateral Con pelucas]]></translation>
+  </word>
+  <word hash="74dfbb175f2796b7bf202506fc57eaf023ed3648c52ad57f139fb92a4f7d22c3" date="2016-03-10T09:40:06+00:00">
+    <source><![CDATA[These days, not only wigs for women are popular, men’s wigs are also very much popular.
+The wigs made for men are not easy to put on but there are some instructions that can help
+you. They are as follows:
+Pin the cap with the hair before wearing the wig. For those who have shorter hair, they
+can ...]]></source>
+    <translation><![CDATA[En estos días, no sólo para las mujeres pelucas son populares, pelucas de los hombres también son muy populares. Las pelucas hechas para los hombres no son fáciles de poner, pero hay algunas instrucciones que le pueden ayudar. Son los siguientes: Pin de la tapa con el pelo antes de usar la peluca. Para aquellos que tienen el pelo más corto, que pueden ...]]></translation>
+  </word>
+  <word hash="b1e57d954af013f23237b4930cf9207d6702badb8868b69945bd0e2cabade1f4" date="2016-03-10T09:40:06+00:00">
+    <source><![CDATA[Wearing the Celebrity Noble Wigs]]></source>
+    <translation><![CDATA[El uso de las pelucas de la celebridad Noble]]></translation>
+  </word>
+  <word hash="63403b46161661163ce8d3ca0fbf2836011d0ee929238589b648b3df76d3aeb0" date="2016-03-10T09:40:06+00:00">
+    <source><![CDATA[Many different kinds of hair accessories are available in the market. One of these hair
+accessories is the celebrity noble wig. These wigs are very much famous among women.
+These wigs are made up of heat friendly synthetic material. These wigs are cap-
+less and the length is usually short. The st...]]></source>
+    <translation><![CDATA[Muchos tipos diferentes de accesorios para el cabello están disponibles en el mercado. Uno de estos accesorios para el cabello es la peluca noble de la celebridad. Estas pelucas son muy famoso entre las mujeres. Estas pelucas están hechas de material sintético amistoso de calor. Estas pelucas son CAP- menos y la duración suele ser corta. La st ...]]></translation>
+  </word>
+  <word hash="3dc39fec84e8a4f61a5904cc578b2f5875328d416df2500ab428366b6e8a04f0" date="2016-03-10T09:40:06+00:00">
+    <source><![CDATA[All Time Favorite Human Hair Wigs]]></source>
+    <translation><![CDATA[Todos los tiempos favorita pelucas de cabello humano]]></translation>
+  </word>
+  <word hash="d5cf1536df6586c69f56af253b22e8e5c41095e840aa0973d17122ac406bc9b2" date="2016-03-10T09:40:06+00:00">
+    <source><![CDATA[Are you a fashion chic? Do you get tired of the daily hairstyling? If you are facing all this thena wig is the only thing you need. A wig made from human hair is the one that will stay true to you till a long time. All the wig requires is a little attention as you need to take care of it just
+lik...]]></source>
+    <translation><![CDATA[¿Es usted una moda chic? ¿Te cansas de la peluquería todos los días? Si se enfrentan a todo esto peluca thena es la única cosa que necesita. Una peluca hecha de cabello humano es el que va a permanecer fiel a ti hasta mucho tiempo. Toda la peluca requiere es un poco de atención como sea necesario para cuidar de él solo lik ...]]></translation>
+  </word>
+  <word hash="a4c91eec85b88675d2f3085d30d78cd0412f5e2b2c552dda996a4a5c19e1595e" date="2016-03-10T09:40:06+00:00">
+    <source><![CDATA[Human Hair Clip-In Extensions]]></source>
+    <translation><![CDATA[Cabello humano Clip-en extensiones]]></translation>
+  </word>
+  <word hash="ad6a52d29075bca0c383f1897a70bdb6822836df6ceb2f3c56656fb7b5674605" date="2016-03-10T09:40:06+00:00">
+    <source><![CDATA[Human hair wigs are all over the place. Despite of being expensive they are the best-
+selling wigs. The reason people go for these wigs is that they give the hair the real deal. Your
+natural hair and the human hair of wigs will blend so smartly that no one can even suspect
+youwearing a wig. In yo...]]></source>
+    <translation><![CDATA[pelucas de cabello humano son por todo el lugar. A pesar de ser caras que son las pelucas más vendido. La razón la gente va para estas pelucas es que dan al cabello el verdadero negocio. Su cabello natural y el cabello humano de las pelucas se mezcla de manera inteligente que nadie puede sospechar siquiera youwearing una peluca. En años ...]]></translation>
+  </word>
+  <word hash="737f6bce8ca88715b787b24c005a890372e2d5cb1346e88943783515ce50d005" date="2016-03-10T09:40:06+00:00">
+    <source><![CDATA[Virgin Hair Extensions For Less]]></source>
+    <translation><![CDATA[Las extensiones de cabello virgen por menos]]></translation>
+  </word>
+  <word hash="2951500b4cd23292375f50aec40dce21cce9c427f8554b8936cb1f48e60d8028" date="2016-03-10T09:40:06+00:00">
+    <source><![CDATA[Post time: 02-29-2016]]></source>
+    <translation><![CDATA[Fecha publicación: 02/29/2016]]></translation>
+  </word>
+  <word hash="9cd7304c0537ff1e103601795ad36bef114710075f45100bb99c6546123c8eda" date="2016-03-10T09:40:07+00:00">
+    <source><![CDATA[If you are a fan of the celebrity hairstyles, you would definitely have the Beyonce hairstyles
+in your good books. The most common hairstyle picked by the celebs and the models which
+we all see at the runways and award shows is the side swept style.  It is an easy to make
+hairstyle which anyone c...]]></source>
+    <translation><![CDATA[Si usted es un fan de los peinados de las celebridades, que sin duda tiene los peinados de Beyonce en sus buenos libros. El peinado más común elegido por las celebridades y los modelos que todos vemos en las pistas de aterrizaje y entregas de premios es el estilo de barrido lateral. Es un peinado fácil de hacer que cualquiera c ...]]></translation>
+  </word>
+  <word hash="a7a18ec00e9c2649385d4f6bb54927b39027a90231d13bf7df39760287a17a01" date="2016-03-10T09:40:07+00:00">
+    <source><![CDATA[Celebs Who Have a Fixation With Extensions or Wigs!]]></source>
+    <translation><![CDATA[Las celebridades que tienen una fijación con suplementos o las pelucas!]]></translation>
+  </word>
+  <word hash="ad64df2a67dbb89ce8f622b63707f8979048ef610c4d7db36ed9480e357db12e" date="2016-03-10T09:40:07+00:00">
+    <source><![CDATA[The lifestyle of acelebrity! Full makeup teams, public relations specialists and imageconsultants all at your beck and call! Oh, the agony, right? Though most celebsdo enjoy pretty glamorous lifestyles, they are also faced with the tiresometask of constantly reinventing themselves! Well, just thr...]]></source>
+    <translation><![CDATA[El estilo de vida de acelebrity! equipos completos de maquillaje, especialistas en relaciones públicas y imageconsultants todos los que están a su entera disposición! Oh, la agonía, ¿verdad? Aunque la mayoría celebsdo disfrutar de un estilo de vida muy glamorosa, sino que también se enfrentan a la tiresometask de constante reinvención de sí mismos! Bueno, sólo thr ...]]></translation>
+  </word>
+  <word hash="ea22bc6eb83d1068008165c7780b811717b47d225a6d8d39b2cb8fa0c9336421" date="2016-03-10T09:40:07+00:00">
+    <source><![CDATA[Do You Think You Know Everything About Wigs?]]></source>
+    <translation><![CDATA[¿Usted piensa que sabes todo sobre las pelucas?]]></translation>
+  </word>
+  <word hash="783bcc0dcfd7503ee25f79d95df9e6451c201bc33d959bcbf4096b1e71bd4a24" date="2016-03-10T09:40:07+00:00">
+    <source><![CDATA[At first wigs were used by people who had hair issues or by those who wish to create a funky
+look at parties. But now wigs are used for several reasons. Everyone should have wigs
+knowledge if they are looking forward to buy one. Every wig has got its own specialty
+whether we talk about the style ...]]></source>
+    <translation><![CDATA[Al principio, las pelucas fueron utilizados por personas que tenían problemas de cabello, o por aquellos que desean crear un aspecto moderno en las fiestas. Pero ahora pelucas se utilizan por varias razones. Cada uno debe tener conocimiento pelucas si ellos están esperando para comprar uno. Cada peluca tiene su propia especialidad si hablamos del estilo ...]]></translation>
+  </word>
+  <word hash="26c0dfee172d0c77365cad9816cbd7909511e0fb72fa730d9f9a06770c41f6ca" date="2016-03-10T09:40:07+00:00">
+    <source><![CDATA[How Can Curly clip-In Hair Extensions Help?]]></source>
+    <translation><![CDATA[¿Cómo pueden Clip rizado-en el cabello Extensiones Ayuda?]]></translation>
+  </word>
+  <word hash="6779c1528f074b07c246e7ec5c33698a7c567939a565001fcf103e6354b42b79" date="2016-03-10T09:40:07+00:00">
+    <source><![CDATA[Are you looking for a splendid hairstyle for prom, wedding or any birthday party coming up?
+If yes then the curly clip-in hair extensions are what you need. The hair extensions are
+an easy way to add in length to your hair. You can even go for the colored hair extensions to
+add a funky style to y...]]></source>
+    <translation><![CDATA[¿Está buscando una espléndida corte de pelo para el prom, boda o cualquier fiesta de cumpleaños que sube? Si sí, entonces el clip en extensiones de cabello rizado son lo que necesita. Las extensiones de cabello son una forma fácil de añadir en longitud a su pelo. Incluso puede ir para las extensiones de cabello de colores para añadir un estilo funky a y ...]]></translation>
+  </word>
+  <word hash="3cbfbeb7265759fcf649aaa03ba3be41ab9df768e17fd6126cdf0e83690b56f4" date="2016-03-10T09:40:07+00:00">
+    <source><![CDATA[Instructions for washing and putting on men’s wigs]]></source>
+    <translation><![CDATA[Instrucciones para el lavado y poniendo en pelucas de los hombres]]></translation>
+  </word>
+  <word hash="d48a6ddbc739426d7cc92401f03d3070da60e5272b492ef77f4eba86c7ae37f3" date="2016-03-10T09:40:08+00:00">
+    <source><![CDATA[Q: Whats the differences between Brazilian virgin hair, Peruvian virgin hair,Malaysian 100% virgin hair and Indian virgin hair?
+ A: The differences are more apparent in the hair’s reaction to water, heat or air drying. For longer lasting curls on any of the hair, it is recommend to roller s...]]></source>
+    <translation><![CDATA[Q: ¿Cuál es la diferencia entre el pelo virginal brasileño, pelo virginal peruana, malasia virginal del pelo del 100% y el pelo virginal indio? A: Las diferencias son más evidentes en la reacción del cabello con el agua, el calor o secado al aire. Para rizos más duraderos en cualquiera de los cabellos, se recomienda al rodillo de s ...]]></translation>
+  </word>
+  <word hash="b5969ccc39df3d8cb43c00590036f64bb2a4a26d03fd521175350f6e75e4ea7e" date="2016-03-10T09:40:08+00:00">
+    <source><![CDATA[ Next > ]]></source>
+    <translation><![CDATA[ Siguiente> ]]></translation>
+  </word>
+  <word hash="0f02c6bad08d9ff1858d26cf1af766e336d71e34c2e74e8c7d417b3550cbfc44" date="2016-03-10T09:40:08+00:00">
+    <source><![CDATA[>>]]></source>
+    <translation><![CDATA[>>]]></translation>
+  </word>
+  <word hash="94ff8ef9578571481ec2fa6ac851f0f81dd2d660988c5202a510dc5b6702fd63" date="2016-03-10T09:40:08+00:00">
+    <source><![CDATA[The Last Page]]></source>
+    <translation><![CDATA[La Última Página]]></translation>
+  </word>
+  <word hash="1a56a08726f3e97354d49a5b6e7e9844ae971d5d6cbf7a5999b178d945814a04" date="2016-03-10T09:40:08+00:00">
+    <source><![CDATA[Page 1 / 11]]></source>
+    <translation><![CDATA[Página 1/11]]></translation>
+  </word>
+  <word hash="942648ad52958effa5e0d544747485c489a16bb7cd80baef9e35d1f4be6b3475" date="2016-03-10T09:40:09+00:00">
+    <source><![CDATA[For virgin hair extensions, nobody can mess with Queen Virgin Remy. We’ve always got the hottest styles, best deals, and largest selection you’ll find anywhere. It’s so easy to take advantage of our amazing selection online or in one of our stores, so really girls, you’ve got no excuse not to hav...]]></source>
+    <translation><![CDATA[Para las extensiones de cabello virgen, nadie puede ensuciar con la reina Remy de la Virgen. Siempre nos hemos llevado los estilos más calientes, las mejores ofertas, y la selección más grande que encontrarás en la web. Es tan fácil de tomar ventaja de nuestra selección increíble en línea o en una de nuestras tiendas, por lo que en realidad las niñas, no tienes excusa para no hav ...]]></translation>
+  </word>
+  <word hash="e45082dd546f3fb82a8f295fa049af43637949efa7e21df7d1a133a6f0da9ebd" date="2016-03-10T09:40:09+00:00">
+    <source><![CDATA[Want To Use Queen Virgin Remy Extensions To Grow Out Your Hair ??]]></source>
+    <translation><![CDATA[Desea utilizar reina de la Virgen de Remy extensiones a crecer fuera de los pelos ??]]></translation>
+  </word>
+  <word hash="e35665a680ba5d9e57865175c9671661f31cc957a3ab36282d51094f947b7198" date="2016-03-10T09:40:09+00:00">
+    <source><![CDATA[
+ 
+Hair extensions and weaves can serve a very useful purpose, not only for style, but for hair growth as well.
+Improperly installed and maintained hair extensions can lead to excessive hair loss and damage.  Bad installs that are not properly maintained can leave you with dry, brittle, dama...]]></source>
+    <translation><![CDATA[
+Las extensiones de cabello y tejidos pueden servir a un propósito muy útil, no sólo para el estilo, pero para el crecimiento del pelo también. No estén bien instalados y mantenidos extensiones de cabello pueden conducir a la pérdida excesiva del cabello y daños. instalaciones malos que no se mantienen adecuadamente te puede dejar con seco, quebradizo, dama ...]]></translation>
+  </word>
+  <word hash="e9f7986b6e94cbf9a80ed3abc29502e966ab512b6e3d5c9e285aadf7b3210447" date="2016-03-10T09:40:09+00:00">
+    <source><![CDATA[How to Blend Your Leave Out Perfectly with Curly Hair]]></source>
+    <translation><![CDATA[Cómo mezclar su Dejar a la perfección con el pelo rizado]]></translation>
+  </word>
+  <word hash="267fabfdf169be7d507a8c6c2254000d6dbb7be75cd2fa696c99e1700a6924ef" date="2016-03-10T09:40:09+00:00">
+    <source><![CDATA[
+ 
+If  your hair is kinky, relaxed, texlaxed or simply not the same curl pattern as your hair extensions you may find it difficult to get that “perfect” blend without reaching for a curling iron or wand.  Which may be fine in the beginning but too much direct heat and your leave out will bec...]]></source>
+    <translation><![CDATA[
+Si tu cabello es rizado, relajado, texlaxed o simplemente no es lo mismo patrón de ondulación como las extensiones de cabello puede que le resulte difícil conseguir esa mezcla "perfecta" sin llegar a un rizador de pelo o en el tubo. El cual puede estar bien al principio, pero un exceso de calor directo y el Dejar serán bec ...]]></translation>
+  </word>
+  <word hash="230faa61c482cbf8ab0e145fdc920e1c730244489863da174bd1fabdae6bc5d9" date="2016-03-10T09:40:09+00:00">
+    <source><![CDATA[Healthy Scalp]]></source>
+    <translation><![CDATA[cuero cabelludo sano]]></translation>
+  </word>
+  <word hash="44406d78d5f19b897459982ca79db6e45c4e3b7b339a9b01b99501b24b2d98ff" date="2016-03-10T09:40:09+00:00">
+    <source><![CDATA[
+It is always important to have a healthy scalp under the hair extensions. A lot of times we are so worried about the   hair and we forget to take care of what is under ( the scalp). Here are a list of  solutions to help you with your scalp problems.
+First, look at your scalp and how your hair be...]]></source>
+    <translation><![CDATA[
+Siempre es importante tener un cuero cabelludo saludable bajo las extensiones de cabello. Muchas veces estamos tan preocupados por el pelo y que se olvide de cuidar de lo que está debajo (el cuero cabelludo). Aquí hay una lista de soluciones para ayudarle con sus problemas del cuero cabelludo. En primer lugar, mirar a su cuero cabelludo y cómo sea tu cabello ...]]></translation>
+  </word>
+  <word hash="8c9512665589c83a690b6e23d0ae1f349af5326d45c85574c1b4380e3bce1903" date="2016-03-10T09:40:09+00:00">
+    <source><![CDATA[luvmehair Hair Extensions Quality]]></source>
+    <translation><![CDATA[luvmehair extensiones de cabello de calidad]]></translation>
+  </word>
+  <word hash="32ccba5144f8c3c25b5e660aa72e8cb2274fbe4bfb184d8b4dcd53981bc39746" date="2016-03-10T09:40:09+00:00">
+    <source><![CDATA[Post time: 02-24-2016]]></source>
+    <translation><![CDATA[Fecha publicación: 02/24/2016]]></translation>
+  </word>
+  <word hash="7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7" date="2016-03-11T14:17:48+00:00">
+    <source><![CDATA[Account]]></source>
+    <translation><![CDATA[Cuenta]]></translation>
+  </word>
+  <word hash="3411059cb8e0660e29dd7a3737e65a28b08eb01524a8ebc3d4168932649f23e6" date="2016-03-11T14:17:48+00:00">
+    <source><![CDATA[Spanish]]></source>
+    <translation><![CDATA[Español]]></translation>
+  </word>
+  <word hash="4d46feca1656b79598d2fa02d4aa4e4882b63a4791d9975a834897b969fb480e" date="2016-03-11T14:18:01+00:00">
+    <source><![CDATA[Es]]></source>
+    <translation><![CDATA[Es]]></translation>
+  </word>
+  <word hash="f057b880f0ed4889875d22dc3bce3f8065843786cfb8ad08eadb52d41c0dea58" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Big Curl]]></source>
+    <translation><![CDATA[Ver todos los productos bajo el enrollamiento grande]]></translation>
+  </word>
+  <word hash="6c099b671eb2df6f84bba3a09d6923e9155d4f23310f88e316cddc8ef9c39785" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[1 Bundles | Big Curl]]></source>
+    <translation><![CDATA[1 Paquetes | enrollamiento grande]]></translation>
+  </word>
+  <word hash="63351991ddf3adb760b65e13f9c300cd31b329ed8cb5cf827f28f371742656b4" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 1 Bundles | Big Curl]]></source>
+    <translation><![CDATA[Ver todos los productos en lotes de 1 | enrollamiento grande]]></translation>
+  </word>
+  <word hash="bba3cc7b60fc56beeec965ed02602a55efc84aeee29409626625c52cc45f0647" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles Wefts with Closure | Big Curl]]></source>
+    <translation><![CDATA[3 tramas Bundles con cierre | enrollamiento grande]]></translation>
+  </word>
+  <word hash="f296488491828e7cc2be1beb6df205f767ae45cf8475c9ecb86ef851a851f0fa" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles Wefts with Closure | Big Curl]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 tramas Bundles con cierre | enrollamiento grande]]></translation>
+  </word>
+  <word hash="bfd087694b6fb361d416c01309a736abfaf358bc5b8c23f2f55662980413b25d" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles | Big Curl]]></source>
+    <translation><![CDATA[3 Paquetes | enrollamiento grande]]></translation>
+  </word>
+  <word hash="6dae68ec69b5b62277a689d033d70264a9698655f08d206f191c414dd24431df" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles | Big Curl]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 Paquetes | enrollamiento grande]]></translation>
+  </word>
+  <word hash="f599e483b393008e3b03c4260fc75a080cfa00d17fb347f0d61ee172b870e019" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[Wholesale 10 Bundles | Big Curl]]></source>
+    <translation><![CDATA[10 Lotes al por mayor | enrollamiento grande]]></translation>
+  </word>
+  <word hash="76c5b23f7e7e132d34d90e076c30909b5f8ef22c6cd268050e83efa869cbfb64" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Wholesale 10 Bundles | Big Curl]]></source>
+    <translation><![CDATA[Ver todos los productos bajo al por mayor 10 Paquetes | enrollamiento grande]]></translation>
+  </word>
+  <word hash="81881b276f440ed97af3fadb6edade310814c754c042b821fc7fcbae03546af8" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Deep Curly]]></source>
+    <translation><![CDATA[Ver todos los productos bajo una profunda rizada]]></translation>
+  </word>
+  <word hash="36882a51c1735b308d35752f294a7c70f8c7563132b54229fcc83c5d7d8d84a6" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[1 Bundles | Deep Curly]]></source>
+    <translation><![CDATA[1 Paquetes | Rizado profunda]]></translation>
+  </word>
+  <word hash="bd342ebf5da057d44c04ac13320df8cc9f2d70c7f874e125122654394519a4ae" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 1 Bundles | Deep Curly]]></source>
+    <translation><![CDATA[Ver todos los productos en lotes de 1 | Rizado profunda]]></translation>
+  </word>
+  <word hash="e3f49cdf2560d839f6eb81d07f1af69d574deca8f77719612adaac85fb5e505e" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles Wefts with Closure | Deep Curly]]></source>
+    <translation><![CDATA[3 tramas Bundles con cierre | Rizado profunda]]></translation>
+  </word>
+  <word hash="01e28f558fccc5909a937df0dc2da3cff06902bb71a0ac52b00590766624d5ba" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles Wefts with Closure | Deep Curly]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 tramas Bundles con cierre | Rizado profunda]]></translation>
+  </word>
+  <word hash="37a6033bd91b2ebf9bd026d1087b53afcd69aa2b4eec647e37dae23d0e75110f" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles | Deep Curly]]></source>
+    <translation><![CDATA[3 Paquetes | Rizado profunda]]></translation>
+  </word>
+  <word hash="08fc01fd05aa9b2093c49521f8fcc5faaebc2266c99502257ef96bef7a2d8e79" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles | Deep Curly]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 Paquetes | Rizado profunda]]></translation>
+  </word>
+  <word hash="8e7c59aace2aa8ff25c422572ab00b6177688415917215e1bb108a8ff6a7c7a2" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[Wholesale 10 Bundles | Deep Curly]]></source>
+    <translation><![CDATA[10 Lotes al por mayor | Rizado profunda]]></translation>
+  </word>
+  <word hash="d31e81089f47e414cefafbec96dcd3960b8401cb6f23ba1ca8f2bef41d602bab" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Wholesale 10 Bundles | Deep Curly]]></source>
+    <translation><![CDATA[Ver todos los productos bajo al por mayor 10 Paquetes | Rizado profunda]]></translation>
+  </word>
+  <word hash="8dbcaaef293ca17037a123e699d9ef4ad0ed22067a4398d208d350545b2894fc" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Straight]]></source>
+    <translation><![CDATA[Ver todos los productos de la recta]]></translation>
+  </word>
+  <word hash="079218595736c0a57f1708d1cab040373aa9254b0d7c193a000283b79d729d7e" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[1 Bundles | Straight]]></source>
+    <translation><![CDATA[1 Paquetes | Derecho]]></translation>
+  </word>
+  <word hash="ef7df4ec98688389244e73ef40766bf3018b41077a30bacfd440144df8fc5bfb" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 1 Bundles | Straight]]></source>
+    <translation><![CDATA[Ver todos los productos en lotes de 1 | Derecho]]></translation>
+  </word>
+  <word hash="eabacb116802717a2127aae9be4121fc10819c888b1a31ae145e46387060b3df" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles Wefts with Closure | Straight]]></source>
+    <translation><![CDATA[3 tramas Bundles con cierre | Derecho]]></translation>
+  </word>
+  <word hash="24f5ffb96a8cbd81bd040ebad4d5d2f274465ae18da2509544d82b9202bc39b8" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles Wefts with Closure | Straight]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 tramas Bundles con cierre | Derecho]]></translation>
+  </word>
+  <word hash="288598156ab222bfea63e0b10581de678653f211b94335a81bd4b38cd2cdc1ac" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles | Straight]]></source>
+    <translation><![CDATA[3 Paquetes | Derecho]]></translation>
+  </word>
+  <word hash="de34dac9099bace4a28dbcba051e9ffa98c620a067d810220dd0a04e5141c04f" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles | Straight]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 Paquetes | Derecho]]></translation>
+  </word>
+  <word hash="89280e17d684092f1e58c2e8c273d2870f61043a3b22051ff02ad0e8b7acb171" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[Wholesale 10 Bundles | Straight]]></source>
+    <translation><![CDATA[10 Lotes al por mayor | Derecho]]></translation>
+  </word>
+  <word hash="3bef6a3ba7712165e438adf0799c0e87a87fc34345b2410b350c2429852a60a9" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Wholesale 10 Bundles | Straight]]></source>
+    <translation><![CDATA[Ver todos los productos bajo al por mayor 10 Paquetes | Derecho]]></translation>
+  </word>
+  <word hash="c25e032e1889b581502e875dadb8b9975b38da40cbb6dce6bf7bdddd8096399b" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Wavy]]></source>
+    <translation><![CDATA[Ver todos los productos bajo ondulada]]></translation>
+  </word>
+  <word hash="4501380457e00195f4c40aab7312468cb2981c490198e7d4605cbaab71878867" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[1 Bundles | Wavy]]></source>
+    <translation><![CDATA[1 Paquetes | Ondulado]]></translation>
+  </word>
+  <word hash="79778f64444eeca3804d5626a239aca79a0a820b1b30132287559baaeb5912af" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 1 Bundles | Wavy]]></source>
+    <translation><![CDATA[Ver todos los productos en lotes de 1 | Ondulado]]></translation>
+  </word>
+  <word hash="b0781a25ac9b123026a7c7edcfdaa859cb5e4e0c0019f49f61304de1304a7915" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles Wefts with Closure | Wavy]]></source>
+    <translation><![CDATA[3 tramas Bundles con cierre | Ondulado]]></translation>
+  </word>
+  <word hash="b0540f13fcf1585a904a1432e6fe59301b811c715c1a5b99d333503910fff950" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles Wefts with Closure | Wavy]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 tramas Bundles con cierre | Ondulado]]></translation>
+  </word>
+  <word hash="ecd709029e1ec0f2a54425b35bdd329bc692f301bc12c33f622f900a44f63020" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles | Wavy]]></source>
+    <translation><![CDATA[3 Paquetes | Ondulado]]></translation>
+  </word>
+  <word hash="ca2e752cef9c2c7158fdd38244260b1c41cd7bca43f0e25db9055481c9029898" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles | Wavy]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 Paquetes | Ondulado]]></translation>
+  </word>
+  <word hash="0e18ba84418f0439f887db775af95726c8f55b4cee1ff2373f6a6852d11b9587" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[Wholesale 10 Bundles | Wavy]]></source>
+    <translation><![CDATA[10 Lotes al por mayor | Ondulado]]></translation>
+  </word>
+  <word hash="7bcfc036b3e8b6d3ae4d647d5e10cdd6e074f4abf327d351201209e38e8d249b" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Wholesale 10 Bundles | Wavy]]></source>
+    <translation><![CDATA[Ver todos los productos bajo al por mayor 10 Paquetes | Ondulado]]></translation>
+  </word>
+  <word hash="13eee0ff64d84a18b8c9e96335cf60cf1469a9a6856ac38ad7ea2437e770d3ea" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[Women Bra&Pants Sets]]></source>
+    <translation><![CDATA[Las mujeres del sujetador y pantalones Conjuntos]]></translation>
+  </word>
+  <word hash="b64981b2e7ba73fb5685bbd3d263b00e2bb60ccd6e38872cbaccbc8696cc039a" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[View all products under Women Bra&Pants Sets]]></source>
+    <translation><![CDATA[Ver todos los productos en virtud de las mujeres del sujetador y pantalones Conjuntos]]></translation>
+  </word>
+  <word hash="9f874a923d123696d780add2ae829ee6f681b353734ab3d2d0c9734a63e0a91b" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Narrow By]]></source>
+    <translation><![CDATA[Limitar por]]></translation>
+  </word>
+  <word hash="683b531f41ec88a2f345b727afe59757b73162a340a65c86bba62866f8fe556c" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[price]]></source>
+    <translation><![CDATA[precio]]></translation>
+  </word>
+  <word hash="bc97ee2e921c0614cb0527cb609ccd78a72158c4bb4ceba83a92585037e9c408" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[$ 150-200]]></source>
+    <translation><![CDATA[$ 150-200]]></translation>
+  </word>
+  <word hash="9b4fa424d67883c9996a712ba22bece0f2bfc60ee522888c326a9bb26f777c98" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[$ 200-250]]></source>
+    <translation><![CDATA[$ 200-250]]></translation>
+  </word>
+  <word hash="d951fdbd0b0f4f09368bb58bf4401bd513730c1d25d83b70b7705be71d67837c" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[$ 300-Above]]></source>
+    <translation><![CDATA[$ 300-Por encima]]></translation>
+  </word>
+  <word hash="b753dbc1a59593d13527962eb9c4dc04dd0dcf7b6c1cb5e25d5e2b6b2ce33f95" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[$ Under-100]]></source>
+    <translation><![CDATA[$ Bajo-100]]></translation>
+  </word>
+  <word hash="73faf87b520372f74c17315f49764f51068ee7c85b65b1b6ccf1203bdb3eb7de" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Shopping (19)]]></source>
+    <translation><![CDATA[Compras (19)]]></translation>
+  </word>
+  <word hash="18fdd549b2ed367ac0c74cbec1214644728515b30edbcb78e7d322757a7c8359" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[New]]></source>
+    <translation><![CDATA[Nuevo]]></translation>
+  </word>
+  <word hash="8de4e0ea7370e4e60a521379c9edf3253afcba7660e647f3aa788e49e8993d1a" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Sales]]></source>
+    <translation><![CDATA[Venta]]></translation>
+  </word>
+  <word hash="93c91c851e7acc17d881c9b89ea954be1183070254014be03a93d169cf52dbbd" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Price]]></source>
+    <translation><![CDATA[Precio]]></translation>
+  </word>
+  <word hash="2eb6067619eae2f3359382b87644168bb3af6a6c004ad8638e9afda7c8382431" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Page 1 / 2]]></source>
+    <translation><![CDATA[Página 1/2]]></translation>
+  </word>
+  <word hash="f8231e51e8435bd43bc7a99a5ae2e212db7c74faa7d341df2ad2754fac9b49df" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Best Virgin Hair Silky Straight Hair 3pcs/lot]]></source>
+    <translation><![CDATA[Mejores Virgen sedoso pelo 3pcs recto / lot del pelo]]></translation>
+  </word>
+  <word hash="d65be137cc219d836cf6aab4bd9285cbb7161f249f8645b5fd591a4271f3be2c" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[4 votes, average: 4.75 out of 5]]></source>
+    <translation><![CDATA[4 votos, promedio: 4.75 de 5]]></translation>
+  </word>
+  <word hash="d7a4fc4dc2c2865e62324ed4662e6e9731357f75f2258d5906165d389336af40" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Reviews(16)]]></source>
+    <translation><![CDATA[Opiniones (16)]]></translation>
+  </word>
+  <word hash="05bfd26a75ee8a8bf8842ab1ba7574b56cf693c93de198f3dad1a265d5ea15e8" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Virgin Hair Ombre Straight 12″+14″+16″ With Lace Frontal]]></source>
+    <translation><![CDATA[Virgen Ombre Cabello liso de 12 "14" 16 "con el cordón frontal]]></translation>
+  </word>
+  <word hash="02ee890f1eab529c526b4595d107ffe1701edc26791eed1ff7d6bbe75d33acdb" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Virgin Hair Ombre Straight 12″+14″+...]]></source>
+    <translation><![CDATA[Virgen Ombre Cabello liso de 12 "14" + ...]]></translation>
+  </word>
+  <word hash="e495df3a572ee10d874f0e6252f3d0170fe549370bd912d903c054482115bd51" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[1 vote, average: 5.00 out of 5]]></source>
+    <translation><![CDATA[1 votos, promedio: 5.00 de 5]]></translation>
+  </word>
+  <word hash="2f7b620a30ec43aafc5fd8fbfcf9e89fcd178970ad6f6e15c9a0ed85ff0f491d" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Reviews(2)]]></source>
+    <translation><![CDATA[Comentarios (2)]]></translation>
+  </word>
+  <word hash="b64387f2414aa0abc13f436cfe7a8e51dda9c224fd6a3eda89621d0f64453498" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Virgin Hair Big Curl 18″+20″+22R...]]></source>
+    <translation><![CDATA[Virgen Mucho pelo Curl 18 "20" + 22R ...]]></translation>
+  </word>
+  <word hash="bde103c68d01e38beada2264fa7002905fd60279f8d86179b5c717a29382019d" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[5 votes, average: 5.00 out of 5]]></source>
+    <translation><![CDATA[5 votos, promedio: 5.00 fuera de 5]]></translation>
+  </word>
+  <word hash="06567ab7a29a54eeeacdac5ad7ad273baf267d03ffc0c8ef6da52a39263fda80" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Reviews(65)]]></source>
+    <translation><![CDATA[Opiniones (65)]]></translation>
+  </word>
+  <word hash="39546b016e1d5700e864ea68a184b87755cfaae5dc60f12467a60abb70652027" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Big Curl Hair 10pcs/Lot Wholesale Gorgeous Style]]></source>
+    <translation><![CDATA[Enrollamiento grande de pelo 10pcs / Lot al por mayor de estilo magnífico]]></translation>
+  </word>
+  <word hash="d19927d44de75f980f27dbe89ed01b17057965b68497b30b614b36090073d259" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[3 votes, average: 5.00 out of 5]]></source>
+    <translation><![CDATA[3 votos, promedio: 5.00 fuera de 5]]></translation>
+  </word>
+  <word hash="5173189344c602d45726ba454b2e912fa3dc7570407f9a3cd6c1b0627c1c9020" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[4 votes, average: 5.00 out of 5]]></source>
+    <translation><![CDATA[4 votos, promedio: 5.00 fuera de 5]]></translation>
+  </word>
+  <word hash="956b4d8ec66af2d0ecaef7aa0285ec50f0eb24ed094e1b6a4b45aef7874df968" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[Reviews(19)]]></source>
+    <translation><![CDATA[Opiniones (19)]]></translation>
+  </word>
+  <word hash="69336208f2cb76720b3066dc6ba341fe15a2bfa80947fd38762bdf8e4cd4cd56" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[4 votes, average: 4.50 out of 5]]></source>
+    <translation><![CDATA[4 votos, promedio: 4.50 de 5]]></translation>
+  </word>
+  <word hash="f710c3b0c3dba51fef3135059b456fa49dc15ea4c93d2da29a979252f76e63dc" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[Reviews(27)]]></source>
+    <translation><![CDATA[Opiniones (27)]]></translation>
+  </word>
+  <word hash="2939fa8e6269aa4c6c298bebc4e6b5781bb961d7099fcfd0c7987c6e73778192" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[New Fashion Quick Drying Professional Vest Sports Bra Underwear and Tights Elastic Pants Sport Trousers Whole Set for Fitness Women]]></source>
+    <translation><![CDATA[La nueva manera de secado rápido Profesional Chaleco Deportes sujetador y las medias elásticas de los pantalones de deportes todo el conjunto de Mujeres de la aptitud]]></translation>
+  </word>
+  <word hash="84b1fc8f1fe76bb4eb071cca4d4ec60c27e308d544abadaded1b0a6f281f95ce" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[New Fashion Quick Drying Professional Vest Spor...]]></source>
+    <translation><![CDATA[La nueva manera de secado rápido Profesional Chaleco Spor ...]]></translation>
+  </word>
+  <word hash="3776be761a6017c8764f1a9ffbfc834bff12b17c997b3f6562b1f4e0d6f1491e" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[0 votes, average: 0.00 out of 5]]></source>
+    <translation><![CDATA[0 votos, promedio: 0.00 de 5]]></translation>
+  </word>
+  <word hash="9106e8cdb95af16349b3dae65bea8ad2e01827a269550e05faa81e0818464744" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[Reviews(0)]]></source>
+    <translation><![CDATA[Comentarios (0)]]></translation>
+  </word>
+  <word hash="2a5196e00636a260d00ef3e529aa1903d1b1a580e00878d97e3e2e3305dab054" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[Body Wave Virgin Hair 10pcs/Lot No Shedding]]></source>
+    <translation><![CDATA[10pcs onda del cuerpo pelo de la Virgen / Lote no Arrojando]]></translation>
+  </word>
+  <word hash="577ca8529b0ca2ad6ea27cbbced4ec1da32169cf0285218ae78a338ca1f6961f" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[6 votes, average: 5.00 out of 5]]></source>
+    <translation><![CDATA[6 votos, promedio: 5.00 fuera de 5]]></translation>
+  </word>
+  <word hash="a5aae92b272b4e31bb28ce53b55214f5f38692be076912ce4710bbada5a48e09" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[Reviews(11)]]></source>
+    <translation><![CDATA[Opiniones (11)]]></translation>
+  </word>
+  <word hash="bdf4b7303b874019a743236e5f19547131f185f97e06ab763ed28f5d26209591" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[Virgin Hair Straight 10pcs/Lot Super Soft]]></source>
+    <translation><![CDATA[Virgen del pelo recto 10pcs / Lot súper blando]]></translation>
+  </word>
+  <word hash="07f5bffa48550e3be295d0edf7168883b3cb92eedd3421a57f12144147cab60c" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[2 votes, average: 5.00 out of 5]]></source>
+    <translation><![CDATA[2 votos, promedio: 5.00 fuera de 5]]></translation>
+  </word>
+  <word hash="7d2998d75ca3c3ee3d165694b4fb756dd148197129391b7fceb291634cdbc9ca" date="2016-03-12T10:50:04+00:00">
+    <source><![CDATA[Reviews(37)]]></source>
+    <translation><![CDATA[Opiniones (37)]]></translation>
+  </word>
+  <word hash="fe604f729f7ae82a6676cb129b99ab349ca9fcf2a020d628d551c730db53c98f" date="2016-03-12T10:50:04+00:00">
+    <source><![CDATA[Reviews(25)]]></source>
+    <translation><![CDATA[Opiniones (25)]]></translation>
+  </word>
+  <word hash="eae16b0efea9e15e2015363a7242b931432756c51c31accc6909da04bcb73e51" date="2016-03-12T10:50:04+00:00">
+    <source><![CDATA[9 votes, average: 4.67 out of 5]]></source>
+    <translation><![CDATA[9 votos, promedio: 4.67 de 5]]></translation>
+  </word>
+  <word hash="9e336aeceb71138934d1c79b8fa061ca63f1b3b9884bb580b9cd5e1dedfc8f59" date="2016-03-12T10:50:04+00:00">
+    <source><![CDATA[Reviews(31)]]></source>
+    <translation><![CDATA[Opiniones (31)]]></translation>
+  </word>
+  <word hash="72b441c6d0b071be2089efa1699439656784fed3426431240eb3b44f1c0faa49" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Deep Curly Virgin Hair 10pcs/Lot Quality Guaranteed]]></source>
+    <translation><![CDATA[10pcs profundamente rizado pelo de la Virgen / LOT La calidad garantizó]]></translation>
+  </word>
+  <word hash="6d67415e454fc65a45015206617ab5c6e766b8716b0273a6141afb80665fe11c" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Deep Curly Virgin Hair 10pcs/Lot Quality Guaran...]]></source>
+    <translation><![CDATA[Profundas de la Virgen rizada 10pcs / lot del pelo Calidad Guaraní ...]]></translation>
+  </word>
+  <word hash="67525816606aae87ea121cb26bd7ac36ce7be67ea6da90618c3ad16914c8af5e" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Reviews(4)]]></source>
+    <translation><![CDATA[Opiniones (4)]]></translation>
+  </word>
+  <word hash="2fe265f1aec188b760b4d4822eb1b6972187b6f7202f73dcba25eb51bf1e8144" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Body Wave Hair Bundles 1pcs/Lot No Shedding No Tangle]]></source>
+    <translation><![CDATA[La onda del cuerpo del pelo de lotes 1pcs / Lote nº vertimiento de ninguna enredo]]></translation>
+  </word>
+  <word hash="7fe17f4f098e5a77adf82fb8f15545ac9033b5474cffe7c3b7b27554d3f2fcce" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Body Wave Hair Bundles 1pcs/Lot No Shedding No ...]]></source>
+    <translation><![CDATA[La onda del cuerpo del pelo de lotes 1pcs / Lote nº vertimiento de ninguna ...]]></translation>
+  </word>
+  <word hash="bc5a9000fb8db6a3b0f811e3c6c7e9b0007c48b6fef26f3478238ad0760af663" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[3 votes, average: 4.67 out of 5]]></source>
+    <translation><![CDATA[3 votos, promedio: 4.67 de 5]]></translation>
+  </word>
+  <word hash="a7bd8bd89cb3222352bd94f71fbfa49c680de2f143efc5dcc5cac2020386696d" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Reviews(3)]]></source>
+    <translation><![CDATA[Comentarios (3)]]></translation>
+  </word>
+  <word hash="69a1cfed575dfc7cf4ea4a2957e037e76b41b0d3dfc4b6de0d3b7021af433bef" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[7 votes, average: 4.71 out of 5]]></source>
+    <translation><![CDATA[7 votos, promedio: 4.71 de 5]]></translation>
+  </word>
+  <word hash="2415efbc628a3167d85d66ff16fb02147f9655bb40aa3b9b78de28223cd27815" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Reviews(46)]]></source>
+    <translation><![CDATA[Opiniones (46)]]></translation>
+  </word>
+  <word hash="53fe88d72aa7346955949a1ea4dc5b8e177076e521a487f306385852e8043a1d" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Texture Straight Color Natural Black (1B#) Length 18+18+18 inches with 18inches Weight 100g/piece Material 100% Virgin Human]]></source>
+    <translation><![CDATA[Recta textura Color Negro natural (1B #) Longitud 18 + 18 + 18 pulgadas con 100 g 18 pulgadas Peso / pieza Material 100% humano de la Virgen]]></translation>
+  </word>
+  <word hash="f862ce8c7bb0ca888c4132c81f8abbb2cda8948294a3e2aa0fa25cd9323bdfc3" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[best quality,straight hair,virgin hair,3 bundles | straight,shopping,straight]]></source>
+    <translation><![CDATA[la mejor calidad, el pelo liso, pelo virginal, 3 paquetes | recta, ir de compras, recta]]></translation>
+  </word>
+  <word hash="be67db651b70d8efdc83a7ed0650502523b5a2e7588b0fd5d533d95ff74f4b0e" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[You are here: ]]></source>
+    <translation><![CDATA[Usted está aquí: ]]></translation>
+  </word>
+  <word hash="96a249a42ca7491e3652eb8de7dd1a3fab6755c0a0cff7b7493c00f6e9cce2f4" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Virgin Hair Straight 18″x3 with 18″ Closure
+]]></source>
+    <translation><![CDATA[Virgen del pelo recto 18 "x3 con 18" Cierre
+]]></translation>
+  </word>
+  <word hash="5d1a22815cdbf7062addc157b583961a436c900e1a22caf0eb4674ccb16d9b4e" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[SKU: ST3PCS 18 18 18
+ - 
+]]></source>
+    <translation><![CDATA[SKU: ST3PCS 18 18 18 - 
+]]></translation>
+  </word>
+  <word hash="64254d0b795cfb28f3813fd8409e1a6cbafb5601c2f3b2253416e323e6d8e873" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[In Stock]]></source>
+    <translation><![CDATA[En Stock]]></translation>
+  </word>
+  <word hash="47243fe82201566c35dba410bed96543208de0ffc6c300b77c5086082f209c90" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[ - 
+]]></source>
+    <translation><![CDATA[ - 
+]]></translation>
+  </word>
+  <word hash="18c5791ae712ba4aae89273e2ca6cc8ba935bb8791e30cdb21c8137938e5d7da" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[ Reviews(19
+)]]></source>
+    <translation><![CDATA[ Opiniones (19)]]></translation>
+  </word>
+  <word hash="a3141c8ce799a14cc6865137aa2bbcde6499d890e0d54ca8cd4501f97eb64039" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[
+ - 
+]]></source>
+    <translation><![CDATA[
+ - 
+]]></translation>
+  </word>
+  <word hash="41654de92d367f2f40f7742379ce0ab524eede8945994eb01cdd9afd512fa509" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Login to Add Wishlist]]></source>
+    <translation><![CDATA[Regístrate para añadir Lista de Deseos]]></translation>
+  </word>
+  <word hash="119c224af521c384eb9e961ef1a4f1face6e860d6f65baad11a27a88abda3993" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Please Register]]></source>
+    <translation><![CDATA[Por favor Registrar]]></translation>
+  </word>
+  <word hash="efdf8485ca4dbda5d1c0f9d9b5559240a98b33a37fe72dba7a3210c8b46b73ac" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[USD$
+]]></source>
+    <translation><![CDATA[USD $
+]]></translation>
+  </word>
+  <word hash="342c2980a6c2a578dfe1cd62a121adfa9b44d21216295492e8b535333c97fa97" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[194.00
+]]></source>
+    <translation><![CDATA[194.00
+]]></translation>
+  </word>
+  <word hash="a6a1b1f5f99e77a596a81da3bb8e306ec813c28eacd044fdf4812cb75da2c7d9" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Choice:]]></source>
+    <translation><![CDATA[Elección:]]></translation>
+  </word>
+  <word hash="0ae8b3acb3599dd47eacb18c211a6d44d6346f1c1cef23be2cac8f8122b7744b" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[18 18 18@0@0.00@]]></source>
+    <translation><![CDATA[18 18 18 @ 0 @ 0.00 @]]></translation>
+  </word>
+  <word hash="71abf4bdc708a9aca798f38c1741bb32ee145426131171e137c939f84384a9e0" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[18 18 18]]></source>
+    <translation><![CDATA[18 18 18]]></translation>
+  </word>
+  <word hash="d42120e357efd59572467e3227463a54a894ee4c92f6e562cec1e31f9c1298ae" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[18 18 18 with 18closure@75@0.00@]]></source>
+    <translation><![CDATA[18 18 18 con 18closure @ 75 @ 0.00 @]]></translation>
+  </word>
+  <word hash="ea04d506a72aa9cbe8349e083236d551b789c6da024fd38e67d6c2fd70848974" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[18 18 18 with 18closure]]></source>
+    <translation><![CDATA[18 18 18 con 18closure]]></translation>
+  </word>
+  <word hash="abf5b0a2d4a46a0566ac8a092831f0906a57d2a99883cc78c4b4e05c9fcb59dd" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[ --- Please Select --- ]]></source>
+    <translation><![CDATA[ --- Por favor seleccione --- ]]></translation>
+  </word>
+  <word hash="bcc491472462e30614326230f084f7c9793af7f5add6794dcb542f7fed0ac3ad" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Qty :]]></source>
+    <translation><![CDATA[Cantidad:]]></translation>
+  </word>
+  <word hash="8f696970b74c8a782f15e5c6ef73992e53e38a0a87184ecf20fab1b32617174e" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[ADD TO CART]]></source>
+    <translation><![CDATA[AÑADIR A LA CESTA]]></translation>
+  </word>
+  <word hash="168f3122dae420503444b10fd95335838ed60613a50433425c8bc2d16c719086" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Add selected item to your shopping basket]]></source>
+    <translation><![CDATA[Añadir elemento seleccionado a tu cesta de la compra]]></translation>
+  </word>
+  <word hash="ccc9ff052aee8da1c7d607bee2283e981bd0bdce2de409fe3789ada64e20e080" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[airport]]></source>
+    <translation><![CDATA[aeropuerto]]></translation>
+  </word>
+  <word hash="a44008e84174a6d64730650db7e9a1d23aa470f8946aa7b0dad310dfcad78f95" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Shipping:]]></source>
+    <translation><![CDATA[Envío:]]></translation>
+  </word>
+  <word hash="449da3999732279a9d752e34d4b8ccf3fe89597fd8991aab8cbfd5c5be70c35a" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[DHL,Fedex]]></source>
+    <translation><![CDATA[DHL, Fedex]]></translation>
+  </word>
+  <word hash="30cc875a294b3e14a2e8971fc575bc73d266b944791e819bbd42b5b34c736156" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Shipping time:   ]]></source>
+    <translation><![CDATA[Tiempo de envío:]]></translation>
+  </word>
+  <word hash="8727645fc989dd7900addbc507f11091f6d81173e57ed3c9cdb16f4b5dc0bd3b" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[USA (2-3 business days), Other Countries (2-6 business days]]></source>
+    <translation><![CDATA[Estados Unidos (2-3 días laborales), otros países (2-6 días laborables]]></translation>
+  </word>
+  <word hash="d1068beeb96a6a79937661d5cc9f290dddaa5730e64b7ab2b238078a1194c614" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[compass]]></source>
+    <translation><![CDATA[brújula]]></translation>
+  </word>
+  <word hash="6bc53b019a6499e3928c63da66463db381b32fed41aad8108eadd46ff225a8fa" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Handling time:  ]]></source>
+    <translation><![CDATA[Tiempo de envases:]]></translation>
+  </word>
+  <word hash="33c09bd5b19d543b3ef02bfc8a0fa988a49292370854d7142a667414b3bb9212" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Ships within ]]></source>
+    <translation><![CDATA[se envía en ]]></translation>
+  </word>
+  <word hash="ff627200d1a38af61e332a16eb62c77c76e885f037902ec053f76adb8e68241d" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[12 hours]]></source>
+    <translation><![CDATA[12 horas]]></translation>
+  </word>
+  <word hash="890c556753fb7ab3efb3c7edce169e5d9d60ba62249229fb4b4c6b995f8fd884" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[ after receiving cleared payment]]></source>
+    <translation><![CDATA[ después de recibir el pago despejado]]></translation>
+  </word>
+  <word hash="694de7c97950bfab9a6f0b2b828d241e5ebaeac92fd64b801e143caab94eca63" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[available_updates]]></source>
+    <translation><![CDATA[available_updates]]></translation>
+  </word>
+  <word hash="ceafcabd9558b3e8d31c084b73d1a0d74f784972bc657f20bfd7de6df023a405" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Returns:  ]]></source>
+    <translation><![CDATA[Devoluciones:]]></translation>
+  </word>
+  <word hash="893bc61f49ce4a8d3b1b899ff1e01cc5750353bfae70039911654baedf22d622" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[7 days money back guaratee,seller pays return shipping]]></source>
+    <translation><![CDATA[7 días de devolución de dinero guaratee, el vendedor paga el envío de devolución]]></translation>
+  </word>
+  <word hash="8aa2f0e7ea23369d3e6bf8c9ba51a9397cfa94b89f2f24a5e0df5e92d4a3257a" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Product Detail]]></source>
+    <translation><![CDATA[Detalles del producto]]></translation>
+  </word>
+  <word hash="c0c598dc32408ec7bd5a50eaefd5ac5a08cbf7014d9380605ec8bf45b25069fd" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Products Tags]]></source>
+    <translation><![CDATA[Productos Etiquetas]]></translation>
+  </word>
+  <word hash="e28411a3404d21f9fc1679b4464b3dc497333f6140e580d745d52e2522d65c9f" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Texture]]></source>
+    <translation><![CDATA[Textura]]></translation>
+  </word>
+  <word hash="6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Color]]></source>
+    <translation><![CDATA[Color]]></translation>
+  </word>
+  <word hash="80ea6f616150d91d02bf75e61d33b4216042cb1c4a95a61d86b10f99d439505a" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Natural Black (1B#)]]></source>
+    <translation><![CDATA[Negro natural (1B #)]]></translation>
+  </word>
+  <word hash="adc95605a1b30c73959fbaf21e60f9723efe855c482fa336a957924d4ea0a08b" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Length]]></source>
+    <translation><![CDATA[Largo]]></translation>
+  </word>
+  <word hash="af738980aca6e323a5bc209efffbbf5b7bb9771ec5ff984e694163fae37cc1dc" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[18+18+18 inches with 18inches]]></source>
+    <translation><![CDATA[18 + 18 + 18 pulgadas con 18 pulgadas]]></translation>
+  </word>
+  <word hash="81d27ef6d5033c3e1d46b7b2b50868604fd432ddb77716b5ed9383c30c08432f" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Weight]]></source>
+    <translation><![CDATA[Peso]]></translation>
+  </word>
+  <word hash="11bfa5a80da9a96edfb6fc681641ec5afca690c07d91305d6e952e65cf1a93f3" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[100g/piece]]></source>
+    <translation><![CDATA[100g / piece]]></translation>
+  </word>
+  <word hash="616cb218a65b982f61fd738e24ebe00d5a2ae039c0d386fed975a51d51b772f8" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Material]]></source>
+    <translation><![CDATA[Materiales]]></translation>
+  </word>
+  <word hash="dc008db463894b5462e21ad132da41ebfa9e449225be1c298d5a0dadb6de21d0" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[100% Virgin Human Hair]]></source>
+    <translation><![CDATA[100% de la Virgen del pelo humano]]></translation>
+  </word>
+  <word hash="5987219128d48fe7ef8e8bc5ea797287287e6ac4847a1c14786ffcd268d9236a" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Customized]]></source>
+    <translation><![CDATA[Personalizado]]></translation>
+  </word>
+  <word hash="4b9cfa1c7da083b4b548a265933a2efb10c682a9902eda0a3a648e6d5b3adfa0" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Acceptable]]></source>
+    <translation><![CDATA[Aceptable]]></translation>
+  </word>
+  <word hash="1cd1b06dc485dfb3a8720c68bc8eb5c9b7bb41510d43afd2914ca7e356cd993d" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Last Time]]></source>
+    <translation><![CDATA[Ultima vez]]></translation>
+  </word>
+  <word hash="55faa542d876b6f8bd955e3f22000b0260726774a6573310246b47c53f73d8a3" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[One more Year]]></source>
+    <translation><![CDATA[Un año más]]></translation>
+  </word>
+  <word hash="3efe467aa25337f265417d90a62c3c9c2c229502f301a569faacfbdc2eea2295" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Can Be Dyed]]></source>
+    <translation><![CDATA[Se puede teñir]]></translation>
+  </word>
+  <word hash="85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Yes]]></source>
+    <translation><![CDATA[Sí]]></translation>
+  </word>
+  <word hash="94c123595ae0ef076181d0c22184b49ff1749dfe00e98466d020215d8a22a04b" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Best Quality]]></source>
+    <translation><![CDATA[Mejor calidad]]></translation>
+  </word>
+  <word hash="0a07f659461970d8d8dcefe4fff96a1745599810dc7d47391e95c803b7b2072c" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[, ]]></source>
+    <translation><![CDATA[, ]]></translation>
+  </word>
+  <word hash="bbfdbbcf49fc461f59d5cae994e6640f46f08decf6948fcf251544a30ad1ccb0" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Straight Hair]]></source>
+    <translation><![CDATA[Cabello lacio]]></translation>
+  </word>
+  <word hash="6babb1349122aa986fc127edc334fb40f9bb82c10adabf470b4ee3ef72188ef2" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[Virgin Hair]]></source>
+    <translation><![CDATA[Pelo de la Virgen]]></translation>
+  </word>
+  <word hash="b17240f18707206d07db99270933360ca2fe5e9fa9295dd829b9968d685aff4d" date="2016-03-15T03:08:19+00:00">
+    <source><![CDATA[, 
+]]></source>
+    <translation><![CDATA[, 
+]]></translation>
+  </word>
+  <word hash="bb6d6c0925e1ddb5a3ca6d3022dfbaa419849e3e092fb1500c0694d4e68a478b" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[Virgin Hair Straight 18″+18″+18″ with 18″ Closure]]></source>
+    <translation><![CDATA[Virgen del pelo recto 18 "18" 18 "con 18" Cierre]]></translation>
+  </word>
+  <word hash="409ab7451abf673c65617fa87c2a985b7ec30073155c842d65110a0350ab363e" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[(All photos are the displays of real size and type, In Photos, Hair User: @v.corina )]]></source>
+    <translation><![CDATA[(Todas las fotos son las pantallas de tamaño real y el tipo, en Fotos, usuario del pelo: @ v.corina)]]></translation>
+  </word>
+  <word hash="24a07e72bf5c6385c13fc07eaf49f0efb58c8b432b4bf6dc17952dbaaa57391e" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[best virgin hair straight d1]]></source>
+    <translation><![CDATA[d1 recta que mejor pelo virginal]]></translation>
+  </word>
+  <word hash="444b5f534128236539f1c6f6db6d051e2fa924d027f654919aff606917ee738e" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[best virgin hair straight d2]]></source>
+    <translation><![CDATA[d2 recta que mejor pelo virginal]]></translation>
+  </word>
+  <word hash="9d3d458d8f7889fb0821dff4ce032fda17aef2ce67c3df92875863520337a20f" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[best virgin hair straight d3]]></source>
+    <translation><![CDATA[d3 recta que mejor pelo virginal]]></translation>
+  </word>
+  <word hash="1b0b4361d8a9d08788370046620dfc2c8595ffbcd378cf596d085048e580e7a7" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[best virgin hair straight d4]]></source>
+    <translation><![CDATA[d4 recta que mejor pelo virginal]]></translation>
+  </word>
+  <word hash="df097ff7a9b08eafe8f2cca984550f3e4996877eda40326a3a2e908c47451781" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[best virgin hair straight d5]]></source>
+    <translation><![CDATA[d5 recta que mejor pelo virginal]]></translation>
+  </word>
+  <word hash="feb1e9ebf28ceef50db9580ce1868abd0c30f1144b6296e8cb3e4d16b81ee05e" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[best virgin hair straight d6]]></source>
+    <translation><![CDATA[d6 recta que mejor pelo virginal]]></translation>
+  </word>
+  <word hash="015b4e0a76e504586ded7886495f58f5aae4e8ddfff25402a59c53771c7e6923" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[Specifications]]></source>
+    <translation><![CDATA[Especificaciones]]></translation>
+  </word>
+  <word hash="641e59114a5b889c992c4d13185d68524be5243946238e01acef20649a10b6c6" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Hair Color： ]]></source>
+    <translation><![CDATA[ Color de pelo: ]]></translation>
+  </word>
+  <word hash="85a42f12dd1b0f9fc846253113c4f11c54fc44fe6cc5f50cc65eb97ba6817694" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Natural Black (1B#)]]></source>
+    <translation><![CDATA[ Negro natural (1B #)]]></translation>
+  </word>
+  <word hash="61e1eb933b3b6c775c6a498c8981cbf1ec223df74e2457875627bfe989609cc7" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Hair Material：]]></source>
+    <translation><![CDATA[ Material del pelo:]]></translation>
+  </word>
+  <word hash="a7a27afea490bd025af18cdcb7aa5acd3f32c1af7fd1db06ba8b273f629ea424" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ 100% Virgin Human Hair]]></source>
+    <translation><![CDATA[ 100% de la Virgen del pelo humano]]></translation>
+  </word>
+  <word hash="f72f016c1fd254efbb178c772ed640bb53a06ef4cd17617c0ed58533346d3728" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Hair Texture：]]></source>
+    <translation><![CDATA[ Textura del cabello:]]></translation>
+  </word>
+  <word hash="1453569be9a49a1c3e929ae501725a5e0e48ae2fc78da9a750d3ad7c6c89084b" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Big Curl （straight, body wave, deep wave is available） ]]></source>
+    <translation><![CDATA[ Enrollamiento grande (derecho, onda del cuerpo, onda profunda está disponible) ]]></translation>
+  </word>
+  <word hash="063bd65d70c694b5085d245665798e763a6fa04da9e813d4eaebb1885ecc6c50" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Hair Length：]]></source>
+    <translation><![CDATA[ Largo del cabello:]]></translation>
+  </word>
+  <word hash="8d75d10c8e603c3e58b9b970c7b1295ac0b8abc66dc64fec4918cbf14d3783a1" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ 10-32 inches in large stock]]></source>
+    <translation><![CDATA[ 10-32 pulgadas de amplio stock]]></translation>
+  </word>
+  <word hash="8253586bb1e5935d9af8c40bf1673167485966d13428a9b6f3812b896a67fbcb" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Hair]]></source>
+    <translation><![CDATA[ Cabello]]></translation>
+  </word>
+  <word hash="5f7502609404acc7e8e8b14abc2f7e8c888b8bc6ad08c70d4bdf57d3d351e073" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[Weight：]]></source>
+    <translation><![CDATA[Peso:]]></translation>
+  </word>
+  <word hash="602e71edf21eff63a4f0bae1867de43b304d8c66c3926d0f3251718a709411eb" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ 100g ]]></source>
+    <translation><![CDATA[ 100g ]]></translation>
+  </word>
+  <word hash="11a1c81a198796ac82b62067040005bafe9693134b20e28e0afe31b3467dd27e" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Last Time：]]></source>
+    <translation><![CDATA[ Ultima vez:]]></translation>
+  </word>
+  <word hash="7b8e803fdb0614296268e76a40385d346bdb55308560200bc75877948683f82e" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ One more year]]></source>
+    <translation><![CDATA[ Un año más]]></translation>
+  </word>
+  <word hash="a45d9c1ac67f3f610f931b90ca2ae83135d78e79a8f9e6aa65db05821844cfea" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Can be Dyed/Styled：]]></source>
+    <translation><![CDATA[ Se puede teñir / labró:]]></translation>
+  </word>
+  <word hash="043e8d9b6079c159bec355df6acec79856cc22aead4ead0792b5f17a32ed6e75" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Yes]]></source>
+    <translation><![CDATA[ Sí]]></translation>
+  </word>
+  <word hash="5e2e1a5dc5030d098fed14bc442217acba97fac178623ccbc7d4e09cca2f047a" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Can be Customized：]]></source>
+    <translation><![CDATA[ Puede ser personalizado:]]></translation>
+  </word>
+  <word hash="6a963060f448a4c57daa2e10d5a0ad2145a09baa0604f672f363ce44d483f4a9" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Yes, customized is accepted]]></source>
+    <translation><![CDATA[ Sí, modificado para requisitos particulares se acepta]]></translation>
+  </word>
+  <word hash="e7baa91520de6e35c25a43ecd9b734a23479e91ad957341ac473b4276f142474" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ OEM/ODM Available：]]></source>
+    <translation><![CDATA[ OEM / ODM disponibles:]]></translation>
+  </word>
+  <word hash="5e8e519d493b24b922a76c6c652431d36ec28a56dcd1fe4247a537525fbf62e3" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ Shipping：]]></source>
+    <translation><![CDATA[ Envío:]]></translation>
+  </word>
+  <word hash="b6df456a8dac031c360aeb48cb3183a0e38a6b0a6bd4ed91b9c38e3271520bfa" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[ DHL / Fedex ; 2-6 working days worldwide]]></source>
+    <translation><![CDATA[ DHL / Fedex; 2-6 días de trabajo en todo el mundo]]></translation>
+  </word>
+  <word hash="9fcda3cc458a440df5f922965d4ea6ba2ea52abc8f02f9dcd89d912373c5653d" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[best virgin hair straight d7]]></source>
+    <translation><![CDATA[d7 recta que mejor pelo virginal]]></translation>
+  </word>
+  <word hash="6c4663831dce5495c47cb92769a83ecc0235578e175f5885fd98cf6180393cbe" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[Kindly Reminder]]></source>
+    <translation><![CDATA[Recordatorio bondadoso]]></translation>
+  </word>
+  <word hash="73952e0680a8f44b1b8e001b4f608dc891b6b11bd9905f0d32a6a65de1645a8e" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[99%]]></source>
+    <translation><![CDATA[99%]]></translation>
+  </word>
+  <word hash="5ecfb250b9e8ea916d8fc5a8097664200412eff0bd920073bce0393586a0a085" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[of People Regret Not Seeing These Facts Before They Bought Hair!]]></source>
+    <translation><![CDATA[La gente de lamentar no ver a estos hechos antes de Compraron pelo!]]></translation>
+  </word>
+  <word hash="0b9bcc5cfee9ca28a31cfc367b3da4d3c8ccd2c04e471f54e07e0123b449798a" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[Compared with other Chinese sellers:]]></source>
+    <translation><![CDATA[En comparación con otros vendedores chinos:]]></translation>
+  </word>
+  <word hash="6b823cc651beb955be55a960c9d8f764d3ac8985a148342e5875a1e763e8597f" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[choose best virgin hair (1)]]></source>
+    <translation><![CDATA[elegir el mejor pelo virginal (1)]]></translation>
+  </word>
+  <word hash="f7199ac0d775b3f4f6847840157c5ec8addee1214c52fd6747dfa10b1e4440c1" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[Fact 1: ]]></source>
+    <translation><![CDATA[Hecho 1: ]]></translation>
+  </word>
+  <word hash="bac64bcb144170dcbc2621268491ac5f5034ebfa59983d400bf66a0010adb269" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[Clean?]]></source>
+    <translation><![CDATA[¿Limpiar?]]></translation>
+  </word>
+  <word hash="927e4f3e5604c93eec642e1eb75aae7073c808d8fac49cd4df84bcd6fd6366b3" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[In order to seize the market at lower price, most of cheap hair sellers sell more and more bad hair. In Fact., you will find the “cheap hair” has a worse quality beyond your imagination after used. Not only that,terrible collection of raw materials and producing process will make you unexpected! Luvme Hair refuses to the price war,and just use a reasonable price to ensure hair high quality.]]></source>
+    <translation><![CDATA[Con el fin de aprovechar el mercado a un precio más bajo, la mayoría de los vendedores de cabello barato vender más y más pelo malo. En Realidad., Se encuentra el "pelo barato" tiene una peor calidad más allá de su imaginación después de utilizado. No sólo eso, horrible colección de las materias primas y el proceso de producción le hará inesperado! LUVME pelo se niega a la guerra de precios, y sólo tiene que utilizar un precio razonable para garantizar una alta calidad del cabello.]]></translation>
+  </word>
+  <word hash="cfc9a0c73fda9379d0e0b9a0b98338fce93dd42d2ab1ed05908fc23aa95e2af7" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[choose best virgin hair (2)]]></source>
+    <translation><![CDATA[elegir el mejor pelo virginal (2)]]></translation>
+  </word>
+  <word hash="2bcfb6be6e372795cc734accfe27113d4e1fd6e3348154777d70c094b1df1f42" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[Fact 2: ]]></source>
+    <translation><![CDATA[Hecho 2: ]]></translation>
+  </word>
+  <word hash="ac8fb7f9155d93a6f4261f20d657d36679f1e0b6a4acd3ec4f8d50c27e00366f" date="2016-03-15T03:08:21+00:00">
+    <source><![CDATA[Healthy?]]></source>
+    <translation><![CDATA[¿Saludable?]]></translation>
+  </word>
+  <word hash="27f10098b4c7ded2a177bf9fd888b257092624c975c43c52fcdd445978c36c3c" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[It’s not only dirty in a worse process of “cheap hair”, more importantly,but it is also a huge threat to users’ health! In order to reduce processing cost, they ignore residual chemicals of processing. However, as a customer-centric brand,we never make a evil profit at the cost of users’ health.]]></source>
+    <translation><![CDATA[Es no sólo sucia en un peor proceso de "pelo barato", lo más importante, pero también es una gran amenaza para la salud de los usuarios! Con el fin de reducir los costos de procesamiento, ignoran los productos químicos residuales de procesamiento. Sin embargo, como una marca centrada en el cliente, nunca hacemos una ganancia mal a costa de la salud de los usuarios.]]></translation>
+  </word>
+  <word hash="60c8d4baf0949237c81188bc7c1527dff9b903d995b1e96a2843d1152b0a79b9" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[choose best virgin hair (3)]]></source>
+    <translation><![CDATA[elegir el mejor pelo virginal (3)]]></translation>
+  </word>
+  <word hash="9dffec856b98d7f50d42f16678d14e8ad4ac5d55f0f2fd85af487b9bf1805bfc" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[Fact 3: ]]></source>
+    <translation><![CDATA[Hecho 3: ]]></translation>
+  </word>
+  <word hash="9761e8730ee73982be586a547b031769753d557f8499cdfbbb9237736caebde4" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[Risk?]]></source>
+    <translation><![CDATA[¿Riesgo?]]></translation>
+  </word>
+  <word hash="54bf826ab06e75037c6f21d12b1cdccb845715debdc5b3e0c4192a2256aed3d5" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[we are confident of all aspects of our products,so we can provide a full guarantees service.The service makes sure you can have a risk-free shopping and use hair without worry.]]></source>
+    <translation><![CDATA[estamos seguros de todos los aspectos de nuestros productos, para que podamos ofrecer un servicio de garantías service.The completa se asegura de que pueda tener compras libre de riesgo y el uso de cabello sin preocupación.]]></translation>
+  </word>
+  <word hash="519d670c85031ce683efd73e9cb29f1e9190921bad8040471109ca2ee8347185" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[Compared with the so-called “Big Brand”:]]></source>
+    <translation><![CDATA[En comparación con el llamado "Big Marca":]]></translation>
+  </word>
+  <word hash="97027940ad5ea233885b3fe726a34135170d72952213ac4f53006eef6f37cff7" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[Fact 4: ]]></source>
+    <translation><![CDATA[Hecho 4: ]]></translation>
+  </word>
+  <word hash="f516164323a308861bf7c27b0fa4ab3e84aa8e68f2b60a30643110ac74d62281" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[Cost-Effective?]]></source>
+    <translation><![CDATA[¿Económico?]]></translation>
+  </word>
+  <word hash="668c51476d65f58c7642a1455f8d772c28b9ba3c5f91f9f526791f83bf31fbbb" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[After careful and extensive research,we can find that almost all suppliers of so-called “global brand” are from China, and these hair material isn’t actually the best quality. However, their prices are far too high, these hair doesn’t have a good cost performance at all. Luvme Hair has the best quality and the reasonable price, so you can always get high cost-effective hair.]]></source>
+    <translation><![CDATA[Después de una investigación cuidadosa y extensa, podemos encontrar que casi todos los proveedores de la llamada "marca global" son de China, y estos materiales cabello no es realmente la mejor calidad. Sin embargo, sus precios son demasiado altos, éstos cabello no tiene un buen desempeño de los costos en absoluto. LUVME pelo tiene la mejor calidad y el precio razonable, por lo que siempre puede llegar alto pelo rentable.]]></translation>
+  </word>
+  <word hash="ceb555f088f606cdb9475671b5d604f21c0934509fdfe53a079cba1bd08197d3" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[choose best virgin hair (5)]]></source>
+    <translation><![CDATA[elegir el mejor pelo virginal (5)]]></translation>
+  </word>
+  <word hash="9b52e0dd59b8b4ef1bf98e77710c9636175337cf3687782f2f50fe59c8a2f6b9" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[Fact 5: ]]></source>
+    <translation><![CDATA[Hecho 5: ]]></translation>
+  </word>
+  <word hash="27e6a1e7877f5f6845f116f4b30852e4af704b1872834c78275f823f3ecb94b3" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[Buy What?]]></source>
+    <translation><![CDATA[¿Comprar que?]]></translation>
+  </word>
+  <word hash="07de10f2fbc34d7d4c387d6221832055ffec3d7406666727a87363e60f11f3c5" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[Different from these brands’ strategy that they spend the major money on advertising and promotion, our major money is spent on three aspects(Screening of raw material, Quality Control and After-sales service). Just a advice: Don’t spend your hard-earned money on a so-called “Brand” !]]></source>
+    <translation><![CDATA[Diferente de la estrategia de estas marcas que gastan el dinero importante en publicidad y promoción, nuestra mayor dinero se gasta en tres aspectos (detección de la materia prima, control de calidad y servicio post-venta). Sólo un consejo: no gastar su dinero duramente ganado en un denominado "Marca"!]]></translation>
+  </word>
+  <word hash="6007c79cd76bc2cd9ed175a3c15a1bdde8a6bc9addbeb6e23c36017c57836771" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[choose best virgin hair (4)]]></source>
+    <translation><![CDATA[elegir el mejor pelo virginal (4)]]></translation>
+  </word>
+  <word hash="3d7cf5e89fd1febeee6fe6533bbffaf5982a4a5dc9bc1fd1813200b9e31a8e0f" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[Fact 6: ]]></source>
+    <translation><![CDATA[Hecho 6: ]]></translation>
+  </word>
+  <word hash="6c7b69fe538735055d687b86e729bc6417fce70d57ab2c4194f83a3fae1325bc" date="2016-03-15T03:08:23+00:00">
+    <source><![CDATA[Service?]]></source>
+    <translation><![CDATA[¿Servicio?]]></translation>
+  </word>
+  <word hash="90af94b4ea1387eb8bb1de99cb48a004f347e2c2b715490cea8e9930a729e1a7" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[A:The first time you wash it,it may have a little shedding,and don’t worry,this is the normal phenomenon.Brush them with wide tooth comb,wet them before you brush them.pls comb from the end firstky,then to the top.Hair loss can be caused by many factors.]]></source>
+    <translation><![CDATA[R: La primera vez que lo lave, puede tener un poco de vertimiento, y no se preocupe, esto es normal, la phenomenon.Brush con peine de dientes anchos, los humedeció antes de cepillarse them.pls peine de la firstky final, entonces a la pérdida top.Hair puede ser causada por muchos factores.]]></translation>
+  </word>
+  <word hash="8c99d0a3286ff80c7e19cd9978a124e61a6a1ee9422f0f415cc66e8548bc867c" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[Heat damage from blow-dryers,curling irons,and flat irons,as well as coloring and extensions all result in breakage.]]></source>
+    <translation><![CDATA[El daño por calor de secadores, rizadores y planchas, así como coloración y extensiones de todo el resultado en la rotura.]]></translation>
+  </word>
+  <word hash="5bfe61e0d0da342d1801cae5a9b48c878d93ed38ad768ada907457c68cd93b9e" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[.Why are my hair extensions getting tangled?]]></source>
+    <translation><![CDATA[.why Están mis extensiones de cabello se enreden?]]></translation>
+  </word>
+  <word hash="274b549fbbaf6b11fd313915d8150e5e1ed8ed42b2b7002340f5b5eb30811bba" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[A:Your hair extenson become tangle due to being dry,oil&dirt build-up,salt-water,chlorine and dot not comb(wide tooth comb)out your hair daily.]]></source>
+    <translation><![CDATA[R: Su cabello se vuelve extenson enredar debido a estar seca, aceite y la acumulación de suciedad, agua salada, el cloro y el DOT no peine (peine de dientes anchos) de los pelos al día.]]></translation>
+  </word>
+  <word hash="80c3039e2edeef67f52844bcbec16a3b2d11123f173464a64f5df349b155d965" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[Make sure to wash & condition your hair at least once a week,twice a week is better.Use hydrating drops or consult your stylist for more help.]]></source>
+    <translation><![CDATA[Asegúrese de lavar y acondicionar el cabello al menos una vez a la semana, dos veces a la semana se better.Use hidratante gotas o consulte a su estilista para más ayuda.]]></translation>
+  </word>
+  <word hash="d34a91ffbdd09955b5db10de6a0ba913858b06c8bb7805b3167b4ed977e461e8" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[.Could the hair be dyed and Flat-Iron?]]></source>
+    <translation><![CDATA[.Could El pelo se tiñe y plana de hierro?]]></translation>
+  </word>
+  <word hash="ab2b4f7709ebe9c6ce7d81753c0581fd8a4c20337651988be4cc26ba4c73c199" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[A:It is virgin hair,so could be dyed and flat-iron,but please don’t exceed 150℃,if not the hair will be destroyed,also the hair will come back to its natural wavy after you wash it or flat-iron.]]></source>
+    <translation><![CDATA[R: Se cabello virgen, por lo que podría ser teñido y planos de hierro, pero por favor no exceda de 150 ℃, si no el pelo será destruida, también el cabello va a volver a su ondulado natural después de lavarlo o Flat- hierro.]]></translation>
+  </word>
+  <word hash="0d8efc0f62c5d1bb9d0c4a6e3ffe66d0e4e4862c9a005652f43687f36dfd98da" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[.I cancelled the order,but why I still do not receive the refund?]]></source>
+    <translation><![CDATA[.I Canceló la orden, pero ¿por qué todavía no reciben el reembolso?]]></translation>
+  </word>
+  <word hash="7b59e3572dc35f4c215a8f117dfe742ba4e9291ff7cb55246c4b9e5bfc19e599" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[A:It need 7 working days to process the refund,pls be patient.]]></source>
+    <translation><![CDATA[R: Se necesitan 7 días hábiles para procesar el reembolso, pls sea paciente.]]></translation>
+  </word>
+  <word hash="82035a5dafed531c052dcb4de205a69c2ebf250fa562363d9981c48b3ed10c28" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[ Direct Contact ]]></source>
+    <translation><![CDATA[ Contacto directo ]]></translation>
+  </word>
+  <word hash="93b055742cd5be81a6385a3774b8a318185c1b2fb0953404a9f2c8167b264381" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[Phone/Whatsapp]]></source>
+    <translation><![CDATA[Teléfono / Whatsapp]]></translation>
+  </word>
+  <word hash="8c4767a7d8e630e22865fd9abb4bcc8d05a99b116f9f7607f065808869dce282" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[0086-18613122553 ]]></source>
+    <translation><![CDATA[0.086 hasta 18613122.553 mil ]]></translation>
+  </word>
+  <word hash="6abc2376e054cf4c0d76656e98fa94353df3c851f184d91f5f4be66c22461d3b" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[ Email]]></source>
+    <translation><![CDATA[ Email]]></translation>
+  </word>
+  <word hash="cea8bcc2ab772e588c202090270e6f1bf1519a893001f1d4529635949c746ab2" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[stella@luvmehair.com]]></source>
+    <translation><![CDATA[stella@luvmehair.com]]></translation>
+  </word>
+  <word hash="b8bc73aa1aa51c0950ad5e49aa09332476ef392cdf88a63017ce8f3e4a31471a" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[Hair Deatails ]]></source>
+    <translation><![CDATA[Deatails Cabello ]]></translation>
+  </word>
+  <word hash="8f8b17295ea51a89969f2e4c065ed3149f2e877216c77a8c1fbd51358ded34f7" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[Customer Reviews]]></source>
+    <translation><![CDATA[Opiniones de los usuarios]]></translation>
+  </word>
+  <word hash="6edbdc21553a7be7e5edb5cfac1e242868f3013cba7b581c1f5b2dd5aa0b539a" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[Reviews
+(19
+)
+]]></source>
+    <translation><![CDATA[Opiniones (19)
+]]></translation>
+  </word>
+  <word hash="ff41ba6c2accca79515a1c15fa4baa8134757e293e444c022bb209df32635056" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[15 Responses to “Virgin Hair Straight 18″x3 with 18″ Closure”]]></source>
+    <translation><![CDATA[15 Respuestas a "Virgen del pelo recto 18" x3 con 18 "de cierre"]]></translation>
+  </word>
+  <word hash="0f544fc0c85474bf18b541f3ee7acee8bfb148d266043551cfc69c588af87879" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[Post time: 18/12/2015 at 11:08]]></source>
+    <translation><![CDATA[Fecha publicación: 18/12/2015 a las 11:08]]></translation>
+  </word>
+  <word hash="6e82e48ec93573c4ff20ea781c18b9c5d7fe1f88ec6b27b9dbbfebf23b347a1f" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[
+    By ]]></source>
+    <translation><![CDATA[
+    Por ]]></translation>
+  </word>
+  <word hash="2c3aaefea8267c66822f6edc0e42d9b7384695f9c0407eabda141770aab8901e" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[Garcia]]></source>
+    <translation><![CDATA[Garcia]]></translation>
+  </word>
+  <word hash="fb03f1b476d7154819553350e099d7ec30bd8351bd5078da5be531474553d419" date="2016-03-15T03:08:25+00:00">
+    <source><![CDATA[:  
+	]]></source>
+    <translation><![CDATA[:  
+	]]></translation>
+  </word>
+  <word hash="6efd66c58be4a4aa6c3408d48b3f9ca584d40c851648f8946f26b60e3c517426" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[Increasing labor costs makes these companys localed in USA/Europe seems inadequate in terms of staffing. Luvme Hair has a more abundant human resources, so there is always a well-staffed and experienced team for you. Please think about that, when you need a faster shipping or some detailed service, it may be the time when these “Brands” ignore you.]]></source>
+    <translation><![CDATA[El aumento de los costos de mano de obra hace que estos companys localed en EE.UU. / Europa parece insuficiente en cuanto a personal. LUVME pelo tiene una mayor abundancia de recursos humanos, así que siempre hay un equipo bien formado y con experiencia para usted. Por favor, piensa en eso, cuando se necesita un envío más rápido o algún servicio detallado, puede ser el momento en que estas "marcas" que ignoran.]]></translation>
+  </word>
+  <word hash="2fe66c63eadd555c724780611e37a5bef25ed0c95932fc396856af33ada23b7e" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[choose best virgin hair (6)]]></source>
+    <translation><![CDATA[elegir el mejor pelo virginal (6)]]></translation>
+  </word>
+  <word hash="79b7a3ccb26d46bd561bf769aa55e5493313c0564c93709bed7d31c951295ad7" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[So, Which is your ]]></source>
+    <translation><![CDATA[Así que, ¿Cuál es su ]]></translation>
+  </word>
+  <word hash="e93beb56e888860f7658bcd71b3c493c9c831b3996636bf423fd0023f4169118" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[best choice?]]></source>
+    <translation><![CDATA[¿mejor elección?]]></translation>
+  </word>
+  <word hash="05e2429f711a70f4f7c044ae4f1ac8f8fa4a6ecdfd75b0016b604a3b86ae773a" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[Hair Details ]]></source>
+    <translation><![CDATA[Detalles del pelo ]]></translation>
+  </word>
+  <word hash="85e6c0873a1507aa528c404ba381f22a7003d3cba6e1be55c2e393484e248aa5" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[best virgin hair straight d8]]></source>
+    <translation><![CDATA[d8 recta que mejor pelo virginal]]></translation>
+  </word>
+  <word hash="5c58e5d2074a457cc36d668a19bf96a919b3dee70950ff149be79cc651d8575a" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[ 100% Virgin Hair Certification ]]></source>
+    <translation><![CDATA[ 100% Certificación pelo de la Virgen ]]></translation>
+  </word>
+  <word hash="519e4295df43483d44af12e47db1018d1ef17354191853981e71b2b5265ce375" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[5-Certification]]></source>
+    <translation><![CDATA[5-Certificación]]></translation>
+  </word>
+  <word hash="578a4f9978347f5228215462d09b2f073cf13ba07f9bce44dd9781357d803589" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[6-Return]]></source>
+    <translation><![CDATA[6-Retorno]]></translation>
+  </word>
+  <word hash="f00faa7d9c43a0cae968075299670e39228af6f7ebe0b358994ecaa095772d93" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[ Customers’ Voice ]]></source>
+    <translation><![CDATA[ Nuestros Clientes ]]></translation>
+  </word>
+  <word hash="9af6e41f5a51e613ecaa1da77573fb74cf1743f8e2fe5d76b584fdf274015112" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[7-Customers'-voice]]></source>
+    <translation><![CDATA[7-clientes una voz]]></translation>
+  </word>
+  <word hash="eb0d2705ccbd104eb455b8f3b4a08e36f059b2cb214b8cf0e6fb3e8f17953e7e" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[Our Voice]]></source>
+    <translation><![CDATA[nuestra Voz]]></translation>
+  </word>
+  <word hash="d6c4b6c7ad03a4f7db5241b0f29c52f8ce440cdb3cc2aea4caf44424996063ef" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[the Letter to Buyer]]></source>
+    <translation><![CDATA[la Carta a comprador]]></translation>
+  </word>
+  <word hash="0972ee7574bfb10655c50328d0cae8617807f72312e29efcedca19faa6b480d5" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[Dear,]]></source>
+    <translation><![CDATA[Querido,]]></translation>
+  </word>
+  <word hash="d16457e928543d46ccb3b4c360d3c78cc0eb0af47278e4be1741db3df55ab0f1" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[Since many buyers in market complain the hair they bought can’t last and they always have some very bad experiences ]]></source>
+    <translation><![CDATA[Debido a que muchos compradores en el mercado se quejan del cabello que compró no puede durar y que siempre tienen algunas muy malas experiencias ]]></translation>
+  </word>
+  <word hash="e88e655178b55c94bbbe5d385e73bdbcc69c679c26c420f5cfbfe9eb59914f26" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[shopping ]]></source>
+    <translation><![CDATA[compras ]]></translation>
+  </word>
+  <word hash="90258f738eb82cb2a392b2cc977fac21ccc5c1539bc571afbdd7020ac42c4f78" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[online,]]></source>
+    <translation><![CDATA[en línea,]]></translation>
+  </word>
+  <word hash="d36986174b16e8c3111f2a10c94833531a44dc9a850d447c71dec6b1d26145ed" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[They don’t know how to buy good hair from so many chaotic hair sellers online.]]></source>
+    <translation><![CDATA[Ellos no saben cómo comprar buen pelo de tantos vendedores pelo caóticos en línea.]]></translation>
+  </word>
+  <word hash="c0b36531bbe2cd698ae4f673b64f4923697f2592fe2d340d0c12d28f425bd04e" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[Are you also been plagued by this trouble?]]></source>
+    <translation><![CDATA[Está también le visto afectada por este problema?]]></translation>
+  </word>
+  <word hash="0522868b03e30d5b8cddd499f940eabbaded3e71dd4e29e3dcb5b68e0ca5a4f1" date="2016-03-15T03:08:26+00:00">
+    <source><![CDATA[When the beauty of black women around world were so desire to be able to use the best hair longer time without worry, as the top hair brand has a mission that brings beauty and valuable service to customers around world, Luvme Hair was determined to research and develop a unique top quality virgin hair, and ensure that the top quality virgin hair can last many years.In the development process,the Co-founder Hellena and Beryl tried hundreds of ways to solve this problem. Finally,heaven pays off,they found the best material in the world and the most advanced technology to keep hair curl. Now we put our fingerprint here to help you recognize the original hair.]]></source>
+    <translation><![CDATA[Cuando la belleza de las mujeres negras de todo el mundo se lo deseen podrán utilizar el mejor tiempo más largo cabello sin preocupación, como la marca de pelo de arriba tiene una misión que trae belleza y valioso servicio a clientes en todo el mundo, LUVME pelo estaba decidido a la investigación y desarrollar un cabello virgen única de alta calidad, y asegurar que el pelo de la virgen de alta calidad puede durar muchos years.In el proceso de desarrollo, el co-fundador Hellena y Beryl trató cientos de maneras de resolver este problema. Por último, vale la pena el cielo, se encontraron con el mejor material en el mundo y la tecnología más avanzada para proteger a los pelos de punta. Ahora ponemos nuestra huella digital aquí para ayudarle a reconocer el cabello original.]]></translation>
+  </word>
+  <word hash="ae329d248ffa4dc303c4404264eec762f615755e8ac39c4aa732626f6f9989a7" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[Most importantly, We are your consultant in terms of hair using&caring more than a hair supplier! We promise the virgin hair can last one year at least.In addition,We will try our best to help you solve hair problems or return/refund. It’s our responsibility to bring you a pleasant shopping experience!]]></source>
+    <translation><![CDATA[Lo más importante, Somos su asesor en materia de pelo que utilizan y cuidan más que un proveedor de pelo! Prometemos el cabello virgen puede durar un año en least.In Además, intentaremos nuestro mejor para ayudarle a solucionar los problemas del cabello o la devolución / reembolso. Es nuestra responsabilidad para lograr una experiencia de compra agradable!]]></translation>
+  </word>
+  <word hash="32a2a2ca14e4e62b69bd31e04d1e9cb9ba2217a2c6c00ab633e5b056aac79a24" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[Best Regards,]]></source>
+    <translation><![CDATA[Atentamente,]]></translation>
+  </word>
+  <word hash="371a1f6a7e7ebac29b17490a572a0b91cd5c96e84349a698be06aad918f7d442" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[Hellena]]></source>
+    <translation><![CDATA[hellena]]></translation>
+  </word>
+  <word hash="66bc20916c93739fdb9d08bd5dbb36ce6df118b816a3ea8d2d87050d69014a31" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[ About Luvme Hair ]]></source>
+    <translation><![CDATA[ Sobre LUVME Cabello ]]></translation>
+  </word>
+  <word hash="27da2b4972ee68d89faa44f45c09a0322e9a68ad5a283eb933b4fc9ddb20bd35" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[Luvme Hair Products Co.,Ltd is located in Guangzhou China. As the top virgin hair supplier, Luvme Hair has its own hair factory in Xuchang city which is the biggest human hair production base. In the factory, the most experienced technical staffs are employed to operate the most advanced production technology of hair production. The hair quality problem was eliminated at the source.]]></source>
+    <translation><![CDATA[LUVME Hair Products Co., Ltd se encuentra en Guangzhou, China. Como el proveedor pelo virginal superior, LUVME pelo tiene su propia fábrica de cabello en la ciudad de Xuchang, que es la mayor base de producción de cabello humano. En la fábrica, se emplean los equipos técnicos más experimentados para operar la tecnología de producción más avanzada de la producción de pelo. El problema de la calidad del pelo fue eliminado en la fuente.]]></translation>
+  </word>
+  <word hash="a2902b0001367f34c355a37a861bb9d7f5901574d6ddd49eca016a960a183d5c" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[Luvme Hair has an excellent sales and after-sales team. The members do their best to provide customers with the best solution of purchasing & using hair. Efficient and patience are their features.]]></source>
+    <translation><![CDATA[LUVME cabello tiene un excelente equipo de ventas y post-venta. Los miembros hacen lo posible para proporcionar a los clientes la mejor solución de la compra y el uso de cabello. Eficiente y paciencia son sus características.]]></translation>
+  </word>
+  <word hash="740da3fe680de8d83c0f8c720025667072e8fd5c594d0acfe9c5036f190a269f" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[Luvme Hair supplies top virgin hair to customers around the world and has won the trust of customers and recognition. Honesty is the greatest tag of Luvme.]]></source>
+    <translation><![CDATA[LUVME pelo suministra pelo virginal superiores a los clientes en todo el mundo y ha ganado la confianza de los clientes y el reconocimiento. La honestidad es la mejor etiqueta de LUVME.]]></translation>
+  </word>
+  <word hash="9a82aee28519e10d44643736f2a1f1a2612d925f3acc43503f170c00abd80816" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[9-About-Luvme]]></source>
+    <translation><![CDATA[9-Sobre-LUVME]]></translation>
+  </word>
+  <word hash="a6785689d4f676f98d92c2064f2551c99cbed669ad5bd3bd5e1f505c198d86ea" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[ FAQ ]]></source>
+    <translation><![CDATA[ Preguntas más frecuentes ]]></translation>
+  </word>
+  <word hash="2ee38d737888bb8e8d3e2327d20963418c2e1869ecdbfa4015118263e8318e19" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[.Is the hair virgin unprocessed?]]></source>
+    <translation><![CDATA[.IS El pelo sin procesar virginal?]]></translation>
+  </word>
+  <word hash="557f41132b9755542ef91fc06c1cc53cced4f0478ff6bcc469a1bc8632154486" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[A:Yes,the hair is cut from one donor with full cuticle aligned,no acid bath,natural unprocessed.]]></source>
+    <translation><![CDATA[R: Sí, el cabello se corta de un donante con la cutícula llena alineados, sin baño de ácido, natural sin procesar.]]></translation>
+  </word>
+  <word hash="5d6593ce76f02836cf4f6edd4d98cf7ce4ae32c3649516415eb69f15702d2a29" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[.How many bundles for a full head?]]></source>
+    <translation><![CDATA[.How Muchos haces para una cabeza completa?]]></translation>
+  </word>
+  <word hash="9b99654be2ce14a90651eb566cc5f95f08be5a0de50fcc30e1860d81c615b101" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[A.10″-14″:2 bundles, 16″-22″:3bundles, 24″-30″:4bundles]]></source>
+    <translation><![CDATA[A.10 "-14": 2 manojos, 16 "-22": 3Bundles, 24 "-30": 4bundles]]></translation>
+  </word>
+  <word hash="cf3a69376b8377c07911b34d78e3367b43b59f115a5f20c39741879e8b74d1bd" date="2016-03-15T03:08:28+00:00">
+    <source><![CDATA[.Why are my hair extensions getting shedding?]]></source>
+    <translation><![CDATA[.why Son mis extensiones de cabello para conseguir derramar?]]></translation>
+  </word>
+  <word hash="b2030fd4abeb81213f6a66e93ff53a641f4fcf726e97c0a3235a62cc4194ba48" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[Okay, so I ordered the hair on Friday & I received it in Wednesday. When I opened up the packages I was totally in love with the hair ! It was soft, true to length, it didn’t have any smell , thick & full. During my co-wash literally only 2 strands of hair came out ! After I install the hair I will leave some more feedback back but so far the hair is great !]]></source>
+    <translation><![CDATA[De acuerdo, así que pedí el pelo el viernes y lo recibí en el miércoles. Cuando abrí los paquetes que estaba totalmente en amor con el pelo! Era suave, fiel a la longitud, que no tenía ningún olor, espeso y lleno. Durante mi co-lavado, literalmente, a sólo 2 mechones de cabello salieron! Después de instalar el cabello voy a dejar un poco más de retroalimentación atrás, pero hasta ahora el pelo es genial!]]></translation>
+  </word>
+  <word hash="a2953d738d2533f48da57144a74a0f35427087db27c71e6c0e6b89f099d3c2ab" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[Post time: 18/12/2015 at 15:07]]></source>
+    <translation><![CDATA[Fecha publicación: 18/12/2015 a las 15:07]]></translation>
+  </word>
+  <word hash="7f36df0b525d458fdff07102342b138e50fc794015b489dcb4d3c0a8da453ffc" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[Robinson]]></source>
+    <translation><![CDATA[Robinson]]></translation>
+  </word>
+  <word hash="3260fc279d8dd6098de0aa349007e03c98ff9dffed7c5ca9b1b89a4d04a8fd6a" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[The hair is very soft. And the bundles are really full and thick. Shipping was fast. The seller was very helpful and he kept in contact with me until I have received the hair. I will be ordering from this seller again. I haven’t installed yet but I will be installing it next week. I will give you an update once I install.]]></source>
+    <translation><![CDATA[El cabello es muy suave. Y los paquetes son realmente lleno y grueso. El envío era rápido. El vendedor era muy servicial y se mantuvo en contacto conmigo hasta que haya recibido el cabello. Voy a ordenar a este vendedor otra vez. No he instalado todavía, pero me va a instalar la próxima semana. Yo te daré una actualización una vez que se instala.]]></translation>
+  </word>
+  <word hash="a3f284406eaa95e12b501cd2dc846121789f9ed0210fd5e3477d56f4d093c205" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[Post time: 19/12/2015 at 05:49]]></source>
+    <translation><![CDATA[Fecha publicación: 19/12/2015 a las 05:49]]></translation>
+  </word>
+  <word hash="559263857b40b5a9bfe31255fdd369afa4226581ea9f5140fdf8baf18645f8e6" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[Lane]]></source>
+    <translation><![CDATA[carril]]></translation>
+  </word>
+  <word hash="635be61cdf40d75a28545767af54b7a433edd77f287b52e7660cdfbbf6523a09" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[the hair is so full and beautiful I can’t wait to install.. there is no smell and it is true to length totally worth the money,thanks]]></source>
+    <translation><![CDATA[el pelo es tan lleno y hermoso que no puedo esperar para instalar .. no hay olor y es verdad a la longitud precio merece la pena, gracias]]></translation>
+  </word>
+  <word hash="afd68a4e22bbf6ec62fe64382576ea11146ae600dbf7758c4a1193748bd638f9" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[Post time: 19/12/2015 at 09:52]]></source>
+    <translation><![CDATA[Fecha publicación: 19/12/2015 a las 09:52]]></translation>
+  </word>
+  <word hash="3013b18f4387bbe12cdb6d3ba9aa45a36adce32485da62113f97163f16beda66" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[Johnson]]></source>
+    <translation><![CDATA[Johnson]]></translation>
+  </word>
+  <word hash="d60f804416caa18943c103b4e663ceab30cc290fbd42746e7d844b58978169c0" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[Loved the hair, just installed it, little to no shedding, very soft and silky, got here quickly . Good quality hair.]]></source>
+    <translation><![CDATA[Me encantó el pelo, apenas instalado, poco o ningún vertimiento, muy suave y sedosa, conseguido aquí rápidamente. Buena calidad del cabello.]]></translation>
+  </word>
+  <word hash="b16439885349c47fa67d67cde3eae24b9201c10bd5c27476e7f1d3d0d72f6a33" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[Post time: 19/12/2015 at 14:48]]></source>
+    <translation><![CDATA[Fecha publicación: 19/12/2015 a las 14:48]]></translation>
+  </word>
+  <word hash="248715109e6a2d0c23343a5dda82be162326e4715ec69bb8f24755848739d910" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[Elizabeth]]></source>
+    <translation><![CDATA[Elizabeth]]></translation>
+  </word>
+  <word hash="407d4a6e5cb287529febcaa8b22c02411f366e2d3f721af78c8f76af44140533" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[This hair is fantastic!!! Nice and full!!! Took the bleach and color so well!!! I’ve gotten so many compliments. Thank you so much!!!]]></source>
+    <translation><![CDATA[Este pelo es fantástico !!! Agradable y lleno !!! Tomó el cloro y el color tan bien !!! He recibido muchas felicitaciones. ¡¡¡Muchas gracias!!!]]></translation>
+  </word>
+  <word hash="1da4e57c44ebd193c4828df85b3c37fb43685fc685caae52c4539094ab3c51c6" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[Post time: 20/12/2015 at 19:24]]></source>
+    <translation><![CDATA[Fecha publicación: 20/12/2015 a las 19:24]]></translation>
+  </word>
+  <word hash="8d7c3cbd40c916e95f23ed1b6aea1d53262e1081010a727854d6ed8a5a4181c1" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[Ruth]]></source>
+    <translation><![CDATA[Ruth]]></translation>
+  </word>
+  <word hash="be6fd29721963ce72ecec5d77b5d5349990e5a36c12c5b57119be9d4a4f91a46" date="2016-03-15T03:08:31+00:00">
+    <source><![CDATA[I’m very very pleased with my good. The quality is as expected and my order came very quickly! I ordered on Monday evening and I received my goods on Thursday!]]></source>
+    <translation><![CDATA[Estoy muy, muy satisfecho con mi buena. La calidad es el esperado y mi pedido llegó muy rápidamente! Pedí el lunes por la noche, y tuve los bienes el jueves!]]></translation>
+  </word>
+  <word hash="b9769873927e6b7992c10e44e5958c7f90c64bfba801aed07a37d2e40fabcaf3" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[3Bundles Hair Wefts Closure Big Curl Gorgeous Virgin Hair
+]]></source>
+    <translation><![CDATA[3Bundles tramas del pelo de cierre enrollamiento grande magnífico pelo de la Virgen
+]]></translation>
+  </word>
+  <word hash="5a5693e287554d97d54557885f10f24cb367d8dc166860015e446c494318986d" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[3Bundles Hair Wefts Closure Big Curl Gorgeous V...
+]]></source>
+    <translation><![CDATA[3Bundles tramas del pelo de cierre enrollamiento grande magnífico V ...
+]]></translation>
+  </word>
+  <word hash="43df6eecfbf9a8c9cd78485e1fdcf1b84c9d66e10d9a1af54e9a6bd444005015" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[179.50
+]]></source>
+    <translation><![CDATA[179.50
+]]></translation>
+  </word>
+  <word hash="8ce63d914f5dc7e872f129193b5350d73192dc944ff722b7525439f2a92834ef" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[3Bundles Hair Wefts With Closure Deep Curly Excellent Virgin Hair
+]]></source>
+    <translation><![CDATA[3Bundles tramas del pelo rizado con cierre profundo Excelente pelo de la Virgen
+]]></translation>
+  </word>
+  <word hash="cca339e887bdb8a173ef16b3ea926089858227ae9ae1dc9fe51ffaf7994b6469" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[3Bundles Hair Wefts With Closure Deep Curly Exc...
+]]></source>
+    <translation><![CDATA[3Bundles tramas del pelo rizado con cierre profundo Exc ...
+]]></translation>
+  </word>
+  <word hash="2d81926803326b583443516036bf86db05941d2a53c5c44ba4053a05668c3f72" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[165.50
+]]></source>
+    <translation><![CDATA[165.50
+]]></translation>
+  </word>
+  <word hash="c3339d97d04da91d915eebde69859913b5d7af962405054952f2aeaa21d74bdc" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Hair Bundles With Closure Body Wave Virgin Hair
+]]></source>
+    <translation><![CDATA[Mechones de cabello con el encierro del cuerpo Virgen de la onda del pelo
+]]></translation>
+  </word>
+  <word hash="e27847b6e437c643b6c808f0fe86f2ae837e7fae487f4bd5020cbc2996e9746a" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Straight Hair Wefts With Lace Closure Virgin Hair
+]]></source>
+    <translation><![CDATA[Las tramas del pelo recto con cierre de cordón del pelo de la Virgen
+]]></translation>
+  </word>
+  <word hash="cf485460028b8b3c28332226969c2909ffb03c7494a376d14dd69ad6d80127d3" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Body Wave Hair Bundles 1pcs/Lot No Shedding No Tangle
+]]></source>
+    <translation><![CDATA[La onda del cuerpo del pelo de lotes 1pcs / Lote nº vertimiento de ninguna enredo
+]]></translation>
+  </word>
+  <word hash="983f5bb7150ef4ff2f7fec880c021cb69068f3841703207e8991f927b3c43767" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Body Wave Hair Bundles 1pcs/Lot No Shedding No ...
+]]></source>
+    <translation><![CDATA[La onda del cuerpo del pelo de lotes 1pcs / Lote nº vertimiento de ninguna ...
+]]></translation>
+  </word>
+  <word hash="e0c29b982b778e6ecb8c47d1b2a416e35d53cd516be677834ae2be24c76f6bd1" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[84.00
+]]></source>
+    <translation><![CDATA[84.00
+]]></translation>
+  </word>
+  <word hash="3b91e47e1aa637c330d50199ca62bc252cfdad23d74a68cc83322aca83e0caf3" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Best Virgin Hair Silky Straight Hair 3pcs/lot
+]]></source>
+    <translation><![CDATA[Mejores Virgen sedoso pelo 3pcs recto / lot del pelo
+]]></translation>
+  </word>
+  <word hash="bba97836933c85e2e04056766fadb8ae94f4aea3b82e4248d75f5f8ee7605aee" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[137.00
+]]></source>
+    <translation><![CDATA[137.00
+]]></translation>
+  </word>
+  <word hash="cb72f0afaaf52e84bc6d0d398a8242ab9a9c76e4d7d6659da94f336921dbecf5" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Virgin Hair Ombre Straight 12″+14″+16″ With Lace Frontal
+]]></source>
+    <translation><![CDATA[Virgen Ombre Cabello liso de 12 "14" 16 "con el cordón frontal
+]]></translation>
+  </word>
+  <word hash="e1ebdd7adfaffd05030b72f4994d52d24ac09a16e60975900543cf3d4ccd8a9d" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Virgin Hair Ombre Straight 12″+14″+...
+]]></source>
+    <translation><![CDATA[Virgen Ombre Cabello liso de 12 "14" + ...
+]]></translation>
+  </word>
+  <word hash="fd940025debbba8e78faeddb3869ff7db318650efd58ea54e1b2ae901eb867c8" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[176.00
+]]></source>
+    <translation><![CDATA[176.00
+]]></translation>
+  </word>
+  <word hash="879b08573bdbb54ca01b80eb4d07841b67b84ebb3c9ad56c93b2c71c454d1bb1" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Styled by herself
+]]></source>
+    <translation><![CDATA[Diseñado por sí misma
+]]></translation>
+  </word>
+  <word hash="ce0d3543c5dd5ec4f00b9c6e4748df82a97252bc5f48cb9efcc4bf19f75c4473" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Straight Hair Photo Gallery
+]]></source>
+    <translation><![CDATA[Galería de fotos de pelo recta
+]]></translation>
+  </word>
+  <word hash="863320339c2a9544ead78d21f4d9519aa2a5f8aa069e941bf3f36df6f4bbdfc3" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Big curl virgin hair photo gallery
+]]></source>
+    <translation><![CDATA[Gran galería de fotos del cabello virgen rizo
+]]></translation>
+  </word>
+  <word hash="e62a1429d51818d0b64b574b3dab1196d791f1ad60122f8a938260ce2e9f92a5" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Deep Wave Virgin Hair Photo Gallery
+]]></source>
+    <translation><![CDATA[Profunda Virgen de la onda del pelo Galería de fotos
+]]></translation>
+  </word>
+  <word hash="d6c5340a106987ce2b6ac7068e6d6278b9d91eb9dabe5a39c62f9ff6e1ac551d" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Body Wave Virgin Hair photo Gallery
+]]></source>
+    <translation><![CDATA[Galería de fotos cuerpo Virgen de la onda del pelo
+]]></translation>
+  </word>
+  <word hash="0e6f8d06dbcddcf28d2daa480e56d011e1ef803179e2f15d6079dba555363319" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Colored Virgin Hair
+]]></source>
+    <translation><![CDATA[Color pelo de la Virgen
+]]></translation>
+  </word>
+  <word hash="5076a09f7b4adcd6eabc8b43610c91bffb71445707ab1f74d5f21a61e829b9c0" date="2016-03-15T03:08:34+00:00">
+    <source><![CDATA[Shopping. Luvme hair best quality virgin hair silky straight hair super soft no shedding 100gbundle 3pcslot. Html]]></source>
+    <translation><![CDATA[Compras. pelo LUVME mejor calidad pelo virginal sedoso pelo liso super suave sin derramar 3pcslot 100gbundle. html]]></translation>
+  </word>
+  <word hash="3aa5b3278e5df2d2c3c3ff259879d144e65e3e55ad1f0ffb10376b78e8622a61" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[OMGGG !!! I’m in LOVE with my hair ! It came today just like they told me. Stella mssg me every step of the way !! They let me know when my shipment was coming and it was ON TIME ! Thank you !!! I will be back to let you know how it comes out.
+]]></source>
+    <translation><![CDATA[Omggg !!! Estoy en amor con mi pelo! Se llegó hoy al igual que me dijeron. Stella me MSSG cada paso del camino !! Me hicieron saber cuando mi envío venía y se fue a tiempo! Gracias !!! Estaré de vuelta para hacerle saber cómo se sale.
+]]></translation>
+  </word>
+  <word hash="0f1c0d18ac1d2069991dd0ec307b11bcf5e9057f3283db8f06f51aafa231919c" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Post time: 08/02/2016 at 18:07]]></source>
+    <translation><![CDATA[Fecha publicación: 08/02/2016 a las 18:07]]></translation>
+  </word>
+  <word hash="c10d18a4f14bd54928672ca384f9eabc6384517f96e0eddca0563041dfc0282f" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Janay]]></source>
+    <translation><![CDATA[janay]]></translation>
+  </word>
+  <word hash="71782fdd6c51f161d78211c1d135a1ec96c3488d126124c61e698059e31c9e88" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[I’m so happy with my service!! Hair feels and looks wonderful. I will definitely shop again, seller kept in contact with me . Which made me feel comfortable with my purchase!
+]]></source>
+    <translation><![CDATA[Estoy muy feliz con mi servicio !! Cabello se siente y se ve maravilloso. Definitivamente voy a compras otra vez, el vendedor permaneció en contacto conmigo. Lo cual me hizo sentir cómodo con mi compra!
+]]></translation>
+  </word>
+  <word hash="63843993aa55752c934110c2f683d83b4f3e800ba8c5a5c3d603988a5a34c9e6" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Post time: 10/02/2016 at 14:51]]></source>
+    <translation><![CDATA[Fecha publicación: 10/02/2016 a las 14:51]]></translation>
+  </word>
+  <word hash="4e94938cdfc23343c8e80244d11d5336905e8a119aca7e148941736d40c02ded" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Dominque]]></source>
+    <translation><![CDATA[dominque]]></translation>
+  </word>
+  <word hash="4166e2fe68df9938de1c2ca3d17c223c67951153f45f84e48a75d2c5dcf04ca6" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Love love love this hair! Delivery took a bit longer than expected. But the quality of the hair is really nice and soft. Making a wig with mine. Will definitely order from them again.
+]]></source>
+    <translation><![CDATA[Amor, amor, este pelo! Entrega tomó un poco más de lo esperado. Pero la calidad del cabello es muy agradable y suave. Hacer una peluca con la mía. Sin duda pide de ellos de nuevo.
+]]></translation>
+  </word>
+  <word hash="19d2fb3f52857d8604992ad0b740319efe747d4f0e8fa1dc4f0fa6957323775e" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Click here to cancel reply.]]></source>
+    <translation><![CDATA[Haga clic aquí para cancelar la respuesta.]]></translation>
+  </word>
+  <word hash="11ce8a312716031ec30aef666e5799e8c6812d243c71a157157e1f9d79d7af5d" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Write a review here:]]></source>
+    <translation><![CDATA[Escriba un comentario aquí:]]></translation>
+  </word>
+  <word hash="03e5d6016c9c6085c85da0ac2e3e93c91417ea137ff2206d23ed037a74d5790a" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Your Name  *]]></source>
+    <translation><![CDATA[Su Nombre *]]></translation>
+  </word>
+  <word hash="c136da4b2dbbd7ddbbaa53f205469c3f08765874f87c8d87ffeb6ffee553a73b" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Your Email  *]]></source>
+    <translation><![CDATA[Su correo electrónico *]]></translation>
+  </word>
+  <word hash="6b73306b81fe730f7d55ba473ff80ad495e994e348eb33334fd5f97bc3ce767d" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Your Vote *]]></source>
+    <translation><![CDATA[Su Voto *]]></translation>
+  </word>
+  <word hash="ec1c0261d1a67a46f3327382f41a848d54e8c1d0d5de67430acc137ed4065cc3" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[1 Star]]></source>
+    <translation><![CDATA[1 estrella]]></translation>
+  </word>
+  <word hash="e0c1b799b8c87c5bab278d6d6b236cc054220d373869475caa5295bcb46e668d" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[2 Stars]]></source>
+    <translation><![CDATA[2 Estrellas]]></translation>
+  </word>
+  <word hash="3889c762af811f185b631cf59b33bf5e04112b85e25d35b1a4cb290116272f7e" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[3 Stars]]></source>
+    <translation><![CDATA[3 Estrellas]]></translation>
+  </word>
+  <word hash="d06a665649213b86cfbd218676f528e50d138f26ef33bcdb85e9eb328c049160" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[4 Stars]]></source>
+    <translation><![CDATA[4 Estrellas]]></translation>
+  </word>
+  <word hash="35a1e2fd146b9dc4bc4ea753720db9dc3961bf5ec23133973b3adb1aa6719b31" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[5 Stars]]></source>
+    <translation><![CDATA[5 Estrellas]]></translation>
+  </word>
+  <word hash="4f5a2ada1166172aa1744ca79a54e169d0a38da140fd0e02c6b0c68a4efbca90" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[ (]]></source>
+    <translation><![CDATA[ (]]></translation>
+  </word>
+  <word hash="3c7c617ca227784a73241d55538b1074bcf8a45a0e9e7577bfc4de7706df875b" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[ votes, average: ]]></source>
+    <translation><![CDATA[ votos, media: ]]></translation>
+  </word>
+  <word hash="b5ef19c81f4dad1000a45a79a02d17820b84fc90c75497a6679128d66325f381" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[ out of 5)]]></source>
+    <translation><![CDATA[ de 5)]]></translation>
+  </word>
+  <word hash="c95a3d447dec9f31336fad0c96e0d2a2f4cc0297ff87dcfc27b71a4e4f5cea51" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Loading ...]]></source>
+    <translation><![CDATA[Loading ...]]></translation>
+  </word>
+  <word hash="5ca3ac083a5b6e6efb6afb99ae380b1fd0479603560c5fdcd1a0241ab7f2f5c5" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[ Loading ...]]></source>
+    <translation><![CDATA[Loading ...]]></translation>
+  </word>
+  <word hash="33e7dd653e237927ec13c2d6305871367016d7145bd37b50a42e47d1948f2849" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Your Reviews *]]></source>
+    <translation><![CDATA[Sus comentarios *]]></translation>
+  </word>
+  <word hash="8142161ac96db996bffd94797e6e468d721d2dd556940111047cca2333ae307c" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Submit Comment]]></source>
+    <translation><![CDATA[Enviar comentario]]></translation>
+  </word>
+  <word hash="6591021f449c076081e3bc2e2d131e1018ff1828d909726b54105bb95495835f" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Upload Picture]]></source>
+    <translation><![CDATA[Subir foto]]></translation>
+  </word>
+  <word hash="b5839c47b4fd2cb0d775cebfc8e4ef38d21a8c435d4019dc5ba016fb20a17e40" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[JPEG only]]></source>
+    <translation><![CDATA[Sólo JPEG]]></translation>
+  </word>
+  <word hash="0d7c5cba0cffa7fd0a17297e1f0719f3f6f01881930bb90ccde35c6d90119af9" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Virgin Hair Big Curl 18″+20″+22″ with 16″ Closure
+]]></source>
+    <translation><![CDATA[Virgen Pelo grande Curl 18 "20" 22 "con 16" Cierre
+]]></translation>
+  </word>
+  <word hash="4509f4f64d54a84a7b3c7c8b44949cbe6663222c497facf9c18681bd479900c7" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[Virgin Hair Big Curl 18″+20″+22R...
+]]></source>
+    <translation><![CDATA[Virgen Mucho pelo Curl 18 "20" + 22R ...
+]]></translation>
+  </word>
+  <word hash="a84bcc37f80149477235088059af54acbd8ff699d427b49c3d6c6d405611232d" date="2016-03-15T03:08:35+00:00">
+    <source><![CDATA[218.00
+]]></source>
+    <translation><![CDATA[218.00
+]]></translation>
+  </word>
+  <word hash="70172db196fbd225e3ecc009bbd4f99cfea0b0653f39adfe63d5353c415b2ccd" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Post time: 21/12/2015 at 09:14]]></source>
+    <translation><![CDATA[Fecha publicación: 21/12/2015 a las 09:14]]></translation>
+  </word>
+  <word hash="35bfdf65c705f454159c6d84e368245c7e1c0787c9e60d63da36a54b6f99df79" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Nelly]]></source>
+    <translation><![CDATA[Nelly]]></translation>
+  </word>
+  <word hash="8c86bffebdb6898249fc647c0c8b064afa5af9cacec27c47908b9d9eb5b60382" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Stella did an amazing job communicating with me, and the product is amazing it doesn’t have a factory sell and the bundles are full. I will upload a picture after it is installed but they definitely have my business. Can’t wait to wash and dye it thanks!]]></source>
+    <translation><![CDATA[Stella hizo un trabajo increíble comunicarse conmigo, y el producto es increíble que no tiene una venta de la fábrica y los paquetes están llenos. Voy a subir una foto después de su instalación, pero definitivamente tienen mi negocio. No se puede esperar para lavar y teñir gracias!]]></translation>
+  </word>
+  <word hash="87ecfe932d3660b9cba77f920dd03722dc4fcfe8ab9fa9c18269af32654eea3c" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Post time: 21/12/2015 at 09:54]]></source>
+    <translation><![CDATA[Fecha publicación: 21/12/2015 a las 09:54]]></translation>
+  </word>
+  <word hash="842be8efb2f16dd15970017eb8a1e9aeb45d11b04585488110372b6f43150110" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Alexa]]></source>
+    <translation><![CDATA[Alexa]]></translation>
+  </word>
+  <word hash="121e4896ac1673397d6c0439a7702ebc12a784397009e07133ddbfd207b8bf95" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[This hair feels amazing! Nice, thick and silky. Can’t wait to install and take pictures! Shipping was very fast as well! Will definitely be ordering from and sending all my friends to Luvme Hair again!]]></source>
+    <translation><![CDATA[Este cabello se siente increíble! Niza, gruesa y sedosa. No puedo esperar para instalar y tomar fotos! El envío era muy rápido, así! Sin duda el pedido de enviar y todos mis amigos para LUVME pelo otra vez!]]></translation>
+  </word>
+  <word hash="ffaa83d8c5ad6f57418c6a91b493ab93717d549766dd80ad84075c91e766e79b" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Post time: 21/12/2015 at 12:06]]></source>
+    <translation><![CDATA[Fecha publicación: 21/12/2015 a las 12:06]]></translation>
+  </word>
+  <word hash="ecc3ebde9f28b733654e40eba4c5826de65195182dbbbf31e97997510b2502c1" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[William85]]></source>
+    <translation><![CDATA[William85]]></translation>
+  </word>
+  <word hash="09fbc30dd2cc51da0dc52e128147e338202bd8989de2609a27a3aa402fecfb5c" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Post time: 11/01/2016 at 10:54]]></source>
+    <translation><![CDATA[Fecha publicación: 11/01/2016 a las 10:54]]></translation>
+  </word>
+  <word hash="253387e8620ee1896c76809782406e139bce35860aaa0d61991965319ba0dc32" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Andrea]]></source>
+    <translation><![CDATA[Andrea]]></translation>
+  </word>
+  <word hash="78f18dc831bbbc021be9bad46644fa67249af00f0b96cfb2f3b901d8fb5095c3" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[I am new to ordering hair let alone wearing it. I love this hair. It did not shed at all and for the price and quality of hair…you get a lot. I would definitely order this hair again and the shipping was fast too. I ordered the hair on a Friday and received it in the mail Monday afternoon.
+]]></source>
+    <translation><![CDATA[Soy nuevo en el pedido de cabello y mucho menos que lo lleva. Me encanta este pelo. No derramó en absoluto y por el precio y la calidad del pelo ... te dan mucho. Definitivamente, me gustaría pedir este pelo de nuevo y el envío era rápido también. Pedí el pelo en un viernes y lo recibió en el correo lunes por la tarde.
+]]></translation>
+  </word>
+  <word hash="1f6819492c6316834e1a0279e3aafe7dd7395284b2ed906690a0c162ddcb4afc" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Post time: 01/02/2016 at 09:39]]></source>
+    <translation><![CDATA[Fecha publicación: 02/01/2016 a las 09:39]]></translation>
+  </word>
+  <word hash="aa5158400310ceaec0fc6b1fbeccb202922e508a6f3998dba7429d1f1bf2d138" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[trishawna]]></source>
+    <translation><![CDATA[trishawna]]></translation>
+  </word>
+  <word hash="a06f96b136db31e39072fbd91b8dcf48858cb1fe9d4ec19f164758fd2d6c967f" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[The hair arrived on time The hair feels amazing love it so far!!! Will be buying from here again
+]]></source>
+    <translation><![CDATA[El pelo llegado a tiempo el pelo se siente amor increíble que hasta ahora !!! Comprará a aquí de nuevo
+]]></translation>
+  </word>
+  <word hash="e979eccfa5c46c997d9d12520ae94f865e1bb9f4c4ca3decdd766ae0e37a2cab" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Post time: 05/02/2016 at 10:20]]></source>
+    <translation><![CDATA[Fecha publicación: 05/02/2016 a las 10:20]]></translation>
+  </word>
+  <word hash="1e59ec02fa6a844d602f7358d0f3d69bd13bbc445ae23cf3f48cc14be7553de3" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Darranda]]></source>
+    <translation><![CDATA[Darranda]]></translation>
+  </word>
+  <word hash="43af4d30e8d3070d02a780b1f979e508c45b3d728d88e3c04186988c858ea0c9" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[so happy my hair is here , can’t wait to get them installed Saturday . will post pictures .]]></source>
+    <translation><![CDATA[tan feliz mi pelo está aquí, no puede esperar para conseguir que se instalaron el sábado. publicará fotografías.]]></translation>
+  </word>
+  <word hash="b2602ec9a6f2bfc8a199d473e3d23226e11d8b2ba10c4268da22549a86807392" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Post time: 05/02/2016 at 14:50]]></source>
+    <translation><![CDATA[Fecha publicación: 05/02/2016 a las 14:50]]></translation>
+  </word>
+  <word hash="2324ba724e8f832ab1712cddf29c7318c97dcd52335b57773293d3a23a470e53" date="2016-03-15T03:08:37+00:00">
+    <source><![CDATA[Jana]]></source>
+    <translation><![CDATA[Jana]]></translation>
+  </word>
+  <word hash="352cfc749e55222e135ee48e67631ba33f834d936c137560fd39063d2e57e5cb" date="2016-03-15T03:10:37+00:00">
+    <source><![CDATA[Gallery]]></source>
+    <translation><![CDATA[Galería]]></translation>
+  </word>
+  <word hash="15911c6caeed67c7edcecd11a7242beda8cc79e2aef56b193c93bff074611585" date="2016-03-15T03:10:37+00:00">
+    <source><![CDATA[Gallery > Colored Virgin Hair ]]></source>
+    <translation><![CDATA[Galería> Colored Hair Virgin ]]></translation>
+  </word>
+  <word hash="444b3dbe9e9932fdf298806f24a9803270147da07f687105e9efa9525fe27770" date="2016-03-15T03:10:37+00:00">
+    <source><![CDATA[colored-club]]></source>
+    <translation><![CDATA[color-club]]></translation>
+  </word>
+  <word hash="67e37143f5a7574040b697c02dd9c8876646e12be3a08ff5963fe6324990af35" date="2016-03-15T03:10:37+00:00">
+    <source><![CDATA[Beautiful girls were so satisfied with the hair from Luvme that they sent us their photos for hoping show their beauty . Girls,thanks so much for your loving!]]></source>
+    <translation><![CDATA[Las muchachas hermosas eran tan satisfechos con el pelo de LUVME que nos enviaron sus fotos para la esperanza de mostrar su belleza. Las niñas, muchas gracias por tu amor!]]></translation>
+  </word>
+  <word hash="660e0b2b8a7b0757de59a0a2fdcf824ef97a4919923a1b587175bad0bb3e43c9" date="2016-03-15T03:10:37+00:00">
+    <source><![CDATA[The colored hair is very gorgeous and beautiful, and you can choose your favorite color to have a try.]]></source>
+    <translation><![CDATA[El color del cabello es muy precioso y hermoso, y usted puede elegir su color favorito para tener una oportunidad.]]></translation>
+  </word>
+  <word hash="61e9c8731ea9458f4c476783af8ccff48c0ca54152b1d13ea363ae1e67468a6b" date="2016-03-15T03:10:37+00:00">
+    <source><![CDATA[Gallery. Colored virgin hair]]></source>
+    <translation><![CDATA[Galería. pelo virginal coloreada]]></translation>
+  </word>
+</translations>

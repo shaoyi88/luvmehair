@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="fr" domain="0124f6222c4b14672eb53a4f066d7263" scope="/gallery">
+  <word hash="352cfc749e55222e135ee48e67631ba33f834d936c137560fd39063d2e57e5cb" date="2016-03-13T23:56:06+00:00">
+    <source><![CDATA[Gallery]]></source>
+    <translation><![CDATA[Galerie]]></translation>
+  </word>
+  <word hash="be67db651b70d8efdc83a7ed0650502523b5a2e7588b0fd5d533d95ff74f4b0e" date="2016-03-13T23:56:06+00:00">
+    <source><![CDATA[You are here: ]]></source>
+    <translation><![CDATA[Vous êtes ici: ]]></translation>
+  </word>
+  <word hash="26ff184f6ce0485ccc9052fd82b5666b0a07c955d45ed50d682f26f1dd7102bb" date="2016-03-16T06:26:22+00:00">
+    <source><![CDATA[Any Order,Free Shipping]]></source>
+    <translation><![CDATA[Toute Commande, Livraison gratuite]]></translation>
+  </word>
+  <word hash="dcab8050b2927a1591b8d94cc1a1ca297c3228fc31a03a3b3e7bfa76c7e83075" date="2016-03-16T06:26:22+00:00">
+    <source><![CDATA[10$ Discount Code:NEW10]]></source>
+    <translation><![CDATA[10 $ Code Remise: NEW10]]></translation>
+  </word>
+  <word hash="6b4f03b153275fc9a05c8ac89183f30c123edc3c88dd16965e15bd6668217633" date="2016-03-16T06:26:22+00:00">
+    <source><![CDATA[Promotion Time (2.14-3.14)]]></source>
+    <translation><![CDATA[Promotion Time (2.14 à 3.14)]]></translation>
+  </word>
+  <word hash="64f4e76ff7e9077b42ec72d1c965d249736eea3509f986add6dc9551f219f6f0" date="2016-03-16T06:26:22+00:00">
+    <source><![CDATA[ day ]]></source>
+    <translation><![CDATA[ jour ]]></translation>
+  </word>
+  <word hash="72b441c6d0b071be2089efa1699439656784fed3426431240eb3b44f1c0faa49" date="2016-03-16T06:26:22+00:00">
+    <source><![CDATA[Deep Curly Virgin Hair 10pcs/Lot Quality Guaranteed]]></source>
+    <translation><![CDATA[Curly 10pcs profondes Vierge Cheveux / Qualité Lot Garanti]]></translation>
+  </word>
+  <word hash="3ce8323889e83be18b21ca9286fdc14b2594c1f459c6891f19be8582f078f594" date="2016-03-16T06:26:22+00:00">
+    <source><![CDATA[Qty: 7]]></source>
+    <translation><![CDATA[Quantité: 7]]></translation>
+  </word>
+  <word hash="300cbb0e714e215e7a7f16805f6a4056c1e14975b63b0ee2973320781b3ad311" date="2016-03-16T06:26:22+00:00">
+    <source><![CDATA[USD$ 845]]></source>
+    <translation><![CDATA[USD $ 845]]></translation>
+  </word>
+  <word hash="b1923a2bcee0b84fed219052250b16e0299e0affae3d40ab09cdd58df9128bdb" date="2016-03-16T06:26:22+00:00">
+    <source><![CDATA[Total：]]></source>
+    <translation><![CDATA[Total:]]></translation>
+  </word>
+  <word hash="1df0c0afbbcb98c5ef7aa3b5a97b4f5c8c8b8eb7039e6c501ead66f848bdfd44" date="2016-03-16T06:26:22+00:00">
+    <source><![CDATA[Sub-Total : USD$ 5915]]></source>
+    <translation><![CDATA[Sous-total: 5915 USD $]]></translation>
+  </word>
+</translations>

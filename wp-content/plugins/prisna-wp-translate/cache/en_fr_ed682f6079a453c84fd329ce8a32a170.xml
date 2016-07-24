@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="fr" domain="ed682f6079a453c84fd329ce8a32a170" scope="/register">
+  <word hash="597d673824a4398fee66d5a736f026895008131a74120230f1828e5639b29915" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[Lost Password]]></source>
+    <translation><![CDATA[Mot de passe oublié]]></translation>
+  </word>
+  <word hash="64f4e76ff7e9077b42ec72d1c965d249736eea3509f986add6dc9551f219f6f0" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[ day ]]></source>
+    <translation><![CDATA[ jour ]]></translation>
+  </word>
+  <word hash="4f9d559aa2a17df0af8c2c8e81df4eff5eb94fb140cd3b9355ac52601e7b1ab9" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[Register ]]></source>
+    <translation><![CDATA[Enregistrer ]]></translation>
+  </word>
+  <word hash="2478227a0b06811d4d8a6e2339145232fadca0a9b1f461050aee8910b9c7c91a" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[Register a New Account ]]></source>
+    <translation><![CDATA[Créer un nouveau compte ]]></translation>
+  </word>
+  <word hash="9041ca608c0de35a644a03e79beb6f7c6ccebb2257b7dbfc81e1e9f1895bd936" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[Username *]]></source>
+    <translation><![CDATA[Nom d'utilisateur *]]></translation>
+  </word>
+  <word hash="2550d962e536e7c0889f563a957c5389c97aa7507881efe2b754769b814d8256" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[E-mail]]></source>
+    <translation><![CDATA[E-mail]]></translation>
+  </word>
+  <word hash="10bf40b35ee197b4e797eef265057e566dba7d8a305280bfb1eaef1b8e9c76ce" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[Connect with:]]></source>
+    <translation><![CDATA[Connectez-vous avec:]]></translation>
+  </word>
+  <word hash="61e20c8e2fae9832b3857252d3b20ba551c56dbc98113f782d2d85f56e7bb281" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[Connect with Facebook]]></source>
+    <translation><![CDATA[Connecter avec Facebook]]></translation>
+  </word>
+  <word hash="e7cf3ef4f17c3999a94f2c6f612e8a888e5b1026878e4e19398b23bd38ec221a" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[Password]]></source>
+    <translation><![CDATA[Mot de passe]]></translation>
+  </word>
+  <word hash="c292210c44167923a75b092a008f9d2b194fb08631a6aa43d753ed7931ad4d5e" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[Confirm Password]]></source>
+    <translation><![CDATA[Confirmez le mot de passe]]></translation>
+  </word>
+  <word hash="9d6322c1f4d9d3f38aed8bfbe0b2bcadf66ad82c008476fa62541fa069138e94" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[Login]]></source>
+    <translation><![CDATA[Connexion]]></translation>
+  </word>
+  <word hash="c10b0139918961eb16d977cbbab9b892304475e162f29bdc2d6be252a6a078c0" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[Username or E-mail]]></source>
+    <translation><![CDATA[Nom d'utilisateur ou adresse e-mail]]></translation>
+  </word>
+  <word hash="a75795269d9698bf063254e03dc26f83aaec607d5c3039c80af17a7dba7e55cf" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[gd-admin]]></source>
+    <translation><![CDATA[gd-admin]]></translation>
+  </word>
+  <word hash="2070f725ff1c765b73c498de52bc419377979691f6100de3ed99794aeb40d988" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[forever]]></source>
+    <translation><![CDATA[toujours]]></translation>
+  </word>
+  <word hash="2a92f6fbf986ba79aaf2a45d6353c5f73864ed76be78a271fd852436637586b6" date="2016-03-13T04:24:12+00:00">
+    <source><![CDATA[Remember Me]]></source>
+    <translation><![CDATA[Se souvenir de moi]]></translation>
+  </word>
+  <word hash="d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85" date="2016-03-16T06:27:48+00:00">
+    <source><![CDATA[Facebook]]></source>
+    <translation><![CDATA[Facebook]]></translation>
+  </word>
+</translations>

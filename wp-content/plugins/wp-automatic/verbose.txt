@@ -1,0 +1,21 @@
+* About to connect() to deandev.com port 80 (#0)
+*   Trying 107.180.26.90...
+* connected
+* Connected to deandev.com (107.180.26.90) port 80 (#0)
+> GET /php/test2.php HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.8) Gecko/2009032609 Firefox/3.0.8
+Host: deandev.com
+Accept: */*
+Referer: http://www.bing.com/
+
+< HTTP/1.1 200 OK
+< Date: Wed, 24 Feb 2016 22:24:43 GMT
+< Server: Apache/2.4.12
+< X-Powered-By: PHP/5.4.43
+* Added cookie Test-cookie="55" for domain deandev.com, path /php/, expire 0
+< Set-Cookie: Test-cookie=55
+< Transfer-Encoding: chunked
+< Content-Type: text/html
+< 
+* Connection #0 to host deandev.com left intact
+* Closing connection #0

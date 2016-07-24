@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="es" domain="2ceab4eb7fb9cec669c2e30b88a9e419" scope="/shopping">
+  <word hash="26ff184f6ce0485ccc9052fd82b5666b0a07c955d45ed50d682f26f1dd7102bb" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[Any Order,Free Shipping]]></source>
+    <translation><![CDATA[Cualquier orden, envío libre]]></translation>
+  </word>
+  <word hash="dcab8050b2927a1591b8d94cc1a1ca297c3228fc31a03a3b3e7bfa76c7e83075" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[10$ Discount Code:NEW10]]></source>
+    <translation><![CDATA[10 $ Código Descuento: New10]]></translation>
+  </word>
+  <word hash="6b4f03b153275fc9a05c8ac89183f30c123edc3c88dd16965e15bd6668217633" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[Promotion Time (2.14-3.14)]]></source>
+    <translation><![CDATA[Tiempo de la promoción (2.14 a 3.14)]]></translation>
+  </word>
+  <word hash="64f4e76ff7e9077b42ec72d1c965d249736eea3509f986add6dc9551f219f6f0" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[ day ]]></source>
+    <translation><![CDATA[ día ]]></translation>
+  </word>
+  <word hash="f057b880f0ed4889875d22dc3bce3f8065843786cfb8ad08eadb52d41c0dea58" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Big Curl]]></source>
+    <translation><![CDATA[Ver todos los productos bajo el enrollamiento grande]]></translation>
+  </word>
+  <word hash="6c099b671eb2df6f84bba3a09d6923e9155d4f23310f88e316cddc8ef9c39785" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[1 Bundles | Big Curl]]></source>
+    <translation><![CDATA[1 Paquetes | enrollamiento grande]]></translation>
+  </word>
+  <word hash="63351991ddf3adb760b65e13f9c300cd31b329ed8cb5cf827f28f371742656b4" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 1 Bundles | Big Curl]]></source>
+    <translation><![CDATA[Ver todos los productos en lotes de 1 | enrollamiento grande]]></translation>
+  </word>
+  <word hash="bba3cc7b60fc56beeec965ed02602a55efc84aeee29409626625c52cc45f0647" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles Wefts with Closure | Big Curl]]></source>
+    <translation><![CDATA[3 tramas Bundles con cierre | enrollamiento grande]]></translation>
+  </word>
+  <word hash="f296488491828e7cc2be1beb6df205f767ae45cf8475c9ecb86ef851a851f0fa" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles Wefts with Closure | Big Curl]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 tramas Bundles con cierre | enrollamiento grande]]></translation>
+  </word>
+  <word hash="bfd087694b6fb361d416c01309a736abfaf358bc5b8c23f2f55662980413b25d" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles | Big Curl]]></source>
+    <translation><![CDATA[3 Paquetes | enrollamiento grande]]></translation>
+  </word>
+  <word hash="6dae68ec69b5b62277a689d033d70264a9698655f08d206f191c414dd24431df" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles | Big Curl]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 Paquetes | enrollamiento grande]]></translation>
+  </word>
+  <word hash="f599e483b393008e3b03c4260fc75a080cfa00d17fb347f0d61ee172b870e019" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[Wholesale 10 Bundles | Big Curl]]></source>
+    <translation><![CDATA[10 Lotes al por mayor | enrollamiento grande]]></translation>
+  </word>
+  <word hash="76c5b23f7e7e132d34d90e076c30909b5f8ef22c6cd268050e83efa869cbfb64" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Wholesale 10 Bundles | Big Curl]]></source>
+    <translation><![CDATA[Ver todos los productos bajo al por mayor 10 Paquetes | enrollamiento grande]]></translation>
+  </word>
+  <word hash="81881b276f440ed97af3fadb6edade310814c754c042b821fc7fcbae03546af8" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Deep Curly]]></source>
+    <translation><![CDATA[Ver todos los productos bajo una profunda rizada]]></translation>
+  </word>
+  <word hash="36882a51c1735b308d35752f294a7c70f8c7563132b54229fcc83c5d7d8d84a6" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[1 Bundles | Deep Curly]]></source>
+    <translation><![CDATA[1 Paquetes | Rizado profunda]]></translation>
+  </word>
+  <word hash="bd342ebf5da057d44c04ac13320df8cc9f2d70c7f874e125122654394519a4ae" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 1 Bundles | Deep Curly]]></source>
+    <translation><![CDATA[Ver todos los productos en lotes de 1 | Rizado profunda]]></translation>
+  </word>
+  <word hash="e3f49cdf2560d839f6eb81d07f1af69d574deca8f77719612adaac85fb5e505e" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles Wefts with Closure | Deep Curly]]></source>
+    <translation><![CDATA[3 tramas Bundles con cierre | Rizado profunda]]></translation>
+  </word>
+  <word hash="01e28f558fccc5909a937df0dc2da3cff06902bb71a0ac52b00590766624d5ba" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles Wefts with Closure | Deep Curly]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 tramas Bundles con cierre | Rizado profunda]]></translation>
+  </word>
+  <word hash="37a6033bd91b2ebf9bd026d1087b53afcd69aa2b4eec647e37dae23d0e75110f" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles | Deep Curly]]></source>
+    <translation><![CDATA[3 Paquetes | Rizado profunda]]></translation>
+  </word>
+  <word hash="08fc01fd05aa9b2093c49521f8fcc5faaebc2266c99502257ef96bef7a2d8e79" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles | Deep Curly]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 Paquetes | Rizado profunda]]></translation>
+  </word>
+  <word hash="8e7c59aace2aa8ff25c422572ab00b6177688415917215e1bb108a8ff6a7c7a2" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[Wholesale 10 Bundles | Deep Curly]]></source>
+    <translation><![CDATA[10 Lotes al por mayor | Rizado profunda]]></translation>
+  </word>
+  <word hash="d31e81089f47e414cefafbec96dcd3960b8401cb6f23ba1ca8f2bef41d602bab" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Wholesale 10 Bundles | Deep Curly]]></source>
+    <translation><![CDATA[Ver todos los productos bajo al por mayor 10 Paquetes | Rizado profunda]]></translation>
+  </word>
+  <word hash="8dbcaaef293ca17037a123e699d9ef4ad0ed22067a4398d208d350545b2894fc" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Straight]]></source>
+    <translation><![CDATA[Ver todos los productos de la recta]]></translation>
+  </word>
+  <word hash="079218595736c0a57f1708d1cab040373aa9254b0d7c193a000283b79d729d7e" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[1 Bundles | Straight]]></source>
+    <translation><![CDATA[1 Paquetes | Derecho]]></translation>
+  </word>
+  <word hash="ef7df4ec98688389244e73ef40766bf3018b41077a30bacfd440144df8fc5bfb" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 1 Bundles | Straight]]></source>
+    <translation><![CDATA[Ver todos los productos en lotes de 1 | Derecho]]></translation>
+  </word>
+  <word hash="eabacb116802717a2127aae9be4121fc10819c888b1a31ae145e46387060b3df" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles Wefts with Closure | Straight]]></source>
+    <translation><![CDATA[3 tramas Bundles con cierre | Derecho]]></translation>
+  </word>
+  <word hash="24f5ffb96a8cbd81bd040ebad4d5d2f274465ae18da2509544d82b9202bc39b8" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles Wefts with Closure | Straight]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 tramas Bundles con cierre | Derecho]]></translation>
+  </word>
+  <word hash="288598156ab222bfea63e0b10581de678653f211b94335a81bd4b38cd2cdc1ac" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles | Straight]]></source>
+    <translation><![CDATA[3 Paquetes | Derecho]]></translation>
+  </word>
+  <word hash="de34dac9099bace4a28dbcba051e9ffa98c620a067d810220dd0a04e5141c04f" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles | Straight]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 Paquetes | Derecho]]></translation>
+  </word>
+  <word hash="89280e17d684092f1e58c2e8c273d2870f61043a3b22051ff02ad0e8b7acb171" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[Wholesale 10 Bundles | Straight]]></source>
+    <translation><![CDATA[10 Lotes al por mayor | Derecho]]></translation>
+  </word>
+  <word hash="3bef6a3ba7712165e438adf0799c0e87a87fc34345b2410b350c2429852a60a9" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Wholesale 10 Bundles | Straight]]></source>
+    <translation><![CDATA[Ver todos los productos bajo al por mayor 10 Paquetes | Derecho]]></translation>
+  </word>
+  <word hash="c25e032e1889b581502e875dadb8b9975b38da40cbb6dce6bf7bdddd8096399b" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Wavy]]></source>
+    <translation><![CDATA[Ver todos los productos bajo ondulada]]></translation>
+  </word>
+  <word hash="4501380457e00195f4c40aab7312468cb2981c490198e7d4605cbaab71878867" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[1 Bundles | Wavy]]></source>
+    <translation><![CDATA[1 Paquetes | Ondulado]]></translation>
+  </word>
+  <word hash="79778f64444eeca3804d5626a239aca79a0a820b1b30132287559baaeb5912af" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 1 Bundles | Wavy]]></source>
+    <translation><![CDATA[Ver todos los productos en lotes de 1 | Ondulado]]></translation>
+  </word>
+  <word hash="b0781a25ac9b123026a7c7edcfdaa859cb5e4e0c0019f49f61304de1304a7915" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles Wefts with Closure | Wavy]]></source>
+    <translation><![CDATA[3 tramas Bundles con cierre | Ondulado]]></translation>
+  </word>
+  <word hash="b0540f13fcf1585a904a1432e6fe59301b811c715c1a5b99d333503910fff950" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles Wefts with Closure | Wavy]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 tramas Bundles con cierre | Ondulado]]></translation>
+  </word>
+  <word hash="ecd709029e1ec0f2a54425b35bdd329bc692f301bc12c33f622f900a44f63020" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[3 Bundles | Wavy]]></source>
+    <translation><![CDATA[3 Paquetes | Ondulado]]></translation>
+  </word>
+  <word hash="ca2e752cef9c2c7158fdd38244260b1c41cd7bca43f0e25db9055481c9029898" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under 3 Bundles | Wavy]]></source>
+    <translation><![CDATA[Ver todos los productos de 3 Paquetes | Ondulado]]></translation>
+  </word>
+  <word hash="0e18ba84418f0439f887db775af95726c8f55b4cee1ff2373f6a6852d11b9587" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[Wholesale 10 Bundles | Wavy]]></source>
+    <translation><![CDATA[10 Lotes al por mayor | Ondulado]]></translation>
+  </word>
+  <word hash="7bcfc036b3e8b6d3ae4d647d5e10cdd6e074f4abf327d351201209e38e8d249b" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[View all products under Wholesale 10 Bundles | Wavy]]></source>
+    <translation><![CDATA[Ver todos los productos bajo al por mayor 10 Paquetes | Ondulado]]></translation>
+  </word>
+  <word hash="13eee0ff64d84a18b8c9e96335cf60cf1469a9a6856ac38ad7ea2437e770d3ea" date="2016-03-12T10:50:01+00:00">
+    <source><![CDATA[Women Bra&Pants Sets]]></source>
+    <translation><![CDATA[Las mujeres del sujetador y pantalones Conjuntos]]></translation>
+  </word>
+  <word hash="6c179f21e6f62b629055d8ab40f454ed02e48b68563913473b857d3638e23b28" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[  ]]></source>
+    <translation><![CDATA[  ]]></translation>
+  </word>
+  <word hash="b5969ccc39df3d8cb43c00590036f64bb2a4a26d03fd521175350f6e75e4ea7e" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[ Next > ]]></source>
+    <translation><![CDATA[ Siguiente> ]]></translation>
+  </word>
+  <word hash="0f02c6bad08d9ff1858d26cf1af766e336d71e34c2e74e8c7d417b3550cbfc44" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[>>]]></source>
+    <translation><![CDATA[>>]]></translation>
+  </word>
+  <word hash="94ff8ef9578571481ec2fa6ac851f0f81dd2d660988c5202a510dc5b6702fd63" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[The Last Page]]></source>
+    <translation><![CDATA[La Última Página]]></translation>
+  </word>
+  <word hash="b64981b2e7ba73fb5685bbd3d263b00e2bb60ccd6e38872cbaccbc8696cc039a" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[View all products under Women Bra&Pants Sets]]></source>
+    <translation><![CDATA[Ver todos los productos en virtud de las mujeres del sujetador y pantalones Conjuntos]]></translation>
+  </word>
+  <word hash="9f874a923d123696d780add2ae829ee6f681b353734ab3d2d0c9734a63e0a91b" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Narrow By]]></source>
+    <translation><![CDATA[Limitar por]]></translation>
+  </word>
+  <word hash="683b531f41ec88a2f345b727afe59757b73162a340a65c86bba62866f8fe556c" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[price]]></source>
+    <translation><![CDATA[precio]]></translation>
+  </word>
+  <word hash="bc97ee2e921c0614cb0527cb609ccd78a72158c4bb4ceba83a92585037e9c408" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[$ 150-200]]></source>
+    <translation><![CDATA[$ 150-200]]></translation>
+  </word>
+  <word hash="9b4fa424d67883c9996a712ba22bece0f2bfc60ee522888c326a9bb26f777c98" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[$ 200-250]]></source>
+    <translation><![CDATA[$ 200-250]]></translation>
+  </word>
+  <word hash="d951fdbd0b0f4f09368bb58bf4401bd513730c1d25d83b70b7705be71d67837c" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[$ 300-Above]]></source>
+    <translation><![CDATA[$ 300-Por encima]]></translation>
+  </word>
+  <word hash="b753dbc1a59593d13527962eb9c4dc04dd0dcf7b6c1cb5e25d5e2b6b2ce33f95" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[$ Under-100]]></source>
+    <translation><![CDATA[$ Bajo-100]]></translation>
+  </word>
+  <word hash="73faf87b520372f74c17315f49764f51068ee7c85b65b1b6ccf1203bdb3eb7de" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Shopping (19)]]></source>
+    <translation><![CDATA[Compras (19)]]></translation>
+  </word>
+  <word hash="18fdd549b2ed367ac0c74cbec1214644728515b30edbcb78e7d322757a7c8359" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[New]]></source>
+    <translation><![CDATA[Nuevo]]></translation>
+  </word>
+  <word hash="8de4e0ea7370e4e60a521379c9edf3253afcba7660e647f3aa788e49e8993d1a" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Sales]]></source>
+    <translation><![CDATA[Venta]]></translation>
+  </word>
+  <word hash="93c91c851e7acc17d881c9b89ea954be1183070254014be03a93d169cf52dbbd" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Price]]></source>
+    <translation><![CDATA[Precio]]></translation>
+  </word>
+  <word hash="2eb6067619eae2f3359382b87644168bb3af6a6c004ad8638e9afda7c8382431" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Page 1 / 2]]></source>
+    <translation><![CDATA[Página 1/2]]></translation>
+  </word>
+  <word hash="f8231e51e8435bd43bc7a99a5ae2e212db7c74faa7d341df2ad2754fac9b49df" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Best Virgin Hair Silky Straight Hair 3pcs/lot]]></source>
+    <translation><![CDATA[Mejores Virgen sedoso pelo 3pcs recto / lot del pelo]]></translation>
+  </word>
+  <word hash="d65be137cc219d836cf6aab4bd9285cbb7161f249f8645b5fd591a4271f3be2c" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[4 votes, average: 4.75 out of 5]]></source>
+    <translation><![CDATA[4 votos, promedio: 4.75 de 5]]></translation>
+  </word>
+  <word hash="d7a4fc4dc2c2865e62324ed4662e6e9731357f75f2258d5906165d389336af40" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Reviews(16)]]></source>
+    <translation><![CDATA[Opiniones (16)]]></translation>
+  </word>
+  <word hash="05bfd26a75ee8a8bf8842ab1ba7574b56cf693c93de198f3dad1a265d5ea15e8" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Virgin Hair Ombre Straight 12″+14″+16″ With Lace Frontal]]></source>
+    <translation><![CDATA[Virgen Ombre Cabello liso de 12 "14" 16 "con el cordón frontal]]></translation>
+  </word>
+  <word hash="02ee890f1eab529c526b4595d107ffe1701edc26791eed1ff7d6bbe75d33acdb" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Virgin Hair Ombre Straight 12″+14″+...]]></source>
+    <translation><![CDATA[Virgen Ombre Cabello liso de 12 "14" + ...]]></translation>
+  </word>
+  <word hash="e495df3a572ee10d874f0e6252f3d0170fe549370bd912d903c054482115bd51" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[1 vote, average: 5.00 out of 5]]></source>
+    <translation><![CDATA[1 votos, promedio: 5.00 de 5]]></translation>
+  </word>
+  <word hash="2f7b620a30ec43aafc5fd8fbfcf9e89fcd178970ad6f6e15c9a0ed85ff0f491d" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Reviews(2)]]></source>
+    <translation><![CDATA[Comentarios (2)]]></translation>
+  </word>
+  <word hash="b64387f2414aa0abc13f436cfe7a8e51dda9c224fd6a3eda89621d0f64453498" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Virgin Hair Big Curl 18″+20″+22R...]]></source>
+    <translation><![CDATA[Virgen Mucho pelo Curl 18 "20" + 22R ...]]></translation>
+  </word>
+  <word hash="bde103c68d01e38beada2264fa7002905fd60279f8d86179b5c717a29382019d" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[5 votes, average: 5.00 out of 5]]></source>
+    <translation><![CDATA[5 votos, promedio: 5.00 fuera de 5]]></translation>
+  </word>
+  <word hash="06567ab7a29a54eeeacdac5ad7ad273baf267d03ffc0c8ef6da52a39263fda80" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Reviews(65)]]></source>
+    <translation><![CDATA[Opiniones (65)]]></translation>
+  </word>
+  <word hash="39546b016e1d5700e864ea68a184b87755cfaae5dc60f12467a60abb70652027" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[Big Curl Hair 10pcs/Lot Wholesale Gorgeous Style]]></source>
+    <translation><![CDATA[Enrollamiento grande de pelo 10pcs / Lot al por mayor de estilo magnífico]]></translation>
+  </word>
+  <word hash="d19927d44de75f980f27dbe89ed01b17057965b68497b30b614b36090073d259" date="2016-03-12T10:50:02+00:00">
+    <source><![CDATA[3 votes, average: 5.00 out of 5]]></source>
+    <translation><![CDATA[3 votos, promedio: 5.00 fuera de 5]]></translation>
+  </word>
+  <word hash="5173189344c602d45726ba454b2e912fa3dc7570407f9a3cd6c1b0627c1c9020" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[4 votes, average: 5.00 out of 5]]></source>
+    <translation><![CDATA[4 votos, promedio: 5.00 fuera de 5]]></translation>
+  </word>
+  <word hash="956b4d8ec66af2d0ecaef7aa0285ec50f0eb24ed094e1b6a4b45aef7874df968" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[Reviews(19)]]></source>
+    <translation><![CDATA[Opiniones (19)]]></translation>
+  </word>
+  <word hash="69336208f2cb76720b3066dc6ba341fe15a2bfa80947fd38762bdf8e4cd4cd56" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[4 votes, average: 4.50 out of 5]]></source>
+    <translation><![CDATA[4 votos, promedio: 4.50 de 5]]></translation>
+  </word>
+  <word hash="f710c3b0c3dba51fef3135059b456fa49dc15ea4c93d2da29a979252f76e63dc" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[Reviews(27)]]></source>
+    <translation><![CDATA[Opiniones (27)]]></translation>
+  </word>
+  <word hash="2939fa8e6269aa4c6c298bebc4e6b5781bb961d7099fcfd0c7987c6e73778192" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[New Fashion Quick Drying Professional Vest Sports Bra Underwear and Tights Elastic Pants Sport Trousers Whole Set for Fitness Women]]></source>
+    <translation><![CDATA[La nueva manera de secado rápido Profesional Chaleco Deportes sujetador y las medias elásticas de los pantalones de deportes todo el conjunto de Mujeres de la aptitud]]></translation>
+  </word>
+  <word hash="84b1fc8f1fe76bb4eb071cca4d4ec60c27e308d544abadaded1b0a6f281f95ce" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[New Fashion Quick Drying Professional Vest Spor...]]></source>
+    <translation><![CDATA[La nueva manera de secado rápido Profesional Chaleco Spor ...]]></translation>
+  </word>
+  <word hash="3776be761a6017c8764f1a9ffbfc834bff12b17c997b3f6562b1f4e0d6f1491e" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[0 votes, average: 0.00 out of 5]]></source>
+    <translation><![CDATA[0 votos, promedio: 0.00 de 5]]></translation>
+  </word>
+  <word hash="9106e8cdb95af16349b3dae65bea8ad2e01827a269550e05faa81e0818464744" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[Reviews(0)]]></source>
+    <translation><![CDATA[Comentarios (0)]]></translation>
+  </word>
+  <word hash="2a5196e00636a260d00ef3e529aa1903d1b1a580e00878d97e3e2e3305dab054" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[Body Wave Virgin Hair 10pcs/Lot No Shedding]]></source>
+    <translation><![CDATA[10pcs onda del cuerpo pelo de la Virgen / Lote no Arrojando]]></translation>
+  </word>
+  <word hash="577ca8529b0ca2ad6ea27cbbced4ec1da32169cf0285218ae78a338ca1f6961f" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[6 votes, average: 5.00 out of 5]]></source>
+    <translation><![CDATA[6 votos, promedio: 5.00 fuera de 5]]></translation>
+  </word>
+  <word hash="a5aae92b272b4e31bb28ce53b55214f5f38692be076912ce4710bbada5a48e09" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[Reviews(11)]]></source>
+    <translation><![CDATA[Opiniones (11)]]></translation>
+  </word>
+  <word hash="bdf4b7303b874019a743236e5f19547131f185f97e06ab763ed28f5d26209591" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[Virgin Hair Straight 10pcs/Lot Super Soft]]></source>
+    <translation><![CDATA[Virgen del pelo recto 10pcs / Lot súper blando]]></translation>
+  </word>
+  <word hash="07f5bffa48550e3be295d0edf7168883b3cb92eedd3421a57f12144147cab60c" date="2016-03-12T10:50:03+00:00">
+    <source><![CDATA[2 votes, average: 5.00 out of 5]]></source>
+    <translation><![CDATA[2 votos, promedio: 5.00 fuera de 5]]></translation>
+  </word>
+  <word hash="7d2998d75ca3c3ee3d165694b4fb756dd148197129391b7fceb291634cdbc9ca" date="2016-03-12T10:50:04+00:00">
+    <source><![CDATA[Reviews(37)]]></source>
+    <translation><![CDATA[Opiniones (37)]]></translation>
+  </word>
+  <word hash="fe604f729f7ae82a6676cb129b99ab349ca9fcf2a020d628d551c730db53c98f" date="2016-03-12T10:50:04+00:00">
+    <source><![CDATA[Reviews(25)]]></source>
+    <translation><![CDATA[Opiniones (25)]]></translation>
+  </word>
+  <word hash="eae16b0efea9e15e2015363a7242b931432756c51c31accc6909da04bcb73e51" date="2016-03-12T10:50:04+00:00">
+    <source><![CDATA[9 votes, average: 4.67 out of 5]]></source>
+    <translation><![CDATA[9 votos, promedio: 4.67 de 5]]></translation>
+  </word>
+  <word hash="9e336aeceb71138934d1c79b8fa061ca63f1b3b9884bb580b9cd5e1dedfc8f59" date="2016-03-12T10:50:04+00:00">
+    <source><![CDATA[Reviews(31)]]></source>
+    <translation><![CDATA[Opiniones (31)]]></translation>
+  </word>
+  <word hash="72b441c6d0b071be2089efa1699439656784fed3426431240eb3b44f1c0faa49" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Deep Curly Virgin Hair 10pcs/Lot Quality Guaranteed]]></source>
+    <translation><![CDATA[10pcs profundamente rizado pelo de la Virgen / LOT La calidad garantizó]]></translation>
+  </word>
+  <word hash="6d67415e454fc65a45015206617ab5c6e766b8716b0273a6141afb80665fe11c" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Deep Curly Virgin Hair 10pcs/Lot Quality Guaran...]]></source>
+    <translation><![CDATA[Profundas de la Virgen rizada 10pcs / lot del pelo Calidad Guaraní ...]]></translation>
+  </word>
+  <word hash="67525816606aae87ea121cb26bd7ac36ce7be67ea6da90618c3ad16914c8af5e" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Reviews(4)]]></source>
+    <translation><![CDATA[Opiniones (4)]]></translation>
+  </word>
+  <word hash="2fe265f1aec188b760b4d4822eb1b6972187b6f7202f73dcba25eb51bf1e8144" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Body Wave Hair Bundles 1pcs/Lot No Shedding No Tangle]]></source>
+    <translation><![CDATA[La onda del cuerpo del pelo de lotes 1pcs / Lote nº vertimiento de ninguna enredo]]></translation>
+  </word>
+  <word hash="7fe17f4f098e5a77adf82fb8f15545ac9033b5474cffe7c3b7b27554d3f2fcce" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Body Wave Hair Bundles 1pcs/Lot No Shedding No ...]]></source>
+    <translation><![CDATA[La onda del cuerpo del pelo de lotes 1pcs / Lote nº vertimiento de ninguna ...]]></translation>
+  </word>
+  <word hash="bc5a9000fb8db6a3b0f811e3c6c7e9b0007c48b6fef26f3478238ad0760af663" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[3 votes, average: 4.67 out of 5]]></source>
+    <translation><![CDATA[3 votos, promedio: 4.67 de 5]]></translation>
+  </word>
+  <word hash="a7bd8bd89cb3222352bd94f71fbfa49c680de2f143efc5dcc5cac2020386696d" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Reviews(3)]]></source>
+    <translation><![CDATA[Comentarios (3)]]></translation>
+  </word>
+  <word hash="69a1cfed575dfc7cf4ea4a2957e037e76b41b0d3dfc4b6de0d3b7021af433bef" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[7 votes, average: 4.71 out of 5]]></source>
+    <translation><![CDATA[7 votos, promedio: 4.71 de 5]]></translation>
+  </word>
+  <word hash="2415efbc628a3167d85d66ff16fb02147f9655bb40aa3b9b78de28223cd27815" date="2016-03-12T10:50:05+00:00">
+    <source><![CDATA[Reviews(46)]]></source>
+    <translation><![CDATA[Opiniones (46)]]></translation>
+  </word>
+</translations>

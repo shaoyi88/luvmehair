@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2014 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="home" unicode="&#xe801;" d="m888 336q16-16 11-27t-27-11l-84 0 0-310q0-14-1-21t-8-13-23-6l-204 0 0 310-204 0 0-310-194 0q-28 0-35 10t-7 30l0 310-84 0q-22 0-27 11t11 27l400 402q16 16 38 16t38-16z" horiz-adv-x="900" />
+<glyph glyph-name="plus" unicode="&#xe804;" d="m911 462l0-223-335 0 0-336-223 0 0 336-335 0 0 223 335 0 0 335 223 0 0-335 335 0z" horiz-adv-x="928" />
+<glyph glyph-name="pencil" unicode="&#xe800;" d="m0-119l60 281 627 628q21 21 51 21t50-20l121-122q21-21 21-50t-21-50l-628-628z m68 69l194 44 24 25-149 149-24-24z" horiz-adv-x="930.2" />
+<glyph glyph-name="chat" unicode="&#xe803;" d="m0 480q0 107 68 199t186 145 255 53q104 0 198-32t162-84 108-127 41-155q0-64-26-125t-73-110-109-85-140-57-161-20q-103 0-194 30l-116-81q-65-42-91-25t-11 97l23 121q-57 53-88 119t-32 136z m650-468q118 23 215 82t158 145 75 186q89-35 142-102t54-147q0-49-22-96t-62-83l17-86q10-55-8-67t-64 17l-82 57q-63-21-136-21-87 0-163 31t-124 84z" horiz-adv-x="1294.4" />
+<glyph glyph-name="arrows-cw" unicode="&#xe802;" d="m707 700l150 150v-405h-405l153 153q-77 62-176 62-111 0-193-76t-92-186h-143q9 170 133 287t295 117q157 0 278-102z m-278-660q111 0 193 76t91 186h143q-9-170-133-287t-294-117q-158 0-279 102l-150-150v405h405l-153-153q78-62 177-62z" horiz-adv-x="857" />
+</font>
+</defs>
+</svg>

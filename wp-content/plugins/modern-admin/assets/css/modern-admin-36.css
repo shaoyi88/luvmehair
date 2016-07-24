@@ -1,0 +1,48 @@
+.manage-menus {
+	background: #fff;
+	border: 1px solid #DFDFDF;
+	margin: 15px 0;
+    overflow: hidden;
+    padding: 10px;
+}
+
+#wpbody-content #menu-settings-column {
+	padding-top: 0
+}
+
+#menu-management,
+#menu-settings-column ul.outer-border {
+	margin-top: 0
+}
+
+.metabox-holder h3.accordion-section-title {
+	background: #42586f;
+	color: #fff;
+	padding: 10px;
+	cursor: pointer;
+}
+
+.accordion-section-content {
+	display: none;
+}
+
+.accordion-section.open .accordion-section-content, .no-js .accordion-section .accordion-section-content {
+	display: block;
+}
+
+#nav-menu-meta .accordion-section-content {
+	background: #fff;
+	border: 1px solid #DFDFDF;
+	border-top: none;
+    padding: 18px 13px;
+}
+
+.nav-menus-php .howto span {
+	margin-top: 9px
+}
+
+#menu-name {margin-top: 7px}
+
+.auto-add-pages {float: none}
+.menu-settings .checkbox-input {margin-left: 0}
+.menu-settings .checkbox-input input {margin-top: 3px}t

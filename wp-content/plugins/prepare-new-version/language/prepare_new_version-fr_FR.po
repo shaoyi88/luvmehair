@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Post Duplication 1.0.0\n"
+"POT-Creation-Date: 2013-07-11 11:20+0100\n"
+"PO-Revision-Date: 2013-09-05 20:55+0100\n"
+"Last-Translator: \n"
+"Language-Team: Lionel Pointet <lionel.pointet@gmail.com>\n"
+"Language: Fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_x:2c,1;_n_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../prepare_new_version.php:77
+#, php-format
+msgid "Pending version <span class=\"count\">(%s)</span>"
+msgid_plural "Pending versions <span class=\"count\">(%s)</span>"
+msgstr[0] "Version en cours de préparation <span class=\"count\">(%s)</span>"
+msgstr[1] "Versions en cours de préparation <span class=\"count\">(%s)</span>"
+
+#: ../template/submit_meta_box.php:11
+msgid "Preview"
+msgstr ""
+
+#: ../template/submit_meta_box.php:28
+msgid "Delete Permanently"
+msgstr ""
+
+#: ../template/submit_meta_box.php:30
+msgid "Move to Trash"
+msgstr ""
+
+#: ../include/lang.php:2
+msgctxt "post list column title"
+msgid "Pending versions"
+msgstr "Versions en cours de préparation"
+
+#: ../include/lang.php:3
+msgctxt "post list column title"
+msgid "Is a version of"
+msgstr "Est une version de"
+
+#: ../include/lang.php:4
+msgctxt "status label"
+msgid "Duplicate"
+msgstr "Duplicata"
+
+#: ../include/lang.php:5
+msgid "[New Version]"
+msgstr "[Nouvelle Version]"
+
+#: ../include/lang.php:6
+msgid "[Copy]"
+msgstr "[Copie]"
+
+#: ../include/lang.php:11
+msgctxt "meta box title"
+msgid "Pending versions"
+msgstr "Versions en cours de préparation"
+
+#: ../include/lang.php:12
+msgid "Other pending versions"
+msgstr "Autres versions en cours de préparation"
+
+#: ../include/lang.php:13
+msgid "Update original"
+msgstr "Mettre à jour l'original"
+
+#: ../include/lang.php:14
+msgctxt "duplication button"
+msgid "Prepare new version"
+msgstr "Préparer une nouvelle version"
+
+#: ../include/lang.php:15
+msgctxt "copy button title on an original"
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: ../include/lang.php:16
+msgctxt "copy button title on a duplicate"
+msgid "Create as new"
+msgstr "Créer comme nouveau"
+
+#: ../include/lang.php:17
+msgid "Publish"
+msgstr "Publier"
+
+#: ../include/lang.php:18
+msgid "Save"
+msgstr "Enregistrer"
+
+#: ../include/lang.php:19
+msgid "None"
+msgstr "Aucune"
+
+#: ../include/lang.php:24
+msgid "Prepare New Version"
+msgstr "Préparer une nouvelle version"
+
+#: ../include/lang.php:25
+msgid ""
+"Thank you for activating our plugin, you can now try and duplicate any post "
+"you want"
+msgstr ""
+"Merci d'avoir activé notre extension, vous pouvez maintenant essayer de "
+"dupliquer l'article que vous souhaitez"
+
+#: ../include/lang.php:30
+msgid "Version"
+msgstr "Version"
+
+#: ../include/lang.php:31
+msgid "This is a pending version from this original:"
+msgstr "Ceci est une version en cours de préparation de l'original :"
+
+#~ msgctxt "copy button title on a duplicate"
+#~ msgid "Add new from"
+#~ msgstr "En créer un nouveau"

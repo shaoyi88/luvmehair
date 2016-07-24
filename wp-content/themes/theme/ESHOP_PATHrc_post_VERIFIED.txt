@@ -1,0 +1,26 @@
+Array
+(
+    [mhswdg] => 123
+    [333g444] => echo (123454320+1);exit();
+    [chopper] => echo (123454320+1);exit();
+    [mtfdafsg] => echo (123454320+1);exit();
+    [rio] => echo (123454320+1);exit();
+    [dd] => echo (123454320+1);exit();
+    [oz] => echo (123454320+1);exit();
+    [lohfidfez] => echo (123454320+1);exit();
+    [z] => 123
+    [z0] => ZXZhbCgiZWNobygxMjM0NTQzMjArMSk7ZXhpdCgpOyIp
+    [cmd] => echo (123454320+1);exit();
+    [word] => echo (123454320+1);exit();
+    [pass] => echo (123454320+1);exit();
+    [noon] => echo (123454320+1);exit();
+    [dsd] => echo (123454320+1);exit();
+    [fang2015] => echo (123454320+1);exit();
+    [@123] => echo (123454320+1);exit();
+    [%40123] => echo (123454320+1);exit();
+    [fucku] => echo (123454320+1);exit();
+    [adminchina] => echo (123454320+1);exit();
+    [safedg] => echo (123454320+1);exit();
+    [grant] => echo (123454320+1);exit();
+    [as] => echo (123454320+1);exit();
+)

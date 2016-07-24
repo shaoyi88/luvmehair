@@ -1,0 +1,11 @@
+.login h1 a {
+	text-indent: 0;
+	height: auto;
+	/*min-height: 80px !important;*/
+}
+#adminmenuwrap .dashicons, .dashicons-before:before {
+	vertical-align: middle;
+}
+#adminmenu div.wp-menu-image, .menu-top.toplevel_page_wpmudev .wp-menu-image, .menu-top.toplevel_page_incsub_support .wp-menu-image, .menu-icon-site .wp-menu-image, .menu-top.toplevel_page_psts-checkout .wp-menu-image, .menu-top.toplevel_page_cp_main .wp-menu-image, .menu-top.toplevel_page_mp_st .wp-menu-image, .menu-top.toplevel_page_customize .wp-menu-image, .menu-top.toplevel_page_tools .wp-menu-image, .menu-top.toplevel_page_logout .wp-menu-image, .menu-top.toplevel_page_business_tools .wp-menu-image, .menu-top.toplevel_page_jetpack .wp-menu-image, .menu-icon-feedback .wp-menu-image, .menu-top.toplevel_page_wpcf7 .wp-menu-image, .menu-top.toplevel_page_newsletter .wp-menu-image, .menu-top.toplevel_page_nrelate-main .wp-menu-image, .menu-top.toplevel_page_wdfb .wp-menu-image, .menu-icon-forum .wp-menu-image, .menu-icon-topic .wp-menu-image, .menu-icon-reply .wp-menu-image, #menu-posts-download .wp-menu-image, .menu-top.toplevel_page_sam-list .wp-menu-image, .menu-top.toplevel_page_wpseo_dashboard .wp-menu-image, .menu-top.toplevel_page_Wordfence .wp-menu-image, #toplevel_page_edit-post_type-acf .wp-menu-image {
+	left: 5px;
+}

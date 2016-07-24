@@ -1,0 +1,29 @@
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'fontello';
+  font-style: normal;
+  font-weight: normal;
+ 
+  /* fix buttons height */
+  line-height: 1em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+ 
+#wpadminbar #wp-admin-bar-my-sites > .ab-item:before,
+#wpadminbar > #wp-toolbar > #wp-admin-bar-root-default .ab-icon,
+#wpadminbar .ab-icon:before,
+#wp-admin-bar-comments > .ab-item .ab-icon:before,
+#wp-admin-bar-site-name > .ab-item:before {
+  color: #fff;
+  margin-right: 5px;
+  font-family: 'fontello';
+  font-size: 18px;
+  display: inline-block;
+}
+
+
+#wpadminbar #wp-admin-bar-new-content > .ab-item .ab-icon:before { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;'); }
+#wpadminbar #wp-admin-bar-comments .ab-icon:before { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
+#wpadminbar #wp-admin-bar-my-sites > .ab-item:before { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+#wpadminbar #wp-admin-bar-site-name > .ab-item:before { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;'); }

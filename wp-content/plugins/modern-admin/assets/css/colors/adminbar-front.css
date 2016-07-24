@@ -1,0 +1,5 @@
+#wpadminbar .ab-top-secondary {background: none !important}
+#wpadminbar .quicklinks > ul > li,
+#wpadminbar .quicklinks .ab-top-secondary > li,
+#wpadminbar .quicklinks .ab-top-secondary > li > a, #wpadminbar .quicklinks .ab-top-secondary > li > .ab-empty-item,
+#wpadminbar .quicklinks > ul > li > a, #wpadminbar .quicklinks > ul > li > .ab-empty-item {border:none !important}

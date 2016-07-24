@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="fr" domain="35b07bc2174ea31ac914325c0650a16f" scope="/blog">
+  <word hash="8c6bc099534a0251b576f6b88bd2db124ae9497c64bd9242e92a6aec23e6a73a" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Blog]]></source>
+    <translation><![CDATA[Blog]]></translation>
+  </word>
+  <word hash="fa18bc2852a1d5adce539a20078b697b1c577551f8175683d5aa7f2eb4a63573" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Risk-Free, Satisfation 100%]]></source>
+    <translation><![CDATA[Sans risque, Satisfation 100%]]></translation>
+  </word>
+  <word hash="c865b504ec1477670afc1faa6508bdf94b9978fe69481ea82c77c11fe90227cb" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Fastest Shipping Worldwide!]]></source>
+    <translation><![CDATA[Fastest Livraison dans le monde!]]></translation>
+  </word>
+  <word hash="9fc8cc2af42dbccf9507f9339ad5769c49829b023dcc2914de2ed3f18e16f635" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Currency: ]]></source>
+    <translation><![CDATA[Devise: ]]></translation>
+  </word>
+  <word hash="f96817c76d677a9654fe11b649df6d709ad1d62c2f4c58ebba153c3fa696e414" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[USD$]]></source>
+    <translation><![CDATA[USD $]]></translation>
+  </word>
+  <word hash="5f8faa23ace5dff96857489df2ae7f7111c0f6f9f1b53e1893c7766fd7796b7c" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[EUR €]]></source>
+    <translation><![CDATA[EUR €]]></translation>
+  </word>
+  <word hash="2c2f366b66d2701cae9099f3189be876a6e888295907721b332b533f435099f6" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[CAD $]]></source>
+    <translation><![CDATA[CAD $]]></translation>
+  </word>
+  <word hash="ef49eaeb1e1e24de7c95f072bdbe59d1f04edde654d61b3b60852374a1277dbf" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[GBP £]]></source>
+    <translation><![CDATA[GBP £]]></translation>
+  </word>
+  <word hash="45bd52d1b697b60059b461600281a0ed82412e6c301beb23829728be1ecf1e2e" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[AUD $]]></source>
+    <translation><![CDATA[AUD $]]></translation>
+  </word>
+  <word hash="bea5a9bffb220097c1699f0caa046b93cf592f3ba020f27c3037a0716c131318" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[HK $]]></source>
+    <translation><![CDATA[HK $]]></translation>
+  </word>
+  <word hash="6d20f671c72952f746cb2f7aff8d24350358a2143c5c865a719ffd1db33f12d9" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[JPY 円]]></source>
+    <translation><![CDATA[JPY 円]]></translation>
+  </word>
+  <word hash="220670b2b4d58b046e09edd8222272e93c48267e711ad59e16d5f9317de40174" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[RUB руб.]]></source>
+    <translation><![CDATA[RUB руб.]]></translation>
+  </word>
+  <word hash="fc5a5b441156a71ff6629e2c85d475667bb615f6a5f10f4c18728a01fa4f9ad4" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[CHF CHF]]></source>
+    <translation><![CDATA[CHF CHF]]></translation>
+  </word>
+  <word hash="8d32a5a0d4169ee2b4190277e47dc407295868bbbae2438051ffb0ef5380be99" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[MXN $]]></source>
+    <translation><![CDATA[MXN $]]></translation>
+  </word>
+  <word hash="4e3459f370ad8f40d3d02753b5ed5b6a981c75552f03f13a8e2cd36f2c451e10" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[NOK Kr]]></source>
+    <translation><![CDATA[NOK Kr]]></translation>
+  </word>
+  <word hash="47bd75126481b3232c99933e196675b7690216136be6cb99c225b68446878aa2" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[CZK Kč]]></source>
+    <translation><![CDATA[CZK Kč]]></translation>
+  </word>
+  <word hash="63a482c4d074efe077a6494f7704219666d690614da246139d21ecd56bbfce2e" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[BRL $]]></source>
+    <translation><![CDATA[BRL $]]></translation>
+  </word>
+  <word hash="6b82ca285eb4ca3c893b303a8650df6fa27241cd3d0143e3923f83fa466413ed" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[ARS $]]></source>
+    <translation><![CDATA[ARS $]]></translation>
+  </word>
+  <word hash="2ded4a3ee653ffdd82681e9f39144e169a1a217bea7f7c22a2795f48e3dc6864" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Log In]]></source>
+    <translation><![CDATA[Connexion]]></translation>
+  </word>
+  <word hash="e1a3e78cb5c8858631bf81f94369a0be3fd2aebb9e852e66368b381c8feef91f" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[ or ]]></source>
+    <translation><![CDATA[ ou ]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Enregistrer]]></translation>
+  </word>
+  <word hash="edc279c643e5b7bb2975834b43efa32dcfa30cf79fda299c278736979bfed81a" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Wishlist]]></source>
+    <translation><![CDATA[Liste]]></translation>
+  </word>
+  <word hash="34f622ccf059ca5b89b411ac672470d848fdbb4a7532da7f397531ecef4b438f" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[ad_img]]></source>
+    <translation><![CDATA[ad_img]]></translation>
+  </word>
+  <word hash="af150c111d4d3245141bcc192fcd9f855857a3da63ffafa1920b4f807c14e526" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[
+                     You have no items in your Shopping Cart!
+                  ]]></source>
+    <translation><![CDATA[
+                     Vous ne avez pas d'articles dans votre panier!
+                  ]]></translation>
+  </word>
+  <word hash="7086406d511eae8fdef9d29092dc7d781ef4d5a3bc64042ac42d89aa13134d31" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[View Cart]]></source>
+    <translation><![CDATA[Voir le panier]]></translation>
+  </word>
+  <word hash="99e71f48c48f121baddd4def9d50fa3363580ae26c2d22dfe364c23f6da15240" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Checkout]]></source>
+    <translation><![CDATA[Caisse]]></translation>
+  </word>
+  <word hash="a845ba5307b4766451dad16afc3f05f084b23c10631f94d88cfc93c62fbb9f7c" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Enter Keywords]]></source>
+    <translation><![CDATA[Entrez les mots clés]]></translation>
+  </word>
+  <word hash="b5b68f9d45ff0c205f6e21dd44e123f7081055866e2ff91394d417cb6fbd0bf0" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Shopping]]></source>
+    <translation><![CDATA[Shopping]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Maison]]></translation>
+  </word>
+  <word hash="0d99011d36078a3128704e9f350f4e3e369be6fa2500bd6959c0fd7487912a28" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Wavy]]></source>
+    <translation><![CDATA[Ondulé]]></translation>
+  </word>
+  <word hash="dc81306b118237b3c8ffc88d79748a5e53788865c3ca48641ed21ddde8e2cec4" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Straight]]></source>
+    <translation><![CDATA[Tout Droite]]></translation>
+  </word>
+  <word hash="949556caba7ea980fc1df33537d1f8d875b962c18ba37ae281f988a52b901ddb" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Deep Curly]]></source>
+    <translation><![CDATA[Curly profonde]]></translation>
+  </word>
+  <word hash="1365ce65335650a55f5022a897dd81f9481bb7e35215acb7bf9f0ee4d7a4b9f7" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Big Curl]]></source>
+    <translation><![CDATA[Big Curl]]></translation>
+  </word>
+  <word hash="bffd1e30645b54a7fa26c57842ec81eea6cd215300d0d510d82c436b4aad7e6c" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[My Luvmer]]></source>
+    <translation><![CDATA[Mon Luvmer]]></translation>
+  </word>
+  <word hash="aca80ff13375de69dd5d30cfa87668e1ee0b4608bf7b22055a4b0ee03f5285c5" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Photo Gallery]]></source>
+    <translation><![CDATA[Galerie de photos]]></translation>
+  </word>
+  <word hash="dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[FAQ]]></source>
+    <translation><![CDATA[FAQ]]></translation>
+  </word>
+  <word hash="98b67063cf8e584d75e53b88472ee85473e01e0ea16f29ece9cc98f4a2710494" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Contact Us]]></source>
+    <translation><![CDATA[Contactez-nous]]></translation>
+  </word>
+  <word hash="1b1541973ec6e80640b8a88eba03fd304d2eeae50a027b0c924dfed731bcbbe6" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Sales & Deals]]></source>
+    <translation><![CDATA[Soldes & Affaires]]></translation>
+  </word>
+  <word hash="3fb76449c0762d4fd90a8eb6a7f7b80076bf908a5c06f79a5f076a459fbc2b37" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Our Story]]></source>
+    <translation><![CDATA[Notre histoire]]></translation>
+  </word>
+  <word hash="00d20d0632f5e1ef354e41b97ff4eb34c1db8e987af11dac9408b184f79d1297" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Fashion]]></source>
+    <translation><![CDATA[Mode]]></translation>
+  </word>
+  <word hash="26ff184f6ce0485ccc9052fd82b5666b0a07c955d45ed50d682f26f1dd7102bb" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Any Order,Free Shipping]]></source>
+    <translation><![CDATA[Toute Commande, Livraison gratuite]]></translation>
+  </word>
+  <word hash="dcab8050b2927a1591b8d94cc1a1ca297c3228fc31a03a3b3e7bfa76c7e83075" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[10$ Discount Code:NEW10]]></source>
+    <translation><![CDATA[10 $ Code Remise: NEW10]]></translation>
+  </word>
+  <word hash="6b4f03b153275fc9a05c8ac89183f30c123edc3c88dd16965e15bd6668217633" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Promotion Time (2.14-3.14)]]></source>
+    <translation><![CDATA[Promotion Time (2.14 à 3.14)]]></translation>
+  </word>
+  <word hash="e4bce0739413f6b93b052770899743bf56d64be315eb5d6b86f253eaf592b6c9" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Next Time！]]></source>
+    <translation><![CDATA[La Prochaine Fois!]]></translation>
+  </word>
+  <word hash="6c179f21e6f62b629055d8ab40f454ed02e48b68563913473b857d3638e23b28" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[  ]]></source>
+    <translation><![CDATA[]]></translation>
+  </word>
+  <word hash="d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Facebook]]></source>
+    <translation><![CDATA[Facebook]]></translation>
+  </word>
+  <word hash="bcd18ead5fa830127187d499e97e7a4dc8f641ec34d8c7e9f9f24deae2e39fdc" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Twitter]]></source>
+    <translation><![CDATA[Gazouillement]]></translation>
+  </word>
+  <word hash="9dbc524a54c790beaf3617257acb6e451313edc5d2578057f0674a1d5e380436" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Google+]]></source>
+    <translation><![CDATA[Google+]]></translation>
+  </word>
+  <word hash="78dfd4d79bda7ef820487666f6f690389d315bcec9c64efedebb510278735fa2" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Pinterest]]></source>
+    <translation><![CDATA[Pinterest]]></translation>
+  </word>
+  <word hash="61f75e9bb9714f07057ed809f5065fbe2c9551f59f5b24bf05e2e5af043fc5dc" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Delicious]]></source>
+    <translation><![CDATA[Délicieux]]></translation>
+  </word>
+  <word hash="9a16d16133115e2c81e6d81a86f258f04a77231a658f90faa702981034246568" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Digg]]></source>
+    <translation><![CDATA[Digg]]></translation>
+  </word>
+  <word hash="969ccbd3cf6300ecd5c880459d81ae9027df7517563184a1b8b15282db230621" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Email]]></source>
+    <translation><![CDATA[Email]]></translation>
+  </word>
+  <word hash="7a1f2a83aca9a0819f244d5b4a7a0e7f6b779eb709dd4744136b22e724dbb10b" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Favorites]]></source>
+    <translation><![CDATA[Favoris]]></translation>
+  </word>
+  <word hash="d47d7cb0e4f8fd2be5ee07826694c18917d83ca77d0a01698582d05f432db996" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[More]]></source>
+    <translation><![CDATA[Plus]]></translation>
+  </word>
+  <word hash="7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Account]]></source>
+    <translation><![CDATA[Compte]]></translation>
+  </word>
+  <word hash="73b87c5c1247e877a2d027e749b2d01f1d2dd3c15ad7436379036d1927622730" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[BLOG]]></source>
+    <translation><![CDATA[BLOG]]></translation>
+  </word>
+  <word hash="3acd252ded577f2ac83b3a8c0a878c74945942debb469ab26f9ead3d81f4d97c" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Return of Beyoncé Bob Style]]></source>
+    <translation><![CDATA[Retour de Beyoncé Bob style]]></translation>
+  </word>
+  <word hash="ffe605f3ed7b32aa5be0336fab648929dea15484a1364b49a8f2245b3b486db7" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Post time: 03-02-2016]]></source>
+    <translation><![CDATA[Poster un temps: 02/03/2016]]></translation>
+  </word>
+  <word hash="662cea15c30508bf2733b9b1056c50d9c91dbcff8f6730e0f4706b1ed3cb6de9" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[From all the splendid collection at prettywighair, you can easily find the wig hair of your favorite
+celebrity’s hairstyle. In case Beyoncé Knowles is your favorite celebrity and you are fond of
+Beyoncé bob wig then this is the right place to get it. Tons of Beyoncé hairstyles are available
+at th...]]></source>
+    <translation><![CDATA[De toute la splendide collection à prettywighair, vous pouvez facilement trouver les cheveux de la perruque de la coiffure de votre célébrité préférée. Dans le cas où Beyoncé Knowles est votre célébrité préférée et vous êtes friands de Beyoncé bob perruque alors ceci est le bon endroit pour l'obtenir. Des tonnes de coiffures Beyoncé sont disponibles à th ...]]></translation>
+  </word>
+  <word hash="6b9e5698ec325d2bd954744a2a962d7684788bf904acf99f7370a74a761b0efd" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Read more ]]></source>
+    <translation><![CDATA[En savoir plus ]]></translation>
+  </word>
+  <word hash="8099b2b0bd4777fd5d6a05043044aae2e064dfdf3137afc92ad949011f0a5f17" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Hayley Williams Inspired Dyed Orange Human Hair Bob]]></source>
+    <translation><![CDATA[Hayley Williams Inspired Dyed orange Human Bob Hair]]></translation>
+  </word>
+  <word hash="4e6c96b15c6d4ee4b9605d6c7b8481276ce62c4620ada116b5eae1058d4eca4c" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[The cute Hayley Williams bob can be easily acquired with a little “do it yourself” technique.
+Hayley was spotted with the cute orange bob at the 52nd Grammy Awards on January 31,
+2010 in Los Angeles. PrettyWigHair has got a plenty of variety of bob human hair wigs in human
+hair and synthetic wigs...]]></source>
+    <translation><![CDATA[Le bob mignon Hayley Williams peut être facilement acquise avec un peu de "do it yourself" technique. Hayley a été repéré avec le bob orange mignon aux Grammy Awards 52e le 31 Janvier 2010 à Los Angeles. PrettyWigHair a une abondance de variété de bob perruques de cheveux humains dans les cheveux humains et perruques synthétiques ...]]></translation>
+  </word>
+  <word hash="994e028cb519b2a62488243c26603f0f64e737b6f1782c75bb4c0f7e23be9a87" date="2016-03-10T12:42:43+00:00">
+    <source><![CDATA[Katie Holmes Inspired Short Straight Bob]]></source>
+    <translation><![CDATA[Katie Holmes Inspiré droites courtes Bob]]></translation>
+  </word>
+  <word hash="aba42d72b5e045b10e20fb4f194dad782b756b21b568f630da4a50470c90095e" date="2016-03-10T12:42:44+00:00">
+    <source><![CDATA[The contemporary bob human hair wigs style enhances the features and the dignity of the
+person wearing it. The entire collection of bob wigs at prettywighair is made from pure human hair
+that means they can be styled by the choice of the user. Curl them, straight them or blow dry
+them, you can do...]]></source>
+    <translation><![CDATA[Le style de perruques de cheveux humains bob contemporain améliore les caractéristiques et la dignité de la personne qui le porte. L'ensemble de la collection de perruques de bob à prettywighair est fabriqué à partir de cheveux humains pur qui signifie qu'ils peuvent être coiffés par le choix de l'utilisateur. Curl eux, droite eux ou souffler les sécher, vous pouvez faire ...]]></translation>
+  </word>
+  <word hash="52160fe517de89e345ef25be35b1932164a2149c5d9c4f25088d7af925a5e125" date="2016-03-10T12:42:44+00:00">
+    <source><![CDATA[Making A Side Sweep With Wigs]]></source>
+    <translation><![CDATA[Faire un balayage latéral Avec Perruques]]></translation>
+  </word>
+  <word hash="9cd7304c0537ff1e103601795ad36bef114710075f45100bb99c6546123c8eda" date="2016-03-10T12:42:44+00:00">
+    <source><![CDATA[If you are a fan of the celebrity hairstyles, you would definitely have the Beyonce hairstyles
+in your good books. The most common hairstyle picked by the celebs and the models which
+we all see at the runways and award shows is the side swept style.  It is an easy to make
+hairstyle which anyone c...]]></source>
+    <translation><![CDATA[Si vous êtes un fan des coiffures de célébrités, vous avez certainement les coiffures Beyonce dans vos bons livres. La coiffure la plus commune choisie par les célébrités et les modèles que nous voyons tous les pistes et les remises de prix est le style balayé de côté. Il est facile de faire la coiffure qui quiconque c ...]]></translation>
+  </word>
+  <word hash="a7a18ec00e9c2649385d4f6bb54927b39027a90231d13bf7df39760287a17a01" date="2016-03-10T12:42:44+00:00">
+    <source><![CDATA[Celebs Who Have a Fixation With Extensions or Wigs!]]></source>
+    <translation><![CDATA[Célébrités qui ont une fixation avec des extensions ou des perruques!]]></translation>
+  </word>
+  <word hash="ad64df2a67dbb89ce8f622b63707f8979048ef610c4d7db36ed9480e357db12e" date="2016-03-10T12:42:44+00:00">
+    <source><![CDATA[The lifestyle of acelebrity! Full makeup teams, public relations specialists and imageconsultants all at your beck and call! Oh, the agony, right? Though most celebsdo enjoy pretty glamorous lifestyles, they are also faced with the tiresometask of constantly reinventing themselves! Well, just thr...]]></source>
+    <translation><![CDATA[Le mode de vie de acelebrity! équipes complètes de maquillage, des spécialistes des relations publiques et imageconsultants tous à votre entière disposition! Oh, l'agonie, à droite? Bien que la plupart des modes de vie celebsdo profiter assez glamour, ils sont également confrontés à la tiresometask de constamment se réinventer! Eh bien, thr ...]]></translation>
+  </word>
+  <word hash="ea22bc6eb83d1068008165c7780b811717b47d225a6d8d39b2cb8fa0c9336421" date="2016-03-10T12:42:44+00:00">
+    <source><![CDATA[Do You Think You Know Everything About Wigs?]]></source>
+    <translation><![CDATA[Do You Think You Know Everything About Perruques?]]></translation>
+  </word>
+  <word hash="783bcc0dcfd7503ee25f79d95df9e6451c201bc33d959bcbf4096b1e71bd4a24" date="2016-03-10T12:42:44+00:00">
+    <source><![CDATA[At first wigs were used by people who had hair issues or by those who wish to create a funky
+look at parties. But now wigs are used for several reasons. Everyone should have wigs
+knowledge if they are looking forward to buy one. Every wig has got its own specialty
+whether we talk about the style ...]]></source>
+    <translation><![CDATA[Au début, les perruques ont été utilisés par des gens qui avaient des problèmes de cheveux ou par ceux qui souhaitent créer un look funky aux parties. Mais maintenant, les perruques sont utilisés pour plusieurs raisons. Tout le monde devrait avoir des connaissances de perruques s'ils sont impatients d'en acheter un. Chaque perruque a sa propre spécialité si nous parlons du style ...]]></translation>
+  </word>
+  <word hash="26c0dfee172d0c77365cad9816cbd7909511e0fb72fa730d9f9a06770c41f6ca" date="2016-03-10T12:42:44+00:00">
+    <source><![CDATA[How Can Curly clip-In Hair Extensions Help?]]></source>
+    <translation><![CDATA[Comment peut Bouclés clip-Dans Hair Extensions Aide?]]></translation>
+  </word>
+  <word hash="f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Newsletter]]></source>
+    <translation><![CDATA[Bulletin]]></translation>
+  </word>
+  <word hash="a0f949497a74dde0c63a35cd9ab147012ffa007b019557ea5cecb9a243d0c5de" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[GO]]></source>
+    <translation><![CDATA[GO]]></translation>
+  </word>
+  <word hash="e2514497c7a040e7f9cb7f84ae46de144386e2533a677840e892a38261621817" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Follow Us]]></source>
+    <translation><![CDATA[Suivez-nous]]></translation>
+  </word>
+  <word hash="cd82232bedf1caced7a6a624ee85b74eeab3541b60958ef2aa6f1e35829ddae9" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Company Info]]></source>
+    <translation><![CDATA[Infos Société]]></translation>
+  </word>
+  <word hash="5d8c71abc527284cd463aa58f3f48098af5ab2f4225a744aa930a4b0e27d7395" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[About Us]]></source>
+    <translation><![CDATA[Qui sommes-nous]]></translation>
+  </word>
+  <word hash="e0f82fdf558b697c97a448555e0cc380b8c86f89bee0a66516b82bf516260b10" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Top Virgin Hair Guarantee]]></source>
+    <translation><![CDATA[Garantie Top Virgin Hair]]></translation>
+  </word>
+  <word hash="cdf7689a4e7e9d8dc09828df1d5c397a03232b2f53db67a5d3949c7991f48030" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Customer Service]]></source>
+    <translation><![CDATA[Service à la clientèle]]></translation>
+  </word>
+  <word hash="73a75653065cfd73109eab517a87f67f4d4574eba57b08175e484f22de6d1680" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Track Order]]></source>
+    <translation><![CDATA[Suivre la commande]]></translation>
+  </word>
+  <word hash="aa9565902ae1312e4240f47b9dd6878fbb46226656784c5c4ac94700b3e55c67" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[My Order]]></source>
+    <translation><![CDATA[Ma commande]]></translation>
+  </word>
+  <word hash="64f8ab6b0252f24a399f2dad77649f4ce619bad50b8344936b3cd79fe507a232" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[My Wishlist]]></source>
+    <translation><![CDATA[Ma liste d'envies]]></translation>
+  </word>
+  <word hash="35798f6a593dded06bbabff029b21fa2bc87fc122219172c9012979ce1f0b9c2" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Shopping Cart]]></source>
+    <translation><![CDATA[Panier]]></translation>
+  </word>
+  <word hash="0e48a8d25957a2b19a31025c9450463911983720795b8732d4b84106a3ce1423" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Payment & Shipping]]></source>
+    <translation><![CDATA[Paiement & Expédition]]></translation>
+  </word>
+  <word hash="71ab98d059afef883833d81a6dd3fa007cd5de2bb0ab784ab10d5e615a5c61fe" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Delivery Time]]></source>
+    <translation><![CDATA[Délai de livraison]]></translation>
+  </word>
+  <word hash="9f4e2cbe3be2681b998f271b16cccdedcecd17504de1ab7f3090f967d6bbbdd0" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Payment Methods]]></source>
+    <translation><![CDATA[Modes de paiement]]></translation>
+  </word>
+  <word hash="561027839f7e88559ce940fad9a7a34c4e114cf001c948a9dbad7b34c4e50647" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Refund & Return Policy]]></source>
+    <translation><![CDATA[Remboursement et politique de retour]]></translation>
+  </word>
+  <word hash="c1c1ae7ecebb6d21a8a36a45ac039fac4a037717f4780a7f0a76e7f6341a320c" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Shipping Guide]]></source>
+    <translation><![CDATA[Guide de livraison]]></translation>
+  </word>
+  <word hash="a9d4ac29400446560371966ea172c26732928f488783a6773d45c66543359ad1" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[+86 18613122553]]></source>
+    <translation><![CDATA[+86 18613122553]]></translation>
+  </word>
+  <word hash="43c8168ef1104cac9b9e23b2ffa6f745e077d48f2ef180f500b43aff689d1798" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Email: stella@luvmehair.com]]></source>
+    <translation><![CDATA[Email: stella@luvmehair.com]]></translation>
+  </word>
+  <word hash="ba9711944398dff78587d1d93945b700587cb8d13b56fc5d2a83fb7b59b545b8" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Website: www.luvmehair.com]]></source>
+    <translation><![CDATA[Site Web: www.luvmehair.com]]></translation>
+  </word>
+  <word hash="2ccce99fff1ba987b396a30d70ee8694feae44088ccd770864c0dc707f39000d" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[ADD: Guangzhou,China]]></source>
+    <translation><![CDATA[ADD: Guangzhou, Chine]]></translation>
+  </word>
+  <word hash="9dc7d416d9bbff5a8aba6efadae2f129797dcd42a4bc6011ce82916198372b98" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[
+© Copyright - 2010-2018 : All Rights Reserved.   ]]></source>
+    <translation><![CDATA[
+© Copyright - 2010-2018: Tous droits réservés.   ]]></translation>
+  </word>
+  <word hash="67038cf36258a307a3286dc3fcb51ec40ac54e28871b90183ac4fa44d467448a" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[站长统计]]></source>
+    <translation><![CDATA[站长 统计]]></translation>
+  </word>
+  <word hash="5908bccf22118371162950c2a614ab0522ba4890d3621afc450664f650abf704" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Send Email]]></source>
+    <translation><![CDATA[Envoyer un email]]></translation>
+  </word>
+  <word hash="e1df3d7704cb8c50945b3655ae79ec58bcf79702c55877a0d2c9625fb68b2b49" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Stella]]></source>
+    <translation><![CDATA[Stella]]></translation>
+  </word>
+  <word hash="6d612a86bee4b0a659b8b3affd6f1fbcad15c4cbbbbdc4996c6c01c786711a21" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Android]]></source>
+    <translation><![CDATA[Androïde]]></translation>
+  </word>
+  <word hash="24e70491ace3c9dea2c7eba1ed058d665c39992b166172a2f7595fbb000fb2d8" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[LiveChat]]></source>
+    <translation><![CDATA[Discussion en temps réel]]></translation>
+  </word>
+  <word hash="07b4ed8e4e4eadcc7ffe05d41b5717255ae72a4881893e1d69e13889631c846f" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[TOP]]></source>
+    <translation><![CDATA[TOP]]></translation>
+  </word>
+  <word hash="7d9eb7acb13e24625c404401d8e88b2350e32162455885f18276cf802f7701ed" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Close]]></source>
+    <translation><![CDATA[Proche]]></translation>
+  </word>
+  <word hash="a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Previous]]></source>
+    <translation><![CDATA[Précédent]]></translation>
+  </word>
+  <word hash="1ff57a29d7c9d11bdf61c1b80f2b289b44c1ea844824d4b94a0d52b6ba5fc858" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Next]]></source>
+    <translation><![CDATA[Suivant]]></translation>
+  </word>
+  <word hash="fba6c2c5d9468e741725c7dfa1ac14fb59523c74fa86744027ec0a175e6cae3f" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Maximize]]></source>
+    <translation><![CDATA[Maximiser]]></translation>
+  </word>
+  <word hash="44406d78d5f19b897459982ca79db6e45c4e3b7b339a9b01b99501b24b2d98ff" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[
+It is always important to have a healthy scalp under the hair extensions. A lot of times we are so worried about the   hair and we forget to take care of what is under ( the scalp). Here are a list of  solutions to help you with your scalp problems.
+First, look at your scalp and how your hair be...]]></source>
+    <translation><![CDATA[
+Il est toujours important d'avoir un cuir chevelu sain dans les extensions de cheveux. Un grand nombre de fois nous sommes tellement préoccupés par les cheveux et on oublie de prendre soin de ce qui est sous (le cuir chevelu). Voici une liste de solutions pour vous aider avec vos problèmes de cuir chevelu. D'abord, regardez votre cuir chevelu et comment vos cheveux être ...]]></translation>
+  </word>
+  <word hash="8c9512665589c83a690b6e23d0ae1f349af5326d45c85574c1b4380e3bce1903" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[luvmehair Hair Extensions Quality]]></source>
+    <translation><![CDATA[luvmehair Hair Extensions Qualité]]></translation>
+  </word>
+  <word hash="32ccba5144f8c3c25b5e660aa72e8cb2274fbe4bfb184d8b4dcd53981bc39746" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Post time: 02-24-2016]]></source>
+    <translation><![CDATA[Poster un temps: 24/02/2016]]></translation>
+  </word>
+  <word hash="d48a6ddbc739426d7cc92401f03d3070da60e5272b492ef77f4eba86c7ae37f3" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Q: Whats the differences between Brazilian virgin hair, Peruvian virgin hair,Malaysian 100% virgin hair and Indian virgin hair?
+ A: The differences are more apparent in the hair’s reaction to water, heat or air drying. For longer lasting curls on any of the hair, it is recommend to roller s...]]></source>
+    <translation><![CDATA[Q: Quel est la différence entre les cheveux brésiliens vierges, cheveux vierge péruvienne, Malaysian cheveux vierges de 100% et les cheveux vierge indienne? A: Les différences sont plus apparents dans la réaction de la chevelure à l'eau, la chaleur ou séchage à l'air. Pour plus durable des boucles sur l'un des cheveux, il est recommandé de rouleau s ...]]></translation>
+  </word>
+  <word hash="b5969ccc39df3d8cb43c00590036f64bb2a4a26d03fd521175350f6e75e4ea7e" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[ Next > ]]></source>
+    <translation><![CDATA[ Suivant> ]]></translation>
+  </word>
+  <word hash="0f02c6bad08d9ff1858d26cf1af766e336d71e34c2e74e8c7d417b3550cbfc44" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[>>]]></source>
+    <translation><![CDATA[>>]]></translation>
+  </word>
+  <word hash="94ff8ef9578571481ec2fa6ac851f0f81dd2d660988c5202a510dc5b6702fd63" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[The Last Page]]></source>
+    <translation><![CDATA[La dernière page]]></translation>
+  </word>
+  <word hash="1a56a08726f3e97354d49a5b6e7e9844ae971d5d6cbf7a5999b178d945814a04" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Page 1 / 11]]></source>
+    <translation><![CDATA[Page 1/11]]></translation>
+  </word>
+  <word hash="3411059cb8e0660e29dd7a3737e65a28b08eb01524a8ebc3d4168932649f23e6" date="2016-03-10T12:42:45+00:00">
+    <source><![CDATA[Spanish]]></source>
+    <translation><![CDATA[Espagnol]]></translation>
+  </word>
+  <word hash="ad6a52d29075bca0c383f1897a70bdb6822836df6ceb2f3c56656fb7b5674605" date="2016-03-10T12:42:46+00:00">
+    <source><![CDATA[Human hair wigs are all over the place. Despite of being expensive they are the best-
+selling wigs. The reason people go for these wigs is that they give the hair the real deal. Your
+natural hair and the human hair of wigs will blend so smartly that no one can even suspect
+youwearing a wig. In yo...]]></source>
+    <translation><![CDATA[perruques de cheveux humains sont partout. En dépit d'être coûteux, ils sont les perruques de plus vendue. La raison pour laquelle les gens vont pour ces perruques est qu'ils donnent aux cheveux la vraie affaire. Vos cheveux naturels et les cheveux humains de perruques se mêleront donc intelligemment que personne ne peut même soupçonner youwearing une perruque. En yo ...]]></translation>
+  </word>
+  <word hash="737f6bce8ca88715b787b24c005a890372e2d5cb1346e88943783515ce50d005" date="2016-03-10T12:42:46+00:00">
+    <source><![CDATA[Virgin Hair Extensions For Less]]></source>
+    <translation><![CDATA[Virgin Hair Extensions For Less]]></translation>
+  </word>
+  <word hash="2951500b4cd23292375f50aec40dce21cce9c427f8554b8936cb1f48e60d8028" date="2016-03-10T12:42:46+00:00">
+    <source><![CDATA[Post time: 02-29-2016]]></source>
+    <translation><![CDATA[Poster un temps: 29/02/2016]]></translation>
+  </word>
+  <word hash="942648ad52958effa5e0d544747485c489a16bb7cd80baef9e35d1f4be6b3475" date="2016-03-10T12:42:46+00:00">
+    <source><![CDATA[For virgin hair extensions, nobody can mess with Queen Virgin Remy. We’ve always got the hottest styles, best deals, and largest selection you’ll find anywhere. It’s so easy to take advantage of our amazing selection online or in one of our stores, so really girls, you’ve got no excuse not to hav...]]></source>
+    <translation><![CDATA[Pour les extensions de cheveux vierges, personne ne peut salir avec la Reine Vierge Remy. Nous avons toujours eu les styles les plus chaudes, les meilleures offres, et la plus grande sélection, vous trouverez partout. Il est si facile de profiter de notre incroyable sélection en ligne ou dans un de nos magasins, donc vraiment les filles, vous avez aucune excuse pour ne pas hav ...]]></translation>
+  </word>
+  <word hash="e45082dd546f3fb82a8f295fa049af43637949efa7e21df7d1a133a6f0da9ebd" date="2016-03-10T12:42:46+00:00">
+    <source><![CDATA[Want To Use Queen Virgin Remy Extensions To Grow Out Your Hair ??]]></source>
+    <translation><![CDATA[Vous souhaitez utiliser la Reine Vierge Remy Extensions To Grow Out Your Hair ??]]></translation>
+  </word>
+  <word hash="e35665a680ba5d9e57865175c9671661f31cc957a3ab36282d51094f947b7198" date="2016-03-10T12:42:46+00:00">
+    <source><![CDATA[
+ 
+Hair extensions and weaves can serve a very useful purpose, not only for style, but for hair growth as well.
+Improperly installed and maintained hair extensions can lead to excessive hair loss and damage.  Bad installs that are not properly maintained can leave you with dry, brittle, dama...]]></source>
+    <translation><![CDATA[
+Les extensions de cheveux et armures peuvent servir un but très utile, non seulement pour le style, mais pour la croissance des cheveux aussi bien. Improperly installés et des extensions de cheveux entretenus peuvent conduire à une perte excessive de cheveux et des dommages. Bad installations qui ne sont pas correctement entretenus peut vous laisser avec secs, cassants, dama ...]]></translation>
+  </word>
+  <word hash="e9f7986b6e94cbf9a80ed3abc29502e966ab512b6e3d5c9e285aadf7b3210447" date="2016-03-10T12:42:46+00:00">
+    <source><![CDATA[How to Blend Your Leave Out Perfectly with Curly Hair]]></source>
+    <translation><![CDATA[Comment mélanger votre Leave Out parfaitement avec cheveux bouclés]]></translation>
+  </word>
+  <word hash="267fabfdf169be7d507a8c6c2254000d6dbb7be75cd2fa696c99e1700a6924ef" date="2016-03-10T12:42:46+00:00">
+    <source><![CDATA[
+ 
+If  your hair is kinky, relaxed, texlaxed or simply not the same curl pattern as your hair extensions you may find it difficult to get that “perfect” blend without reaching for a curling iron or wand.  Which may be fine in the beginning but too much direct heat and your leave out will bec...]]></source>
+    <translation><![CDATA[
+Si vos cheveux sont crépus, décontracté, texlaxed ou tout simplement pas le même modèle de courbure que vos extensions de cheveux, vous trouverez peut-être difficile d'obtenir ce mélange «parfait» sans atteindre pour un fer à friser ou baguette. Ce qui est peut-être bien au début, mais trop de chaleur directe et votre congé à bec seront ...]]></translation>
+  </word>
+  <word hash="230faa61c482cbf8ab0e145fdc920e1c730244489863da174bd1fabdae6bc5d9" date="2016-03-10T12:42:46+00:00">
+    <source><![CDATA[Healthy Scalp]]></source>
+    <translation><![CDATA[Scalp Healthy]]></translation>
+  </word>
+  <word hash="6779c1528f074b07c246e7ec5c33698a7c567939a565001fcf103e6354b42b79" date="2016-03-10T12:42:47+00:00">
+    <source><![CDATA[Are you looking for a splendid hairstyle for prom, wedding or any birthday party coming up?
+If yes then the curly clip-in hair extensions are what you need. The hair extensions are
+an easy way to add in length to your hair. You can even go for the colored hair extensions to
+add a funky style to y...]]></source>
+    <translation><![CDATA[Vous cherchez une coiffure magnifique pour le bal, mariage ou toute fête d'anniversaire à venir? Si oui, alors le clip dans les extensions de cheveux bouclés sont ce que vous avez besoin. Les extensions de cheveux sont un moyen facile d'ajouter à la longueur de vos cheveux. Vous pouvez même aller pour les extensions de cheveux de couleur pour ajouter un style funky à y ...]]></translation>
+  </word>
+  <word hash="3cbfbeb7265759fcf649aaa03ba3be41ab9df768e17fd6126cdf0e83690b56f4" date="2016-03-10T12:42:47+00:00">
+    <source><![CDATA[Instructions for washing and putting on men’s wigs]]></source>
+    <translation><![CDATA[Instructions pour le lavage et la mise sur les perruques des hommes]]></translation>
+  </word>
+  <word hash="74dfbb175f2796b7bf202506fc57eaf023ed3648c52ad57f139fb92a4f7d22c3" date="2016-03-10T12:42:47+00:00">
+    <source><![CDATA[These days, not only wigs for women are popular, men’s wigs are also very much popular.
+The wigs made for men are not easy to put on but there are some instructions that can help
+you. They are as follows:
+Pin the cap with the hair before wearing the wig. For those who have shorter hair, they
+can ...]]></source>
+    <translation><![CDATA[Ces jours perruques, non seulement pour les femmes sont très populaires, les perruques des hommes sont aussi très populaires. Les perruques faites pour les hommes ne sont pas faciles à mettre, mais il y a quelques instructions qui peuvent vous aider. Ils sont comme suit: Pin le bouchon avec les cheveux avant de porter la perruque. Pour ceux qui ont des cheveux plus courts, ils peuvent ...]]></translation>
+  </word>
+  <word hash="b1e57d954af013f23237b4930cf9207d6702badb8868b69945bd0e2cabade1f4" date="2016-03-10T12:42:47+00:00">
+    <source><![CDATA[Wearing the Celebrity Noble Wigs]]></source>
+    <translation><![CDATA[Porter les perruques Celebrity Noble]]></translation>
+  </word>
+  <word hash="63403b46161661163ce8d3ca0fbf2836011d0ee929238589b648b3df76d3aeb0" date="2016-03-10T12:42:47+00:00">
+    <source><![CDATA[Many different kinds of hair accessories are available in the market. One of these hair
+accessories is the celebrity noble wig. These wigs are very much famous among women.
+These wigs are made up of heat friendly synthetic material. These wigs are cap-
+less and the length is usually short. The st...]]></source>
+    <translation><![CDATA[De nombreux types d'accessoires de cheveux sont disponibles sur le marché. L'un de ces accessoires de cheveux est la célébrité noble perruque. Ces perruques sont très célèbre parmi les femmes. Ces perruques sont composées de matière synthétique amicale de chaleur. Ces perruques sont Cap- moins et la longueur est généralement de courte durée. La st ...]]></translation>
+  </word>
+  <word hash="3dc39fec84e8a4f61a5904cc578b2f5875328d416df2500ab428366b6e8a04f0" date="2016-03-10T12:42:47+00:00">
+    <source><![CDATA[All Time Favorite Human Hair Wigs]]></source>
+    <translation><![CDATA[All Time Favorite Human Hair Wigs]]></translation>
+  </word>
+  <word hash="d5cf1536df6586c69f56af253b22e8e5c41095e840aa0973d17122ac406bc9b2" date="2016-03-10T12:42:47+00:00">
+    <source><![CDATA[Are you a fashion chic? Do you get tired of the daily hairstyling? If you are facing all this thena wig is the only thing you need. A wig made from human hair is the one that will stay true to you till a long time. All the wig requires is a little attention as you need to take care of it just
+lik...]]></source>
+    <translation><![CDATA[Êtes-vous un mode chic? Avez-vous fatigué de la coiffure quotidienne? Si vous faites face à tout cela puisune perruque est la seule chose dont vous avez besoin. Une perruque faite de cheveux humains est celui qui va rester fidèle à toi jusqu'à longtemps. Tout le nécessite perruque est un peu d'attention que vous avez besoin de prendre soin d'elle juste lik ...]]></translation>
+  </word>
+  <word hash="a4c91eec85b88675d2f3085d30d78cd0412f5e2b2c552dda996a4a5c19e1595e" date="2016-03-10T12:42:47+00:00">
+    <source><![CDATA[Human Hair Clip-In Extensions]]></source>
+    <translation><![CDATA[Cheveux Clip-In Extensions]]></translation>
+  </word>
+  <word hash="6c179f21e6f62b629055d8ab40f454ed02e48b68563913473b857d3638e23b28" date="2016-03-13T11:10:30+00:00">
+    <source><![CDATA[  ]]></source>
+    <translation><![CDATA[]]></translation>
+  </word>
+  <word hash="5bda410f9ba04361ce26dbf334ba9243d0fd501695c746463ee4f8d494182519" date="2016-03-13T11:10:30+00:00">
+    <source><![CDATA[Post time: 03-10-2016]]></source>
+    <translation><![CDATA[Poster un temps: 10/03/2016]]></translation>
+  </word>
+  <word hash="1af33770891c456617cd23091a6898c4b985eb116f2a053fc0453d7b73bc0423" date="2016-03-13T11:10:30+00:00">
+    <source><![CDATA[Hair extension is connected to the hair on their real hair, from short hair to instantly reach a long transition, hair extension hair wigs can be, it can be real hair.
+There are five basic hair extension: nail hair (also known as keratin hair extension), clip in hair, hair extensions, hair glue, ...]]></source>
+    <translation><![CDATA[Extension de cheveux est relié aux cheveux sur leur vrais cheveux, de cheveux courts pour atteindre instantanément une longue transition, perruques de cheveux d'extension de cheveux peut être, il peut être de vrais cheveux. Il y a cinq extension de base de cheveux: les cheveux des ongles (aussi connu comme l'extension de cheveux de kératine), pince dans les cheveux, extensions de cheveux, de la colle de cheveux, ...]]></translation>
+  </word>
+  <word hash="900da6e2d2f43d3731b83ac5701d220ad1a7d49d9a972aa1b0a29d1e66c157fb" date="2016-03-13T11:10:30+00:00">
+    <source><![CDATA[Seamless access Hair Tips]]></source>
+    <translation><![CDATA[accès Seamless Conseils de cheveux]]></translation>
+  </word>
+  <word hash="f3275e17a3e0301dd4985862c625783117f5d04160c529bafb73cf7d2d0a69ae" date="2016-03-13T11:10:30+00:00">
+    <source><![CDATA[Seamless sending and receiving
+Seamless sending and receiving in the country is sending and receiving high-end technology, compared to the past, and compiled in upgrading technology is called, is currently popular new method of hair extension, many domestic users to send and receive trace underst...]]></source>
+    <translation><![CDATA[Seamless envoyer et recevoir Seamless envoyer et recevoir dans le pays est l'envoi et la réception de la technologie haut de gamme, par rapport au passé, et compilé dans l'amélioration de la technologie est appelée, est nouvelle méthode actuellement populaire d'extension de cheveux, de nombreux utilisateurs domestiques pour envoyer et recevoir trace underst ...]]></translation>
+  </word>
+  <word hash="008b028d5e48d194187a07114feb12aec5673c69c3966db48b91e8a89bf0895e" date="2016-03-13T11:10:30+00:00">
+    <source><![CDATA[How to prepare hair extension & how to care after hair extension]]></source>
+    <translation><![CDATA[Comment préparer l'extension de cheveux et comment prendre soin après l'extension de cheveux]]></translation>
+  </word>
+  <word hash="12e1b48aff5f55c540e3284b28afc70ced4b85e70224d11c9d18efe82836b505" date="2016-03-13T11:10:30+00:00">
+    <source><![CDATA[Hair extension makes your hair longer overnight, transform any shape. Hair extension suitable for everyone, no matter what hairstyle you can do is send and receive.
+Then short hair braided hair extension method uses fewer, multi-purpose bonding and fastening method, the advantage is relatively st...]]></source>
+    <translation><![CDATA[Extension de cheveux rend vos cheveux plus du jour au lendemain, transformer une forme quelconque. Extension de cheveux approprié pour tout le monde, peu importe ce que la coiffure vous pouvez faire est d'envoyer et de recevoir. Ensuite, les cheveux courts méthode d'extension de cheveux tressés utilise moins, collage multi-usages et la méthode de fixation, l'avantage est relativement st ...]]></translation>
+  </word>
+  <word hash="a8d6428f984221189fa87ee65826d189b914375e8b1578adc6ccf76d83160faf" date="2016-03-13T11:10:30+00:00">
+    <source><![CDATA[Hair extension classification]]></source>
+    <translation><![CDATA[l'extension de cheveux classification]]></translation>
+  </word>
+  <word hash="1138f549860cc7128d341e72b4213853654f08486c41ed5800672e1fae718280" date="2016-03-13T11:10:30+00:00">
+    <source><![CDATA[Wigs and wig two points mechanism manually, materials used for chemical fiber yarn and two kinds of human hair, fibers PVC, PET-based materials, in accordance with the added flame retardant and can not distinguish between flame retardant wire and wire. Domestic brand fake hair to Tanron technical...]]></source>
+    <translation><![CDATA[Perruques et perruque deux points mécanisme manuellement, les matériaux utilisés pour les fils de fibres chimiques et deux types de cheveux humains, fibres PVC, matériaux à base de PET, conformément à la ignifuges ajoutée et ne peut pas distinguer entre le fil ignifuge et le fil. marque domestique faux cheveux à Tanron technique ...]]></translation>
+  </word>
+  <word hash="b8fb756ad16b682431242f5298658b53a6e6d372d6e69cb652a7948aebd027c8" date="2016-03-13T11:10:30+00:00">
+    <source><![CDATA[Attractive short hair get what hairstyle]]></source>
+    <translation><![CDATA[cheveux courts Attractive obtenir ce que la coiffure]]></translation>
+  </word>
+  <word hash="8b2e6843cafc89b67cd1f9c19f249db4a5f4725c728cc964fec0a261ccf762c6" date="2016-03-13T11:10:31+00:00">
+    <source><![CDATA[1, fresh, good-looking girl with short hair type hairstyle
+For face: all face. The messy short hair, whether from the visual and feel very cool, because the hair is designed to be messy, it will not give a heavy feeling dull. Would have short hair will not feel hot, because the sense of messy hai...]]></source>
+    <translation><![CDATA[1, fraîche, belle fille avec les cheveux de type coiffure courte Pour le visage: tout le visage. Les cheveux courts en désordre, que ce soit du visuel et se sentent très cool, parce que les cheveux est conçu pour être salissant, il ne donnera pas un lourd sentiment terne. Aurait les cheveux courts ne se sentent pas chaud, parce que le sens du désordre hai ...]]></translation>
+  </word>
+  <word hash="a0fea38f4072a2c7e70b5e75dd9630b5135ddb74ddb1915d7b5ffd7cd9cc7b75" date="2016-03-13T11:10:31+00:00">
+    <source><![CDATA[Common cutting techniques have?]]></source>
+    <translation><![CDATA[techniques de coupe communes ont?]]></translation>
+  </word>
+  <word hash="079005fe2a02351241ceece6f5981dacedda446f8e4e9e92c25d389e39da2935" date="2016-03-13T11:10:31+00:00">
+    <source><![CDATA[First, the fight thin cut it (Thinning Scissors)
+Thinning scissors are also divided into multiple densities teeth, so should pay attention when using hair needs, such as wide-tooth thinning scissors effect is to increase its faults, so that hair is a clear sense of hierarchy, but more suitable fo...]]></source>
+    <translation><![CDATA[Tout d'abord, la lutte coupe mince, il (effiler Ciseaux) Ciseaux à effiler sont également divisés en plusieurs densités dents, devrait donc faire attention lors de l'utilisation des besoins des cheveux, tels que dents larges ciseaux à effiler effet est d'augmenter ses défauts, de sorte que les cheveux est un clair sens de la hiérarchie, mais plus approprié fo ...]]></translation>
+  </word>
+  <word hash="f41b94c5eb22f7eadb5103e7813d005f9b0f3904f80218b7cdc15628fa80fed5" date="2016-03-13T11:10:31+00:00">
+    <source><![CDATA[Teach you to use essential oils hair care]]></source>
+    <translation><![CDATA[Enseignez-vous d'utiliser des huiles de soins capillaires essentiels]]></translation>
+  </word>
+  <word hash="4902e351c1fd80920c46c4896a6bd605fb31455013c0e885ec4a675a2e40220a" date="2016-03-13T11:10:31+00:00">
+    <source><![CDATA[Made use of essential oils:
+Oil does not change the natural hair color, but it can be enhanced. Chamomile can make blonde hair, exudes a charming luster, sage oil is suitable for black or brown hair, carrot seed oil on ginger hair and very useful, especially for rosemary oil dark hair. According ...]]></source>
+    <translation><![CDATA[utilisation des huiles essentielles: Huile ne change pas la couleur naturelle des cheveux, mais il peut être amélioré. Camomille peut rendre les cheveux blonds, dégage un éclat de charme, huile de sauge est adapté pour les cheveux noirs ou bruns, l'huile de graine de carotte sur les cheveux de gingembre et très utile, en particulier pour l'huile de romarin cheveux foncés. Selon ...]]></translation>
+  </word>
+  <word hash="a597f1457a6a3d68113eb3e198bc095337b577ffe4afc47762714b2e68113338" date="2016-03-13T11:10:31+00:00">
+    <source><![CDATA[2016 What are the latest trends in hairstyle?]]></source>
+    <translation><![CDATA[2016 Quelles sont les dernières tendances en coiffure?]]></translation>
+  </word>
+  <word hash="b20f818e10213cb5705ab4026a2cb21b720aa7dd6010cb8f712564c9834c4bcd" date="2016-03-13T11:10:31+00:00">
+    <source><![CDATA[1. fluffy bangs short hair
+This design is full of a sense of short hair, irregular fringe trim so that face has become more prominent, bunches slightly outside the Alice hair so that the original boring short hair becomes clever, very trendy hairstyle.
+2. oblique fringe hair
+Very suitable for lar...]]></source>
+    <translation><![CDATA[1. bangs moelleuses cheveux courts Cette conception est pleine d'un sentiment de cheveux courts, frange irrégulière garniture de telle sorte que le visage est devenu plus important, des grappes légèrement à l'extérieur les cheveux Alice afin que les cheveux courts ennuyeux d'origine devient intelligent coiffure, très à la mode. 2. cheveux frange oblique Très approprié pour lar ...]]></translation>
+  </word>
+  <word hash="6c179f21e6f62b629055d8ab40f454ed02e48b68563913473b857d3638e23b28" date="2016-03-16T05:10:04+00:00">
+    <source><![CDATA[  ]]></source>
+    <translation><![CDATA[]]></translation>
+  </word>
+  <word hash="31238566356b1a68831924d129bf3e6ac74648cbfe27fa3a29093fd47ec986ec" date="2016-03-16T05:10:04+00:00">
+    <source><![CDATA[What is hair extension? Sending and receiving three technical presentations]]></source>
+    <translation><![CDATA[Quelle est l'extension de cheveux? Envoi et réception de trois présentations techniques]]></translation>
+  </word>
+</translations>
