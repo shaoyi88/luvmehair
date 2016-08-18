@@ -141,7 +141,7 @@ $post->price=get_currency_price($product[0][products][1][price]);?>
       </section> -->
 <?php query_posts(array( 'post_type' => 'ad_img','showposts' => 1,'orderby' => 'post_date','order'=> 'DESC') ); while (have_posts()) : the_post();?>
 <?php $images = get_field('ad_sidebar_banner'); if( $images ): foreach( $images as $image ): ?>
-      <div class="side-bn"><a href="<?php echo $image['alt']; ?>"><img width="207px;" src="<?php echo $image['url']; ?>" alt="<?php echo $image['description']; ?>  "/></a></div><br />
+      <div class="side-bn"><a href="<?php echo str_replace('www.luvmehair.com', $_SERVER['HTTP_HOST'], $image['alt']); ?>"><img width="207px;" src="<?php echo $image['url']; ?>" alt="<?php echo $image['description']; ?>  "/></a></div><br />
 <?php endforeach; endif; ?>
 <?php endwhile; wp_reset_query();  ?>       
    </aside>

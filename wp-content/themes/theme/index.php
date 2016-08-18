@@ -1,21 +1,10 @@
 <?php get_header();?>
-<!--	<section class="slide-banners-wrap111">
-<section class="slide-banners">
-<ul class="slides">
-<?php query_posts(array( 'post_type' => 'ad_img','showposts' => 1,'orderby' => 'post_date','order'=> 'DESC') ); while (have_posts()) : the_post();?>
-<?php $images = get_field('ad_index_banner'); if( $images ): foreach( $images as $image ): ?>
-<div class="slide-item"><a href="<?php echo $image['alt']; ?>"><img src="<?php echo $image['url']; ?>" alt="<?php echo $image['description']; ?>" /></a></div>
-<?php endforeach; endif; ?>
-<?php endwhile; wp_reset_query();  ?>
-</ul>
-   </section>
-    </section>-->
     <section class="slide-banners-wrap">
         <section class="slide-banners">
             <ul class="slides">
             <?php query_posts(array( 'post_type' => 'ad_img','showposts' => 1,'orderby' => 'post_date','order'=> 'DESC') ); while (have_posts()) : the_post();?>
 <?php $images = get_field('ad_index_banner'); if( $images ): foreach( $images as $image ): ?>
-                <li class="slide-item" style="background-image:url(<?php echo $image['url']; ?>)"><a href="<?php echo $image['alt']; ?>"><img src="<?php echo $image['url']; ?>"></a></li>
+                <li class="slide-item" style="background-image:url(<?php echo $image['url']; ?>)"><a href="<?php echo str_replace('www.luvmehair.com', $_SERVER['HTTP_HOST'], $image['alt']); ?>"><img src="<?php echo $image['url']; ?>"></a></li>
                <?php endforeach; endif; ?>
 <?php endwhile; wp_reset_query();  ?>
             </ul>        
@@ -164,8 +153,8 @@ $post->price=get_currency_price($product[0][products][1][price]);?>
     <section class="banner-list-wrap">
 <?php query_posts(array( 'post_type' => 'ad_img','showposts' => 1,'orderby' => 'post_date','order'=> 'DESC') ); while (have_posts()) : the_post();?>
 <?php $image = get_field('ad_index_01');if( !empty($image) ): ?><section class="banner-list" style="background-image:url(<?php echo $image['url']; ?>)">
-             <li><a href="<?php echo $image['alt']; ?>"></a></li>
-            <li><a href="<?php echo $image['alt']; ?>"></a></li>
+             <li><a href="<?php echo str_replace('www.luvmehair.com', $_SERVER['HTTP_HOST'], $image['alt']); ?>"></a></li>
+            <li><a href="<?php echo str_replace('www.luvmehair.com', $_SERVER['HTTP_HOST'], $image['alt']); ?>"></a></li>
 </section><?php endif; ?>
 <?php endwhile; wp_reset_query();  ?>
     </section>

@@ -1072,7 +1072,7 @@ if (!function_exists('orderhandle')) {
 		if (isset($eshopstatelist[$state])) $state = $eshopstatelist[$state];
 		if (isset($eshopstatelist[$ship_state])) $ship_state = $eshopstatelist[$ship_state]; 
 		// if (!is_user_logged_in()) {
-		$eshopching = $wpdb -> get_var("SELECT checkid from $detailstable where checkid='$checkid' limit 1");				$user_table = $wpdb -> prefix . 'users';		$userInfo = $wpdb -> get_row("SELECT * from $user_table where user_url like '%".$_SERVER['SERVER_NAME']."%'");		$from_id = '';		$from_name = '';		$from_site = '';		if($userInfo){			$from_id = $userInfo->ID;			$from_name = $userInfo->display_name;			$from_site = $_SERVER['SERVER_NAME'];		}
+		$eshopching = $wpdb -> get_var("SELECT checkid from $detailstable where checkid='$checkid' limit 1");				$user_table = $wpdb -> prefix . 'users';		$userInfo = $wpdb -> get_row("SELECT * from $user_table where user_url like '%".$_SERVER['HTTP_HOST']."%'");		$from_id = '';		$from_name = '';		$from_site = '';		if($userInfo){			$from_id = $userInfo->ID;			$from_name = $userInfo->display_name;			$from_site = $_SERVER['HTTP_HOST'];		}
 		if ($eshopching != $checkid) {
 			$query1 = $wpdb -> query("INSERT INTO $detailstable
 				(from_id,from_name,from_site,checkid, first_name, last_name,company,email,phone, address1, address2, city,

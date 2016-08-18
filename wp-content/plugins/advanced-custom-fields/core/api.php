@@ -334,8 +334,7 @@ function the_field( $field_name, $post_id = false ) {
 	{
 		$value = @implode(', ',$value);
 	}
-	
-	echo $value;
+	echo str_replace('www.luvmehair.com', $_SERVER['HTTP_HOST'], $value);
 }
 
 
