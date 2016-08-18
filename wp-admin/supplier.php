@@ -11,15 +11,12 @@ require_once( './admin.php' );
 if ( ! current_user_can( 'list_users' ) )
 	wp_die( __( 'Cheatin&#8217; uh?' ) );
 
-$wp_list_table = _get_list_table('WP_Users_List_Table');
+$wp_list_table = _get_list_table('WP_Supplier_List_Table');
 $pagenum = $wp_list_table->get_pagenum();
 $title = __('Users');
-$parent_file = 'users.php';
+$parent_file = 'supplier.php';
 
 add_screen_option( 'per_page', array('label' => _x( 'Users', 'users per page (screen options)' )) );
-
-
-
 /**
  * @since 3.5.0
  * @access private
@@ -300,13 +297,13 @@ case 'remove':
 break;
 
 default:
-
 	if ( !empty($_GET['_wp_http_referer']) ) {
 		wp_redirect( remove_query_arg( array( '_wp_http_referer', '_wpnonce'), wp_unslash( $_SERVER['REQUEST_URI'] ) ) );
 		exit;
 	}
-
+	
 	$wp_list_table->prepare_items();
+
 	$total_pages = $wp_list_table->get_pagination_arg( 'total_pages' );
 	if ( $pagenum > $total_pages && $total_pages > 0 ) {
 		wp_redirect( add_query_arg( 'paged', $total_pages ) );
@@ -327,7 +324,7 @@ default:
 			if ( isset( $_GET['id'] ) && ( $user_id = $_GET['id'] ) && current_user_can( 'edit_user', $user_id ) ) {
 				$messages[] = '<div id="message" class="updated"><p>' . sprintf( __( 'New user created. <a href="%s">Edit user</a>' ),
 					esc_url( add_query_arg( 'wp_http_referer', urlencode( wp_unslash( $_SERVER['REQUEST_URI'] ) ),
-						self_admin_url( 'user-edit.php?user_id=' . $user_id ) ) ) ) . '</p></div>';
+						self_admin_url( 'supplier-edit.php?user_id=' . $user_id ) ) ) ) . '</p></div>';
 			} else {
 				$messages[] = '<div id="message" class="updated"><p>' . __( 'New user created.' ) . '</p></div>';
 			}
@@ -373,22 +370,18 @@ if ( ! empty($messages) ) {
 <?php screen_icon(); ?>
 <h2>
 <?php
-echo esc_html( $title );
+echo esc_html( '供应商' );
 if ( current_user_can( 'create_users' ) ) { ?>
-	<a href="user-new.php" class="add-new-h2"><?php echo esc_html_x( 'Add New', 'user' ); ?></a>
+	<a href="supplier-new.php" class="add-new-h2">添加供应商</a>
 <?php } elseif ( is_multisite() && current_user_can( 'promote_users' ) ) { ?>
-	<a href="user-new.php" class="add-new-h2"><?php echo esc_html_x( 'Add Existing', 'user' ); ?></a>
+	<a href="supplier-new.php" class="add-new-h2"><?php echo esc_html_x( 'Add Existing', 'user' ); ?></a>
 <?php }
 
 if ( $usersearch )
 	printf( '<span class="subtitle">' . __('Search results for &#8220;%s&#8221;') . '</span>', esc_html( $usersearch ) ); ?>
 </h2>
 
-<?php $wp_list_table->views(); ?>
-
 <form action="" method="get">
-
-<?php $wp_list_table->search_box( __( 'Search Users' ), 'user' ); ?>
 
 <?php $wp_list_table->display(); ?>
 </form>

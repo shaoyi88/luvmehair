@@ -563,6 +563,11 @@ class WP_User {
 				$user_id = wp_cache_get($value, 'userlogins');
 				$db_field = 'user_login';
 				break;
+			case 'user_url':
+				$value = sanitize_user( $value );
+				$user_url = wp_cache_get($value, 'user_url');
+				$db_field = 'user_url';
+				break;
 			default:
 				return false;
 		}

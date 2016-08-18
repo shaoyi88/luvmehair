@@ -7,7 +7,7 @@
  * @since 3.1.0
  * @access private
  */
-class WP_Users_List_Table extends WP_List_Table {
+class WP_Supplier_List_Table extends WP_List_Table {
 
 	var $site_id;
 	var $is_site_users;
@@ -37,8 +37,8 @@ class WP_Users_List_Table extends WP_List_Table {
 
 		$usersearch = isset( $_REQUEST['s'] ) ? trim( $_REQUEST['s'] ) : '';
 
-		$role = isset( $_REQUEST['role'] ) ? $_REQUEST['role'] : '';
-
+		$role = 'supplier';
+		
 		$per_page = ( $this->is_site_users ) ? 'site_users_network_per_page' : 'users_per_page';
 		$users_per_page = $this->get_items_per_page( $per_page );
 
@@ -88,7 +88,7 @@ class WP_Users_List_Table extends WP_List_Table {
 			$users_of_blog = count_users();
 			restore_current_blog();
 		} else {
-			$url = 'users.php';
+			$url = 'supplier.php';
 			$users_of_blog = count_users();
 		}
 		$total_users = $users_of_blog['total_users'];
@@ -100,9 +100,6 @@ class WP_Users_List_Table extends WP_List_Table {
 		$role_links = array();
 		$role_links['all'] = "<a href='$url'$class>" . sprintf( _nx( 'All <span class="count">(%s)</span>', 'All <span class="count">(%s)</span>', $total_users, 'users' ), number_format_i18n( $total_users ) ) . '</a>';
 		foreach ( $wp_roles->get_names() as $this_role => $name ) {
-			if($this_role=='supplier'){
-				continue;
-			}
 			if ( !isset($avail_roles[$this_role]) )
 				continue;
 
@@ -143,12 +140,8 @@ class WP_Users_List_Table extends WP_List_Table {
 	<div class="alignleft actions">
 		<?php if ( current_user_can( 'promote_users' ) ) : ?>
 		<label class="screen-reader-text" for="new_role"><?php _e( 'Change role to&hellip;' ) ?></label>
-		<select name="new_role" id="new_role">
-			<option value=''><?php _e( 'Change role to&hellip;' ) ?></option>
-			<?php wp_dropdown_roles(); ?>
-		</select>
 	<?php
-			submit_button( __( 'Change' ), 'button', 'changeit', false );
+	
 		endif;
 
 		do_action( 'restrict_manage_users' );
@@ -165,11 +158,10 @@ class WP_Users_List_Table extends WP_List_Table {
 	function get_columns() {
 		$c = array(
 			'cb'       => '<input type="checkbox" />',
-			'username' => __( 'Username' ),
-			'name'     => __( 'Name' ),
+			'username'     => __( 'Username' ),
+			'display_name' => '公司名',
+			'user_url'     => '站点',
 			'email'    => __( 'E-mail' ),
-			'role'     => __( 'Role' ),
-			'posts'    => __( 'Posts' )
 		);
 
 		if ( $this->is_site_users )
@@ -200,9 +192,6 @@ class WP_Users_List_Table extends WP_List_Table {
 
 		$style = '';
 		foreach ( $this->items as $userid => $user_object ) {
-			if($user_object->roles[0] == 'supplier'){
-				continue;
-			}
 			if ( count( $user_object->roles ) <= 1 ) {
 				$role = reset( $user_object->roles );
 			} elseif ( $roles = array_intersect( array_values( $user_object->roles ), $editable_roles ) ) {
@@ -241,7 +230,7 @@ class WP_Users_List_Table extends WP_List_Table {
 		if ( $this->is_site_users )
 			$url = "site-users.php?id={$this->site_id}&amp;";
 		else
-			$url = 'users.php?';
+			$url = 'supplier.php?';
 
 		$checkbox = '';
 		// Check if the user for this row is editable
@@ -251,8 +240,8 @@ class WP_Users_List_Table extends WP_List_Table {
 
 			// Set up the hover actions for this user
 			$actions = array();
-
 			if ( current_user_can( 'edit_user',  $user_object->ID ) ) {
+				$edit_link = str_replace('user-edit', 'supplier-edit', $edit_link);
 				$edit = "<strong><a href=\"$edit_link\">$user_object->user_login</a></strong><br />";
 				$actions['edit'] = '<a href="' . $edit_link . '">' . __( 'Edit' ) . '</a>';
 			} else {
@@ -260,10 +249,11 @@ class WP_Users_List_Table extends WP_List_Table {
 			}
 
 			if ( !is_multisite() && get_current_user_id() != $user_object->ID && current_user_can( 'delete_user', $user_object->ID ) )
-				$actions['delete'] = "<a class='submitdelete' href='" . wp_nonce_url( "users.php?action=delete&amp;user=$user_object->ID", 'bulk-users' ) . "'>" . __( 'Delete' ) . "</a>";
+				$actions['delete'] = "<a class='submitdelete' href='" . wp_nonce_url( "supplier.php?action=delete&amp;user=$user_object->ID", 'bulk-users' ) . "'>" . __( 'Delete' ) . "</a>";
 			if ( is_multisite() && get_current_user_id() != $user_object->ID && current_user_can( 'remove_user', $user_object->ID ) )
 				$actions['remove'] = "<a class='submitdelete' href='" . wp_nonce_url( $url."action=remove&amp;user=$user_object->ID", 'bulk-users' ) . "'>" . __( 'Remove' ) . "</a>";
 			$actions = apply_filters( 'user_row_actions', $actions, $user_object );
+			unset($actions['lock-user']);
 			$edit .= $this->row_actions( $actions );
 
 			// Set up the checkbox ( because the user is editable, otherwise it's empty )
@@ -298,6 +288,15 @@ class WP_Users_List_Table extends WP_List_Table {
 					break;
 				case 'name':
 					$r .= "<td $attributes>$user_object->first_name $user_object->last_name</td>";
+					break;
+				case 'display_name':
+					$r .= "<td $attributes>$user_object->display_name</td>";
+					break;
+				case 'user_login':
+					$r .= "<td $attributes>$user_object->user_login</td>";
+					break;	
+				case 'user_url':
+					$r .= "<td $attributes>$user_object->user_url</td>";
 					break;
 				case 'email':
 					$r .= "<td $attributes><a href='mailto:$email' title='" . esc_attr( sprintf( __( 'E-mail: %s' ), $email ) ) . "'>$email</a></td>";

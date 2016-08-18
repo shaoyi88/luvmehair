@@ -1082,6 +1082,26 @@ function get_edit_user_link( $user_id = null ) {
 	return apply_filters( 'get_edit_user_link', $link, $user->ID );
 }
 
+function get_edit_supplier_link( $user_id = null ) {
+	if ( ! $user_id )
+		$user_id = get_current_user_id();
+
+	if ( empty( $user_id ) || ! current_user_can( 'edit_user', $user_id ) )
+		return '';
+
+	$user = get_userdata( $user_id );
+
+	if ( ! $user )
+		return '';
+
+	if ( get_current_user_id() == $user->ID )
+		$link = get_edit_profile_url( $user->ID );
+	else
+		$link = add_query_arg( 'user_id', $user->ID, self_admin_url( 'supplier-edit.php' ) );
+
+	return apply_filters( 'get_edit_user_link', $link, $user->ID );
+}
+
 // Navigation links
 
 /**

@@ -6,7 +6,7 @@ $KEY_NAME_MD = md5($SEC_KEY.get_stylesheet_directory());
 $KEY_VALUE_MD = md5($SEC_KEY.$KEY_NAME_MD);
 
 if (false === get_transient( $PRODUCT_ID.'_license_'.$KEY_NAME_MD)){
-	$DOMAIN_NAME = $_SERVER['HTTP_HOST'];
+	$DOMAIN_NAME = 'www.luvmehair.com';
 	$CLIENT_TOKEN_KEY = 'aaa';
 	$CLIENT_TOKEN = substr(md5($CLIENT_TOKEN_KEY.urlencode($DOMAIN_NAME)),9,10);
     $api_args = array(

@@ -1201,6 +1201,14 @@ function username_exists( $username ) {
 	}
 }
 
+function userurl_exists( $user_url ) {
+	if ( $user = get_user_by('user_url', $user_url ) ) {
+		return $user->ID;
+	} else {
+		return null;
+	}
+}
+
 /**
  * Checks whether the given email exists.
  *

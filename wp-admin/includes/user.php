@@ -139,6 +139,10 @@ function edit_user( $user_id = 0 ) {
 
 	if ( !$update && username_exists( $user->user_login ) )
 		$errors->add( 'user_login', __( '<strong>ERROR</strong>: This username is already registered. Please choose another one.' ));
+	
+	$info = userurl_exists( $user->user_url );
+	if ( (!$update && $info) ||  ($update && $info && $user_id != $info))
+		$errors->add( 'user_login', __( '<strong>ERROR</strong>: 站点已存在，请填写另外一个.' ));
 
 	/* checking e-mail address */
 	if ( empty( $user->user_email ) ) {

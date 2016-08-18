@@ -30,6 +30,9 @@
  * @return mixed Value set for the option.
  */
 function get_option( $option, $default = false ) {
+	if('siteurl' == $option || 'home' == $option){
+		return 'http://'.$_SERVER['HTTP_HOST'];
+	}
 	global $wpdb;
 
 	$option = trim( $option );

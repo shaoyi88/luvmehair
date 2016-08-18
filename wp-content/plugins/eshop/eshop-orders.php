@@ -1,6 +1,6 @@
-<?php
+<?php
 if ('eshop-orders.php' == basename($_SERVER['SCRIPT_FILENAME']))
-	die ('<h2>Direct File Access Prohibited</h2>');
+	die ('<h2>Direct File Access Prohibited</h2>');
 /**
  * See eshop.php for information and license terms
  */
@@ -79,7 +79,7 @@ if (isset($_POST['eshop-adnote'])) {
 } 
 
 if (!function_exists('displayorders')) {
-	function displayorders($type, $default) {
+	function displayorders($type, $default) {		
 		global $wpdb, $eshopoptions; 
 		// these should be global, but it wasn't working *sigh*
 		$phpself = esc_url($_SERVER['REQUEST_URI']);
@@ -144,9 +144,13 @@ if (!function_exists('displayorders')) {
 			} else {
 				$cda = ' class="current"';
 				$sortby = 'ORDER BY custom_field ASC';
-			} 
-
-			$max = $wpdb -> get_var("SELECT COUNT(id) FROM $dtable WHERE id > 0 AND status='$type'");
+			} 			global $current_user;
+			$sql = "SELECT COUNT(id) FROM $dtable WHERE id > 0 AND status='$type'";
+				
+			if(current_user_can('supplier')){
+				$sql .= " and from_id=$current_user->id";
+			}
+			$max = $wpdb -> get_var($sql);
 			if ($max > 0) {
 				if ($eshopoptions['records'] != '' && is_numeric($eshopoptions['records'])) {
 					$records = $eshopoptions['records'];
@@ -175,8 +179,18 @@ if (!function_exists('displayorders')) {
 							));
 					$offset = '0';
 					$records = $max;
-				} 
-				$myrowres = $wpdb -> get_results("Select * From $dtable where status='$type' $where $sortby LIMIT $offset, $records");
+				} 
+				global $current_user;
+				
+				$sql = "Select * From $dtable where status='$type' ";
+				
+				if(current_user_can('supplier')){
+					$sql .= "and from_id=$current_user->id";
+				}
+				
+				$sql .= " $where $sortby LIMIT $offset, $records";
+
+				$myrowres = $wpdb -> get_results($sql);
 				$calt = 0;
 				$apge = get_admin_url() . 'admin.php?page=' . $_GET['page'] . '&amp;action=' . $_GET['action'];
 
@@ -199,7 +213,9 @@ if (!function_exists('displayorders')) {
 			<caption class="offset">' . __('Order Listing', 'eshop') . '</caption>
 			<thead>
 			<tr>
-			<th id="customer">订单详情</th>
+			<th id="customer">订单详情</th>
+			
+			<th id="customer">订单来源</th>
 			<th id="date">' . __('订单时间', 'eshop') . '</th>
 			<th id="customer">' . __('客户信息(*为注册用户)', 'eshop') . '</th>
 			<th id="items">' . __('产品数量', 'eshop') . '</th>
@@ -256,11 +272,18 @@ if (!function_exists('displayorders')) {
 						$salesman_option .= '<option value="'.$u['user_id'].'" '.$selected.'>'.$username.'</option>';
 					}
 					 
-					$salesman_select = '<select name="salesman['.$checkid.']"><option value="0">空</option>'.$salesman_option.'</select>';;
+					$salesman_select = '<select name="salesman['.$checkid.']"><option value="0">空</option>'.$salesman_option.'</select>';;					$msg = '';
+					if($myrow -> from_site)
+						$msg =  $myrow -> from_site . '（'.$myrow -> from_name.'）';
+					
+					
 					if (isset($myrow -> user_id) && $myrow -> user_id != '0')
-						$userlink = '* ';
+						$userlink = '* ';
+					
 					echo '<tr' . $alt . '>
-										<td headers="line" id="numb' . $c . '">' . $myrow -> id . '</td>
+										<td headers="line" id="numb' . $c . '">' . $myrow -> id . '</td>
+										
+										<td>' . $msg . '</td>
 					<td headers="date numb' . $c . '">' . $thisdate . '</td>
 					<td headers="customer numb' . $c . '">' . $myrow -> first_name . ' ' . stripslashes($myrow -> last_name) . $company . '' . $userlink . '(' . $myrow -> email . ')</td>
 					<td headers="items numb' . $c . '">' . $ic . '</td>
@@ -541,8 +564,18 @@ if (!function_exists('displayorders')) {
 		else
 			$stati = array();
 
-		$dtable = $wpdb -> prefix . 'eshop_orders';
-		$myres = $wpdb -> get_results("SELECT COUNT( id ) as amt, status FROM $dtable WHERE id >0 GROUP BY status");
+		$dtable = $wpdb -> prefix . 'eshop_orders';
+		
+		global $current_user;
+		
+		$sql = "SELECT COUNT( id ) as amt, status FROM $dtable WHERE id >0 ";
+		
+		if(current_user_can('supplier')){
+			$sql .= " and from_id=$current_user->id";
+		}
+		
+		$sql .= " GROUP BY status";
+		$myres = $wpdb -> get_results($sql);
 		foreach ($myres as $row) {
 			$counted[$row -> status] = $row -> amt;
 		} 

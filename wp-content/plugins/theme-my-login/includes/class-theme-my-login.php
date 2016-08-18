@@ -386,9 +386,9 @@ class Theme_My_Login extends Theme_My_Login_Abstract {
 					if ( $http_post && isset( $_POST['log'] ) ) {
 
 						$user = wp_signon( '', $secure_cookie );
-
+
 						$redirect_to = apply_filters( 'login_redirect', $redirect_to, isset( $_REQUEST['redirect_to'] ) ? $_REQUEST['redirect_to'] : '', $user );
-
+				
 						if ( ! is_wp_error( $user ) && ! $reauth ) {
 							if ( ( empty( $redirect_to ) || $redirect_to == 'wp-admin/' || $redirect_to == admin_url() ) ) {
 								// If the user doesn't belong to a blog, send them to user admin. If the user can't edit posts, send them to their profile.

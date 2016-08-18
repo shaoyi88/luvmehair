@@ -45,8 +45,8 @@ __('Ship To Shipping Zone:','eshop').$delim.
 __('Customer paypal memo:','eshop').$delim.
 __('Customer reference:','eshop').$delim.
 __('Customer order comments:','eshop').$cr;
-
-$dquery=$wpdb->get_results("Select * From $dtable");
+global $current_user;$sql = "Select * From $dtable";if(current_user_can('supplier')){	$sql .= " where from_id=$current_user->id";}
+$dquery=$wpdb->get_results($sql);
 foreach($dquery as $drow){
 	$checkid=$drow->checkid;
 	$custom=$drow->custom_field;

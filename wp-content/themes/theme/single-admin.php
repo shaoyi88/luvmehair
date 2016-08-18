@@ -10,7 +10,7 @@
 <!--[if IE 6]>
 <script src="<?php echo home_url(); ?>/admin/js/iepng.js"></script>
 <![endif]-->
-</head>
+</head>
 <?php if( current_user_can('administrator') ) : ?>
 <body>
 <!-- header -->
@@ -102,7 +102,7 @@
 	  <li>	  <a href="#"><span class="ico-box"><i class="ico-user"></i><b class="ico-bg-red"></b></span>用户管理</a>
 
 	     <ul class="sub-menu">
-            <li><a href="<?php echo home_url(); ?>/wp-admin/users.php?orderby=registered&order=desc" target="main-frame">用户管理</a></li>
+            <li><a href="<?php echo home_url(); ?>/wp-admin/users.php?orderby=registered&order=desc" target="main-frame">用户管理</a></li>                        <li><a href="<?php echo home_url(); ?>/wp-admin/supplier.php?orderby=registered&order=desc&role=supplier" target="main-frame">供应商管理</a></li>
             <li><a href="<?php echo home_url(); ?>/wp-admin/post.php?post=1146&action=edit" target="main-frame">用户权限</a></li>
             <li><a href="<?php echo home_url(); ?>/wp-admin/admin.php?page=mailusers-user-settings" target="main-frame">邮件用户</a></li>
             <li><a href="<?php echo home_url(); ?>/wp-admin/admin.php?page=mailusers-send-to-group-page" target="main-frame">邮件群发</a></li>
@@ -733,7 +733,7 @@
       </li><?php } ?>
 
    </ul>
-   
+ <?php elseif( current_user_can('supplier') ) : ?>  <body><!-- header --><div class="admin-head">   <div class="admin-logo"><a href="http://www.GD-Shop.cn/"></a></div>   <div class="nav-bar">      <ul class="left-nav">         <li><i></i><b>显示所有语言版本内容</b></li>      </ul>      <ul class="left-nav">         <li><i></i><b>仅显示: English</b></li>      </ul>      <ul class="admin-nav">         <li><a href="<?php echo home_url(); ?>/wp-admin/admin.php?page=sc_opt_pg_a" target="main-frame">您好! <?php global $current_user; get_currentuserinfo(); echo $current_user->user_login;?> (<?php echo $current_user->user_nicename;?>)</a></li>         <?php if( in_array( '在线客服', get_field('kefu_qita') ) ){ ?><li class="menu-guide"><a href="<?php echo home_url(); ?>/wp-admin/admin.php?page=sc_opt_pg_a" target="main-frame">在线客服</a></li><?php } ?>         <?php if( in_array( '聊天记录', get_field('kefu_qita') ) ){ ?><li class="menu-guide"><a href="<?php echo home_url(); ?>/wp-admin/admin.php?page=sc_chat_m_chat_logs" target="main-frame">聊天记录</a></li><?php } ?>         <?php if( in_array( '操作教程', get_field('kefu_qita') ) ){ ?><li class="menu-guide"><a style="color:#FFD200;" href="http://www.gd-shop.cn/jc" target="_blank">操作教程</a></li><?php } ?>         <li class="menu-browse"><a target="_blank" href="<?php echo home_url(); ?>/">访问网站</a></li>         <li class="menu-promote"><a href="<?php echo home_url(); ?>/logout?_wpnonce=a3f9f14d95"  target="main-frame">安全退出</a></li>      </ul>   </div></div><!-- aside --><div class="admin-side">   <ul class="side-nav">	<li>	  <a href="#"><span class="ico-box"><i class="ico-google-tool"></i><b class="ico-bg-orange"></b></span>订单管理</a>	     <ul class="sub-menu">            <li><a href="<?php echo home_url(); ?>/wp-admin/admin.php?page=eshop-orders.php&action=Pending&by=dd" target="main-frame">未付款</a></li>            <li><a href="<?php echo home_url(); ?>/wp-admin/admin.php?page=eshop-orders.php&action=Waiting&by=dd" target="main-frame">等待付款</a></li>            <li><a href="<?php echo home_url(); ?>/wp-admin/admin.php?page=eshop-orders.php&action=Failed&by=dd" target="main-frame">付款失败</a></li>            <li><a href="<?php echo home_url(); ?>/wp-admin/admin.php?page=eshop-orders.php&action=Completed&by=dd" target="main-frame">成功订单</a></li>            <li><a href="<?php echo home_url(); ?>/wp-admin/admin.php?page=eshop-orders.php&action=Sent&by=dd" target="main-frame">已发货</a></li>            <li><a href="<?php echo home_url(); ?>/wp-admin/admin.php?page=eshop-orders.php&action=Deleted&by=dd" target="main-frame">回收站</a></li>         </ul>               </li>     </ul>
 <?php endif; ?>
 
  <div class="copyright">
@@ -742,17 +742,17 @@
    </div>
 </div>
 <div class="path-bar">
-   <ul>
-      <li class="home"><a target="main-frame" href="<?php echo home_url(); ?>/wp-admin/index-ybp.php">仪 表 盘</a></li>
-      <li><i>/</i><span class="cur"></span></li>
+   <ul> <?php if( current_user_can('supplier') ) : ?>   <li class="home">订单管理</li><li><i>/</i><span class="cur">成功订单</span></li> <?php else: ?>
+      <li class="home"><a target="main-frame" href="<?php echo home_url(); ?>/wp-admin/index-ybp.php">仪 表 盘</a></li>
+      <li><i>/</i><span class="cur"></span></li><?php endif; ?>
    </ul>
 </div>
 
 <div class="admin-wrap">
    <div class="frame-wrap">
 
-      
-      <iframe class="main-frame" width="100%" scrolling="auto" height="auto" frameborder="false" allowtransparency="true" frameborder="0" style="border:0; height:100%; position:relative;overflow:hidden;overflow:auto;" src="<?php echo home_url(); ?>/wp-admin/index-ybp.php" name="main-frame"></iframe>
+      <?php if( current_user_can('supplier') ) : ?> <iframe class="main-frame" width="100%" scrolling="auto" height="auto" frameborder="false" allowtransparency="true" frameborder="0" style="border:0; height:100%; position:relative;overflow:hidden;overflow:auto;" src="<?php echo home_url(); ?>/wp-admin/admin.php?page=eshop-orders.php&action=Completed" name="main-frame"></iframe><?php else: ?>
+      <iframe class="main-frame" width="100%" scrolling="auto" height="auto" frameborder="false" allowtransparency="true" frameborder="0" style="border:0; height:100%; position:relative;overflow:hidden;overflow:auto;" src="<?php echo home_url(); ?>/wp-admin/index-ybp.php" name="main-frame"></iframe><?php endif; ?>
    </div>
 </div>
 

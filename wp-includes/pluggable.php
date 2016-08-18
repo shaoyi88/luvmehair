@@ -913,7 +913,6 @@ if ( !function_exists('wp_safe_redirect') ) :
  * @return void Does not return anything
  **/
 function wp_safe_redirect($location, $status = 302) {
-
 	// Need to look at the URL the way it will end up in wp_redirect()
 	$location = wp_sanitize_redirect($location);
 

@@ -62,15 +62,15 @@ if ( isset($_REQUEST['action']) && 'adduser' == $_REQUEST['action'] ) {
 
 	// Adding an existing user to this blog
 	$new_user_email = $user_details->user_email;
-	$redirect = 'user-new.php';
+	$redirect = 'supplier-new.php';
 	$username = $user_details->user_login;
 	$user_id = $user_details->ID;
 	if ( ( $username != null && !is_super_admin( $user_id ) ) && ( array_key_exists($blog_id, get_blogs_of_user($user_id)) ) ) {
-		$redirect = add_query_arg( array('update' => 'addexisting'), 'user-new.php' );
+		$redirect = add_query_arg( array('update' => 'addexisting'), 'supplier-new.php' );
 	} else {
 		if ( isset( $_POST[ 'noconfirmation' ] ) && is_super_admin() ) {
 			add_existing_user_to_blog( array( 'user_id' => $user_id, 'role' => $_REQUEST[ 'role' ] ) );
-			$redirect = add_query_arg( array('update' => 'addnoconfirmation'), 'user-new.php' );
+			$redirect = add_query_arg( array('update' => 'addnoconfirmation'), 'supplier-new.php' );
 		} else {
 			$newuser_key = substr( md5( $user_id ), 0, 5 );
 			add_option( 'new_user_' . $newuser_key, array( 'user_id' => $user_id, 'email' => $user_details->user_email, 'role' => $_REQUEST[ 'role' ] ) );
@@ -86,7 +86,7 @@ You\'ve been invited to join \'%1$s\' at
 Please click the following link to confirm the invite:
 %4$s' );
 			wp_mail( $new_user_email, sprintf( __( '[%s] Joining confirmation' ), get_option( 'blogname' ) ), sprintf( $message, get_option( 'blogname' ), home_url(), wp_specialchars_decode( translate_user_role( $role['name'] ) ), home_url( "/newbloguser/$newuser_key/" ) ) );
-			$redirect = add_query_arg( array('update' => 'add'), 'user-new.php' );
+			$redirect = add_query_arg( array('update' => 'add'), 'supplier-new.php' );
 		}
 	}
 	wp_redirect( $redirect );
@@ -104,9 +104,9 @@ Please click the following link to confirm the invite:
 			$add_user_errors = $user_id;
 		} else {
 			if ( current_user_can( 'list_users' ) )
-				$redirect = 'users.php?update=add&id=' . $user_id;
+				$redirect = 'supplier.php?orderby=registered&order=desc&role=supplier&update=add&id=' . $user_id;
 			else
-				$redirect = add_query_arg( 'update', 'add', 'user-new.php' );
+				$redirect = add_query_arg( 'update', 'add', 'supplier-new.php' );
 			wp_redirect( $redirect );
 			die();
 		}
@@ -124,9 +124,9 @@ Please click the following link to confirm the invite:
 			if ( isset( $_POST[ 'noconfirmation' ] ) && is_super_admin() ) {
 				$key = $wpdb->get_var( $wpdb->prepare( "SELECT activation_key FROM {$wpdb->signups} WHERE user_login = %s AND user_email = %s", $new_user_login, $_REQUEST[ 'email' ] ) );
 				wpmu_activate_signup( $key );
-				$redirect = add_query_arg( array('update' => 'addnoconfirmation'), 'user-new.php' );
+				$redirect = add_query_arg( array('update' => 'addnoconfirmation'), 'supplier-new.php' );
 			} else {
-				$redirect = add_query_arg( array('update' => 'newuserconfirmation'), 'user-new.php' );
+				$redirect = add_query_arg( array('update' => 'newuserconfirmation'), 'supplier-new.php' );
 			}
 			wp_redirect( $redirect );
 			die();
@@ -222,7 +222,7 @@ if ( isset($_GET['update']) ) {
 <?php screen_icon(); ?>
 <h2 id="add-new-user"> <?php
 if ( current_user_can( 'create_users' ) ) {
-	echo _x( 'Add New User', 'user' );
+	echo '添加供应商';
 } elseif ( current_user_can( 'promote_users' ) ) {
 	echo _x( 'Add Existing User', 'user' );
 } ?>
@@ -298,7 +298,6 @@ if ( current_user_can( 'create_users') ) {
 	if ( $do_both )
 		echo '<h3 id="create-new-user">' . __( 'Add New User' ) . '</h3>';
 ?>
-<p><?php _e('Create a brand new user and add it to this site.'); ?></p>
 <form action="" method="post" name="createuser" id="createuser" class="validate"<?php do_action('user_new_form_tag');?>>
 <input name="action" type="hidden" value="createuser" />
 <?php wp_nonce_field( 'create-user', '_wpnonce_create-user' ) ?>
@@ -330,18 +329,10 @@ foreach ( array( 'user_login' => 'login', 'first_name' => 'firstname', 'last_nam
 		<td><input name="display_name" type="text" id="display_name" value="" aria-required="true" /></td>
 	</tr>
 	<tr class="form-field">
-		<th scope="row"><label for="url"><?php _e('Website') ?></label></th>
-		<td><input name="url" type="text" id="url" class="code" value="<?php echo esc_attr($new_user_uri); ?>" />例如：aaa.luvmehair.com,bbb.luvmehair.com等</td>
+		<th scope="row"><label for="url"><?php _e('Website') ?> <span class="description"><?php _e('(required)'); ?></span></label></th>
+		<td><input name="url" type="text" id="url" class="code" value="<?php echo esc_attr($new_user_uri); ?>" aria-required="true" />例如：aaa.luvmehair.com,bbb.luvmehair.com等</td>
 	</tr>
 <?php if ( !is_multisite() ) { ?>
-	<tr class="form-field">
-		<th scope="row"><label for="first_name"><?php _e('First Name') ?> </label></th>
-		<td><input name="first_name" type="text" id="first_name" value="<?php echo esc_attr($new_user_firstname); ?>" /></td>
-	</tr>
-	<tr class="form-field">
-		<th scope="row"><label for="last_name"><?php _e('Last Name') ?> </label></th>
-		<td><input name="last_name" type="text" id="last_name" value="<?php echo esc_attr($new_user_lastname); ?>" /></td>
-	</tr>
 <?php if ( apply_filters('show_password_fields', true) ) : ?>
 	<tr class="form-field form-required">
 		<th scope="row"><label for="pass1"><?php _e('Password'); ?> <span class="description"><?php /* translators: password input field */_e('(required)'); ?></span></label></th>
@@ -366,14 +357,9 @@ foreach ( array( 'user_login' => 'login', 'first_name' => 'firstname', 'last_nam
 <?php endif; ?>
 <?php } // !is_multisite ?>
 	<tr class="form-field">
-		<th scope="row"><label for="role"><?php _e('Role'); ?></label></th>
-		<td><select name="role" id="role">
-			<?php
-			if ( !$new_user_role )
-				$new_user_role = !empty($current_role) ? $current_role : get_option('default_role');
-			wp_dropdown_roles($new_user_role);
-			?>
-			</select>
+		<th scope="row"></th>
+		<td>
+		<input type="hidden" name="role" value="supplier"></input>
 		</td>
 	</tr>
 	<?php if ( is_multisite() && is_super_admin() ) { ?>
@@ -384,7 +370,7 @@ foreach ( array( 'user_login' => 'login', 'first_name' => 'firstname', 'last_nam
 	<?php } ?>
 </table>
 
-<?php submit_button( __( 'Add New User '), 'primary', 'createuser', true, array( 'id' => 'createusersub' ) ); ?>
+<?php submit_button( '添加供应商', 'primary', 'createuser', true, array( 'id' => 'createusersub' ) ); ?>
 
 </form>
 <?php } // current_user_can('create_users') ?>

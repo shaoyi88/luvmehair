@@ -24,6 +24,7 @@ function _get_list_table( $class, $args = array() ) {
 		'WP_Media_List_Table' => 'media',
 		'WP_Terms_List_Table' => 'terms',
 		'WP_Users_List_Table' => 'users',
+		'WP_Supplier_List_Table' => 'supplier',
 		'WP_Comments_List_Table' => 'comments',
 		'WP_Post_Comments_List_Table' => 'comments',
 		'WP_Links_List_Table' => 'links',

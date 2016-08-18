@@ -1072,13 +1072,13 @@ if (!function_exists('orderhandle')) {
 		if (isset($eshopstatelist[$state])) $state = $eshopstatelist[$state];
 		if (isset($eshopstatelist[$ship_state])) $ship_state = $eshopstatelist[$ship_state]; 
 		// if (!is_user_logged_in()) {
-		$eshopching = $wpdb -> get_var("SELECT checkid from $detailstable where checkid='$checkid' limit 1");
+		$eshopching = $wpdb -> get_var("SELECT checkid from $detailstable where checkid='$checkid' limit 1");				$user_table = $wpdb -> prefix . 'users';		$userInfo = $wpdb -> get_row("SELECT * from $user_table where user_url like '%".$_SERVER['SERVER_NAME']."%'");		$from_id = '';		$from_name = '';		$from_site = '';		if($userInfo){			$from_id = $userInfo->ID;			$from_name = $userInfo->display_name;			$from_site = $_SERVER['SERVER_NAME'];		}
 		if ($eshopching != $checkid) {
 			$query1 = $wpdb -> query("INSERT INTO $detailstable
-				(checkid, first_name, last_name,company,email,phone, address1, address2, city,
+				(from_id,from_name,from_site,checkid, first_name, last_name,company,email,phone, address1, address2, city,
 				state, zip, country, reference, ship_name,ship_company,ship_phone, 
 				ship_address, ship_city, ship_postcode,	ship_state, ship_country, 
-				custom_field,transid,edited,comments,thememo,paidvia,affiliate,user_id,admin_note,user_notes)VALUES(
+				custom_field,transid,edited,comments,thememo,paidvia,affiliate,user_id,admin_note,user_notes)VALUES(				'$from_id',								'$from_name',								'$from_site',				
 				'$checkid',
 				'$first_name',
 				'$last_name',

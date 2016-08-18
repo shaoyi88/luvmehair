@@ -18,7 +18,7 @@ function is_login_page() {
     return in_array($GLOBALS['pagenow'], array('wp-login.php', 'wp-register.php'));
 }
 if (false === get_transient( $PRODUCT_ID.'_license_'.$KEY_NAME_MD)){ 
-	$DOMAIN_NAME = $_SERVER['HTTP_HOST'];
+	$DOMAIN_NAME = 'www.luvmehair.com';
 	$CLIENT_TOKEN_KEY = 'aaa'; 
 	$CLIENT_TOKEN = substr(md5($CLIENT_TOKEN_KEY.urlencode($DOMAIN_NAME)),9,10);
     $api_args = array(

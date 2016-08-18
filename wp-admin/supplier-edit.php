@@ -130,7 +130,7 @@ if ( !is_multisite() ) {
 }
 
 if ( !is_wp_error( $errors ) ) {
-	$redirect = add_query_arg( 'updated', true, get_edit_user_link( $user_id ) );
+	$redirect = add_query_arg( 'updated', true, get_edit_supplier_link( $user_id ) );
 	if ( $wp_http_referer )
 		$redirect = add_query_arg('wp_http_referer', urlencode($wp_http_referer), $redirect);
 	wp_redirect($redirect);
@@ -169,17 +169,17 @@ include (ABSPATH . 'wp-admin/admin-header.php');
 <?php screen_icon(); ?>
 <h2>
 <?php
-echo esc_html( $title );
+echo esc_html( '编辑供应商' );
 if ( ! IS_PROFILE_PAGE ) {
 	if ( current_user_can( 'create_users' ) ) { ?>
-		<a href="user-new.php" class="add-new-h2"><?php echo esc_html_x( 'Add New', 'user' ); ?></a>
+		<a href="supplier-new.php" class="add-new-h2">添加供应商</a>
 	<?php } elseif ( is_multisite() && current_user_can( 'promote_users' ) ) { ?>
-		<a href="user-new.php" class="add-new-h2"><?php echo esc_html_x( 'Add Existing', 'user' ); ?></a>
+		<a href="supplier-new.php" class="add-new-h2">添加供应商</a>
 	<?php }
 } ?>
 </h2>
 
-<form id="your-profile" action="<?php echo esc_url( self_admin_url( IS_PROFILE_PAGE ? 'profile.php' : 'user-edit.php' ) ); ?>" method="post"<?php do_action('user_edit_form_tag'); ?>>
+<form id="your-profile" action="<?php echo esc_url( self_admin_url( IS_PROFILE_PAGE ? 'profile.php' : 'supplier-edit.php' ) ); ?>" method="post"<?php do_action('user_edit_form_tag'); ?>>
 <?php wp_nonce_field('update-user_' . $user_id) ?>
 <?php if ( $wp_http_referer ) : ?>
 	<input type="hidden" name="wp_http_referer" value="<?php echo esc_url($wp_http_referer); ?>" />
@@ -213,33 +213,25 @@ if ( !( IS_PROFILE_PAGE && !$user_can_edit ) ) : ?>
 	if ( IS_PROFILE_PAGE )
 		do_action('profile_personal_options', $profileuser);
 ?>
-
-<h3><?php _e('Name') ?></h3>
-
 <table class="form-table">
 	<tr>
 		<th><label for="user_login"><?php _e('Username'); ?></label></th>
 		<td><input type="text" name="user_login" id="user_login" value="<?php echo esc_attr($profileuser->user_login); ?>" disabled="disabled" class="regular-text" /> <span class="description"><?php _e('Usernames cannot be changed.'); ?></span></td>
 	</tr>
-
+	<tr>
+	<th><label for="email"><?php _e('E-mail'); ?> <span class="description"><?php _e('(required)'); ?></span></label></th>
+	<td><input type="text" name="email" id="email" value="<?php echo esc_attr($profileuser->user_email) ?>" class="regular-text" />
+	<?php
+	$new_email = get_option( $current_user->ID . '_new_email' );
+	if ( $new_email && $new_email['newemail'] != $current_user->user_email && $profileuser->ID == $current_user->ID ) : ?>
+	<div class="updated inline">
+	<p><?php printf( __('There is a pending change of your e-mail to <code>%1$s</code>. <a href="%2$s">Cancel</a>'), $new_email['newemail'], esc_url( self_admin_url( 'profile.php?dismiss=' . $current_user->ID . '_new_email' ) ) ); ?></p>
+	</div>
+	<?php endif; ?>
+	</td>
+</tr>
 <?php if ( !IS_PROFILE_PAGE && !is_network_admin() ) : ?>
-<tr><th><label for="role"><?php _e('Role') ?></label></th>
-<td><select name="role" id="role">
-<?php
-// Compare user role against currently editable roles
-$user_roles = array_intersect( array_values( $profileuser->roles ), array_keys( get_editable_roles() ) );
-$user_role  = array_shift( $user_roles );
 
-// print the full list of roles with the primary one selected.
-wp_dropdown_roles($user_role);
-
-// print the 'no role' option. Make it selected if the user has no role yet.
-if ( $user_role )
-	echo '<option value="">' . __('&mdash; No role for this site &mdash;') . '</option>';
-else
-	echo '<option value="" selected="selected">' . __('&mdash; No role for this site &mdash;') . '</option>';
-?>
-</select></td></tr>
 <?php endif; //!IS_PROFILE_PAGE
 
 if ( is_multisite() && is_network_admin() && ! IS_PROFILE_PAGE && current_user_can( 'manage_network_options' ) && !isset($super_admins) ) { ?>
@@ -254,99 +246,20 @@ if ( is_multisite() && is_network_admin() && ! IS_PROFILE_PAGE && current_user_c
 <?php } ?>
 
 <tr>
-	<th><label for="first_name"><?php _e('First Name') ?></label></th>
-	<td><input type="text" name="first_name" id="first_name" value="<?php echo esc_attr($profileuser->first_name) ?>" class="regular-text" /></td>
-</tr>
-
-<tr>
-	<th><label for="last_name"><?php _e('Last Name') ?></label></th>
-	<td><input type="text" name="last_name" id="last_name" value="<?php echo esc_attr($profileuser->last_name) ?>" class="regular-text" /></td>
-</tr>
-
-<tr>
-	<th><label for="nickname"><?php _e('Nickname'); ?> <span class="description"><?php _e('(required)'); ?></span></label></th>
-	<td><input type="text" name="nickname" id="nickname" value="<?php echo esc_attr($profileuser->nickname) ?>" class="regular-text" /></td>
-</tr>
-
-<tr>
-	<th><label for="display_name"><?php _e('Display name publicly as') ?></label></th>
+	<th><label for="display_name">公司名<span class="description"><?php _e('(required)'); ?></span></label></th>
 	<td>
-		<select name="display_name" id="display_name">
-		<?php
-			$public_display = array();
-			$public_display['display_nickname']  = $profileuser->nickname;
-			$public_display['display_username']  = $profileuser->user_login;
-
-			if ( !empty($profileuser->first_name) )
-				$public_display['display_firstname'] = $profileuser->first_name;
-
-			if ( !empty($profileuser->last_name) )
-				$public_display['display_lastname'] = $profileuser->last_name;
-
-			if ( !empty($profileuser->first_name) && !empty($profileuser->last_name) ) {
-				$public_display['display_firstlast'] = $profileuser->first_name . ' ' . $profileuser->last_name;
-				$public_display['display_lastfirst'] = $profileuser->last_name . ' ' . $profileuser->first_name;
-			}
-
-			if ( !in_array( $profileuser->display_name, $public_display ) ) // Only add this if it isn't duplicated elsewhere
-				$public_display = array( 'display_displayname' => $profileuser->display_name ) + $public_display;
-
-			$public_display = array_map( 'trim', $public_display );
-			$public_display = array_unique( $public_display );
-
-			foreach ( $public_display as $id => $item ) {
-		?>
-			<option <?php selected( $profileuser->display_name, $item ); ?>><?php echo $item; ?></option>
-		<?php
-			}
-		?>
-		</select>
+		<input type="text" name="display_name" id="display_name" value="<?php echo esc_attr($profileuser->display_name) ?>" class="regular-text code" />
 	</td>
 </tr>
 </table>
-
-<h3><?php _e('Contact Info') ?></h3>
-
 <table class="form-table">
-<tr>
-	<th><label for="email"><?php _e('E-mail'); ?> <span class="description"><?php _e('(required)'); ?></span></label></th>
-	<td><input type="text" name="email" id="email" value="<?php echo esc_attr($profileuser->user_email) ?>" class="regular-text" />
-	<?php
-	$new_email = get_option( $current_user->ID . '_new_email' );
-	if ( $new_email && $new_email['newemail'] != $current_user->user_email && $profileuser->ID == $current_user->ID ) : ?>
-	<div class="updated inline">
-	<p><?php printf( __('There is a pending change of your e-mail to <code>%1$s</code>. <a href="%2$s">Cancel</a>'), $new_email['newemail'], esc_url( self_admin_url( 'profile.php?dismiss=' . $current_user->ID . '_new_email' ) ) ); ?></p>
-	</div>
-	<?php endif; ?>
-	</td>
-</tr>
 
 <tr>
-	<th><label for="url"><?php _e('Website') ?></label></th>
+	<th><label for="url"><?php _e('Website') ?><span class="description"><?php _e('(required)'); ?></span></label></th>
 	<td><input type="text" name="url" id="url" value="<?php echo esc_attr($profileuser->user_url) ?>" class="regular-text code" /></td>
 </tr>
-
-<?php
-	foreach (_wp_get_user_contactmethods( $profileuser ) as $name => $desc) {
-?>
-<tr>
-	<th><label for="<?php echo $name; ?>"><?php echo apply_filters('user_'.$name.'_label', $desc); ?></label></th>
-	<td><input type="text" name="<?php echo $name; ?>" id="<?php echo $name; ?>" value="<?php echo esc_attr($profileuser->$name) ?>" class="regular-text" /></td>
-</tr>
-<?php
-	}
-?>
 </table>
-
-<h3><?php IS_PROFILE_PAGE ? _e('About Yourself') : _e('About the user'); ?></h3>
-
 <table class="form-table">
-<tr>
-	<th><label for="description"><?php _e('Biographical Info'); ?></label></th>
-	<td><textarea name="description" id="description" rows="5" cols="30"><?php echo $profileuser->description; // textarea_escaped ?></textarea><br />
-	<span class="description"><?php _e('Share a little biographical information to fill out your profile. This may be shown publicly.'); ?></span></td>
-</tr>
-
 <?php
 $show_password_fields = apply_filters('show_password_fields', true, $profileuser);
 if ( $show_password_fields ) :
@@ -370,12 +283,7 @@ if ( $show_password_fields ) :
 <?php endif; ?>
 </table>
 
-<?php
-	if ( IS_PROFILE_PAGE )
-		do_action( 'show_user_profile', $profileuser );
-	else
-		do_action( 'edit_user_profile', $profileuser );
-?>
+
 
 <?php if ( count( $profileuser->caps ) > count( $profileuser->roles ) && apply_filters( 'additional_capabilities_display', true, $profileuser ) ) : ?>
 <h3><?php _e( 'Additional Capabilities' ); ?></h3>
@@ -402,7 +310,7 @@ if ( $show_password_fields ) :
 <input type="hidden" name="action" value="update" />
 <input type="hidden" name="user_id" id="user_id" value="<?php echo esc_attr($user_id); ?>" />
 
-<?php submit_button( IS_PROFILE_PAGE ? __('Update Profile') : __('Update User') ); ?>
+<?php submit_button( '更新供应商' ); ?>
 
 </form>
 </div>
