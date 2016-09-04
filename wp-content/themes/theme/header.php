@@ -35,7 +35,7 @@
 
 <link href="<?php bloginfo( 'template_url' ); ?>/style.css" rel="stylesheet" media="screen and (min-width:641px)">
 
-<link href="<?php bloginfo( 'template_url' ); ?>/mobile.css" rel="stylesheet" media="screen and (max-width:640px)">
+<link href="<?php bloginfo( 'template_url' ); ?>/mobile.css?v=1" rel="stylesheet" media="screen and (max-width:640px)">
 
 <script src="<?php bloginfo( 'template_url' ); ?>/js/jquery.min.js"></script>
 

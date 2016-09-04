@@ -1405,8 +1405,10 @@ font-size:16px;}
 	position:relative;
 	height:30px;
 	overflow:hidden
-	}	
-	
+	}
+.product-desc-tabs h2{
+	width:100px;
+}
 .detail-tabs h2{
 	display:inline-block;
 	vertical-align:top;
@@ -1433,7 +1435,6 @@ font-size:16px;}
 	overflow:hidden
 	}
 .product-detail-pic{
-	display:none;
 	overflow:hidden;
 	}	
 .product-detail-pic .layout{

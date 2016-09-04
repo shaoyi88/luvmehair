@@ -52,7 +52,6 @@ if (isset($_GET['eshopddata'])) {
 </form>
 <?php
 } 
-// admin note handling
 if (isset($_POST['change_shoping'])) {
 	$items_table = $wpdb -> prefix . 'eshop_order_items';
 	$sid = $_POST['sid'];
@@ -80,7 +79,6 @@ if (isset($_POST['eshop-adnote'])) {
 if (!function_exists('displayorders')) {
 	function displayorders($type, $default) {		
 		global $wpdb, $eshopoptions; 
-		// these should be global, but it wasn't working *sigh*
 		$phpself = esc_url($_SERVER['REQUEST_URI']);
 		$dtable = $wpdb -> prefix . 'eshop_orders';
 		$itable = $wpdb -> prefix . 'eshop_order_items';
@@ -88,23 +86,23 @@ if (!function_exists('displayorders')) {
 		$q = trim($_GET['q']);
 		if (isset($_GET['type'])) {
 			switch ($_GET['type']) {
-				case'id':// date descending
+				case'id':
 					$where = "AND id ='$q'";
 					$sa = 'selected';
 					break;
-				case'email':// date descending
+				case'email':
 					$where = "AND email like '%$q%'";
 					$sb = 'selected';
 					break;
-				case'username':// date descending
+				case'username':
 					$where = "AND (first_name like '%$q%' OR first_name like '%$q%')";
 					$sc = 'selected';
 					break;
-				case'dateline':// date descending
+				case'dateline':
 					$where = "AND edited like '%$q%'";
 					$sd = 'selected';
 					break;
-				case'logistics_notes':// date descending
+				case'logistics_notes':
 					$where = "AND logistics_notes like '%$q%'";
 					$sd = 'selected';
 					break;
@@ -119,23 +117,23 @@ if (!function_exists('displayorders')) {
 			$cda = $cdd = $ctn = $cca = $cna = '';
 			if (isset($_GET['by'])) {
 				switch ($_GET['by']) {
-					case'dd':// date descending
+					case'dd':
 						$sortby = 'ORDER BY custom_field DESC';
 						$cdd = ' class="current"';
 						break;
-					case'tn':// transaction id numerically
+					case'tn':
 						$sortby = 'ORDER BY transid ASC';
 						$ctn = ' class="current"';
 						break;
-					case'na':// name alphabetically (last name)
+					case'na':
 						$sortby = 'ORDER BY last_name ASC';
 						$cna = ' class="current"';
 						break;
-					case'ca':// company name alphabetically
+					case'ca':
 						$sortby = 'ORDER BY company ASC';
 						$cca = ' class="current"';
 						break;
-					case'da':// date ascending
+					case'da':
 					default:
 						$sortby = 'ORDER BY custom_field ASC';
 						$cda = ' class="current"';
@@ -301,8 +299,7 @@ if (!function_exists('displayorders')) {
 				$move = array();
 				$c = 0;
 				foreach($myrowres as $myrow) {
-					// total + products
-					$c++; //count for the  number of results.
+					$c++; 
 					$checkid = $myrow -> checkid;
 					$itemrowres = $wpdb -> get_results("Select * From $itable where checkid='$checkid'");
 					$total = 0;
@@ -316,7 +313,6 @@ if (!function_exists('displayorders')) {
 					} 
 					
 					$status = $type; 
-					// if($x>0){
 					$thisdate = eshop_real_date($myrow -> custom_field);
 
 					$calt++;
@@ -329,7 +325,6 @@ if (!function_exists('displayorders')) {
 					$currsymbol = $eshopoptions['currency_symbol'];
 					$ic = $x-1;
 					$userlink = '';
-					//业务员
 					$salesman_option = $selected = '';
 					$usermeta_table = $wpdb -> prefix . 'usermeta';
 					$user_arr = $wpdb->get_results("SELECT * FROM $usermeta_table WHERE meta_key = 'wp_capabilities' AND meta_value like '%yewu%'",'ARRAY_A');
@@ -369,10 +364,8 @@ if (!function_exists('displayorders')) {
 					<td headers="customer numb' . $c . '"><a href="' . $phpself . '&amp;view=' . $myrow -> id . '" title="' . __($detailMsg, 'eshop') . '">'.$detailMsg.'</a></td>
 					' . '<td style="padding:8px 0 0 16px;" headers="bulk numb' . $c . '"><label for="move' . $c . '">Move #' . $c . '</label><input type="checkbox" value="' . $checkid . '" name="move[]" id="move' . $c . '" />'
 					 . "</td></tr>\n"; 
-					// }
 				} 
 				echo "</tbody></table></div>\n"; 
-				// paginate
 				echo '<div class="paginate tablenav-pages stuffbox">';
 				if ($records != $max) {
 					$eecho = $page_links;
@@ -387,8 +380,6 @@ if (!function_exists('displayorders')) {
 					echo "<ul class='page-numbers'>\n\t<li>" . join("</li>\n\t<li>", $eecho) . "</li>\n<li>" . '<a href="' . $thispage . '">' . __('显示所有订单', 'eshop') . '</a>' . "</li>\n</ul>\n";
 				} 
 				echo '<br /></div>'; 
-				// end
-				// moved order status box
 				?>
 				<fieldset id="changestat"><legend><?php if(current_user_can('supplier')){echo "Change the Status of Order";}else{ _e('切换订单状态', 'eshop');}?></legend>
 				<p class="submit eshop"><label for="mark"><?php if(current_user_can('supplier')){echo "Change the Status of Order to";}else{_e('切换订单状态为：', 'eshop');}?></label>
@@ -423,7 +414,6 @@ if (!function_exists('displayorders')) {
 				?>" /></p>
 				</fieldset></form>
 				<?php 
-				// order status box code end
 				if ($type == 'Deleted') {
 
 					?>
@@ -532,17 +522,11 @@ if (!function_exists('displayorders')) {
 			echo '<div class="updated fade">' . __('That order has now been deleted from the system.', 'eshop') . '</div>';
 		} 
 	} 
-	// sub sub menu - may change to a little form:
 	$phpself = '?page=' . $_GET['page'];
 	$dtable = $wpdb -> prefix . 'eshop_orders';
 	$itable = $wpdb -> prefix . 'eshop_order_items';
 	$stable = $wpdb -> prefix . 'eshop_states';
 	$ctable = $wpdb -> prefix . 'eshop_countries';
-	// $eshopoptions = get_option('eshop_plugin_settings');
-	/**
-	 * ##########
-	 * ##########
-	 */
 	if ((isset($_GET['viewemail']) && is_numeric($_GET['viewemail'])) || isset($_POST['thisemail'])) {
 		include 'eshop-email.php';
 	} 
@@ -553,9 +537,7 @@ if (!function_exists('displayorders')) {
 
 	
 	else {
-		// paypal tries upto 4 days after a transaction.
 		$delit = 4;
-		// $wpdb->query("UPDATE $dtable set status='Deleted' where status='Pending' && edited < DATE_SUB(NOW(), INTERVAL $delit DAY)");
 		$updated_orders = $wpdb -> get_results("SELECT checkid FROM $dtable WHERE status='Pending' && edited < DATE_SUB(NOW(), INTERVAL $delit DAY)");
 		if (count($updated_orders) > 0) {
 			$wpdb -> query("UPDATE $dtable set status='Deleted' where status='Pending' && edited < DATE_SUB(NOW(), INTERVAL $delit DAY)");
@@ -563,21 +545,18 @@ if (!function_exists('displayorders')) {
 				do_action('eshop_order_status_updated', $updated_order -> checkid, 'Deleted');
 			} 
 		} 
-		// try and move all orders that only have downloadable products
 		$moveit = $wpdb -> get_results("Select checkid From $dtable where downloads='yes'");
 
 		foreach($moveit as $mrow) {
 			$pdownload = $numbrows = 0;
 			$result = $wpdb -> get_results("Select down_id From $itable where checkid='$mrow->checkid' AND post_id!='0'");
 			foreach($result as $crow) {
-				// check if downloadable product
 				if ($crow -> down_id != '0')
 					$pdownload++;
 
 				$numbrows++;
 			} 
 			if ($pdownload == $numbrows) {
-				// in theory this will only activate if the order only contains downloads
 				$wpdb -> query("UPDATE $dtable set status='Sent' where status='Completed' && checkid='$mrow->checkid'");
 				do_action('eshop_order_status_updated', $mrow -> checkid, 'Sent');
 			} 
@@ -892,9 +871,7 @@ if (!function_exists('displayorders')) {
 				$status = __('已删除订单', 'eshop');
 
 			} 
-			}
-			
-			// moved order status box
+			}
 			echo "<div id=\"eshopformfloat\"><form id=\"orderstatus\" action=\"" . $phpself . "\" method=\"post\">";
 
 			?>
@@ -923,9 +900,7 @@ if (!function_exists('displayorders')) {
 			?>" />
 	</fieldset></form></div>
 	<?php 
-				echo '';
-
-			// order status box code end			if(current_user_can('supplier')){
+				echo '';			if(current_user_can('supplier')){
 				echo '<h3 class="status">
 
 			<span>' . __('Order Number', 'eshop') . ' <small>:' . $view . '</small></span>  
@@ -1019,7 +994,6 @@ if (!function_exists('displayorders')) {
 				$eprodlink = $myrow -> post_id;
 				$total = $total + $value;
 				$itemid = $myrow -> item_id; 
-				// diy_option
 				if ($myrow -> diy_option != '') {
 					$diy_option_v_arr = array();
 					$diy_option_arr = explode(',', $myrow -> diy_option);
@@ -1035,18 +1009,15 @@ if (!function_exists('displayorders')) {
 						$diy_option_str .= '<strong>' . $diy_option_name . ':</strong>' . $diy_option_v[$diy_option_name]['title'] . ' <br />';
 					} 
 				} 
-				// enfdiy_option
 				if ($eprodlink != 0)
 					$itemid = '' . $diy_option_str;
 
 				if ($myrow -> optsets != '')
-					$itemid .= '' . nl2br($myrow -> optsets) . ''; 
-				// check if downloadable product
+					$itemid .= '' . nl2br($myrow -> optsets) . ''; 
 				$dordtable = $wpdb -> prefix . 'eshop_download_orders';
 				$downstable = $wpdb -> prefix . 'eshop_downloads';
 				$downloadable = '';
-				if ($myrow -> down_id != '0') {
-					// item is a download
+				if ($myrow -> down_id != '0') {
 					$dlinfo = $wpdb -> get_row("SELECT d.downloads, d.id FROM $dordtable as d, $downstable as dl WHERE d.checkid='$myrow->checkid' AND dl.id='$myrow->down_id' AND d.files=dl.files");
 					if (isset($dlinfo -> downloads)) {
 						$downloadable = '<span class="downprod">' . __('Yes - remaining:', 'eshop');
@@ -1055,7 +1026,6 @@ if (!function_exists('displayorders')) {
 						$downloadable = __('Download Item Missing', 'eshop');
 					} 
 				} 
-				// add in a check if postage here as well as a link to the product
 				$showit = $myrow -> optname;
 				$calt++;
 				$alt = ($calt % 2) ? '' : ' class="alternate"';
@@ -1213,7 +1183,6 @@ if (!function_exists('displayorders')) {
 					echo '<hr class="eshopclear" />';
 				} 
 			} 
-			// admin note form goes here
 			?><hr>
 	<form method='post' action="" id="eshop-anote"><fieldset>
 	<p><label for="eshop-adnote"><b style="color:#ff0000;"><?php if(current_user_can('supplier')){echo " Shipping Information（after shipped,pls add tracking number,E.g: DHL 28174192)";}else{echo "物流信息(发货后，请填写单号，如:  DHL 28174192)";}?> </b></label><br />
