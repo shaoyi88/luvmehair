@@ -225,8 +225,8 @@ if (!function_exists('display_cart')) {
 						// $toreplace=array(" ","-","$","\r","\r\n","\n","\\","&","#",";");
 						$accid = $productid . $key;
 						$accid = 'c' . md5($accid); //str_replace($toreplace, "", $accid);
-						$echo .= '<label for="' . $accid . $iswidget . '"><a style="font-size:18px;" class="qty_add" data-id="' . $accid . $iswidget . '" data-price="'.$disc_line.'" href="javascript:void(0)"><img src="/uploads/eshop_files/reduce.png" name="reduce" /></a>&nbsp
-						<input class="short" style="height:20px;" type="text" id="' . $accid . $iswidget . '" name="' . $productid . '[' . $key . ']" value="' . $opt["qty"] . '" size="3" maxlength="3" />&nbsp<a style="font-size:20px;" class="qty_reduce" data-id="' . $accid . $iswidget . '" data-price="'.$disc_line.'" href="javascript:void(0)"><img src="/uploads/eshop_files/add.png" name="reduce" /></a></label>';
+						$echo .= '<label for="' . $accid . $iswidget . '"><a style="font-size:18px;" class="qty_reduce" data-id="' . $accid . $iswidget . '" data-price="'.$disc_line.'" href="javascript:void(0)"><img src="/uploads/eshop_files/reduce.png" name="reduce" /></a>&nbsp
+						<input class="short" style="height:20px;" type="text" id="' . $accid . $iswidget . '" name="' . $productid . '[' . $key . ']" value="' . $opt["qty"] . '" size="3" maxlength="3" />&nbsp<a style="font-size:20px;" class="qty_add" data-id="' . $accid . $iswidget . '" data-price="'.$disc_line.'" href="javascript:void(0)"><img src="/uploads/eshop_files/add.png" name="reduce" /></a></label>';
 					} else {
 						$echo .= $opt["qty"];
 					} 

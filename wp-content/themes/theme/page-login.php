@@ -53,7 +53,7 @@ $(document).ready(function(){
 			 arg[arg5]='Update Cart';
 			 $.post("/shopping-cart", arg,
 			    function(data){
-			      window.location.reload();
+			      window.location.href = '/shopping-cart';
 			  });
 		})
 		
@@ -82,7 +82,7 @@ $(document).ready(function(){
 			 arg[arg5]='Update Cart';
 			 $.post("/shopping-cart", arg,
 			    function(data){
-			      window.location.reload();
+				 window.location.href = '/shopping-cart';
 			  });
 		})        
     })

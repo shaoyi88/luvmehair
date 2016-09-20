@@ -596,11 +596,11 @@ the_tags();
 
                  <div class="product-desc-tabs">
 
-                    <h2 class="current">Product Detail</h2>
+                    <h2 class="current">Product Details</h2>
 
-                    <h2>Feedback</h2>
+                    <h2>Feedback(<?php echo Reviews_num();?>)</h2>
 
-                    <h2>Shipment Options</h2>
+                    <h2>Shipment & Payment</h2>
 
                     <h2>Seller Guarantees</h2>
 
@@ -873,7 +873,7 @@ the_tags();
     </section>
 <style>
 .product-desc-tabs{
-    border-bottom: 2px solid #cb2027;
+    border-bottom: 2px solid #000;
 }
 .product-desc-tabs h2 {
     display: inline-block;
@@ -881,15 +881,15 @@ the_tags();
     height: 30px;
     line-height: 30px;
     padding: 0 15px;
-    background: #6f6f6f;
+    background: #fab23a;
     font-size: 14px;
-    color: #fff;
+    color: #000;
     cursor: pointer;
     border-radius: 3px 3px 0 0;
     font-weight: bold;
 }
 .product-desc-tabs h2.current {
-    background: #cb2027;
+    background: #000;
     color: #fff;
 }
 @media screen and (max-width: 641px){

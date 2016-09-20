@@ -68,16 +68,20 @@ if( is_category()){
       
 <?php
 $order=$_GET['order'];
+if(!$order){
+	$order = 'purchases';
+}
+echo $order;
 $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
 ?>
 	  <section class="page-bar">
          <nav class="sort-by">
 
             <ul>
-               <li class="selected"><a href="<?php echo curPageURL();?>?order=pubtime">New<b class="arrow-down"></b></a></li>
-               <li><a href="<?php echo curPageURL();?>?order=purchases">Sales<b class="arrow-down"></b></a></li>
-               <li><a href="<?php echo curPageURL();?>?order=price">Price<b class="arrow-down"></b></a></li>
-               <li><a href="<?php echo curPageURL();?>?order=pricea">Price<b class="arrow-up"></b></a></li>
+            	<li <?php if($order=='purchases') echo 'class="selected"';?> ><a href="<?php echo curPageURL();?>?order=purchases">Sales<b class="arrow-down"></b></a></li>
+               <li <?php if($order=='pubtime') echo 'class="selected"';?> ><a href="<?php echo curPageURL();?>?order=pubtime">New<b class="arrow-down"></b></a></li>
+               <li <?php if($order=='price') echo 'class="selected"';?> ><a href="<?php echo curPageURL();?>?order=price">Price<b class="arrow-down"></b></a></li>
+               <li <?php if($order=='pricea') echo 'class="selected"';?> ><a href="<?php echo curPageURL();?>?order=pricea">Price<b class="arrow-up"></b></a></li>
             </ul>
          </nav>
          <div class="pages"><?php echo izt_pagenavi();?></div>
